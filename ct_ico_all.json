@@ -52,7 +52,7 @@
         ]
       },
       {
-        "ct": "Unknown",
+        "ct": "Undefined",
         "lt_ico_app": [
           {
             "packageApp": "com.actionlauncher.playstore",
