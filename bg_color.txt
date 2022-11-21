@@ -1,3 +1,4 @@
+#00FFFFFF
 #041b2d
 #47cacc
 #63bcc9
