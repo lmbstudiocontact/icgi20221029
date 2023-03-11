@@ -1,0 +1,2740 @@
+[
+  {
+    "lt_ct": [
+      {
+        "ct": "Undefined",
+        "lt_ico_app": [
+          {
+            "pkg": "com.teslacoilsw.launcher",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+RMCyBcCRdEftxDedjtQDMXlsiXxoIyU/hG7NiHS4opVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.actionlauncher.playstore",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifF6GhLWLbXl4+xTIScDVhfGF7BbEoGa5zUkEQbMaPaJZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.camel.corp.universalcopy",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif5zSVzAzYLv/W/GiVY+vgKLsgvr3E1XTId6FHlF3eX0ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "net.dinglisch.android.taskerm",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid2qh5UPHyvlFeKT8rfTZmIT3nMy/RTYp2JtwDiEwLEJZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.marvin.talkback",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbQatS7FWIDHN7KfwudJLVDR8YFW8meMz50i1kAr9kFJVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Personalization",
+        "lt_ico_app": [
+          {
+            "pkg": "net.nurik.roman.muzei",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicG0omZlHnQ/s+f4TmH7hiPi/se1OHI7JE52FEf7Wp00pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.nearme.themespace",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicDM8h+PISXNzqX1ZQ2XIvrRCxlM0XC43LHi9RmLQc65JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.anddoes.launcher",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieo2z1nEYLNhYgbNMbTZ6IJRjDH5uwBexNfXvIkCfsZVJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.perfectapps.muviz",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZ0YAFIRTVdANzofS+GnJs3COtjhIOE7LPQz6lNRz4BJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.wallpaper",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlvRTiYbGf+kNh6NfZXhZ9033UbZYoPQXUooLJxd9Za5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.b_lam.resplash",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifiOv5HO+XNi2NxwG+s2R5V2IazP2eIQhwQ0WnxEaYnTZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.adw.launcher",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieAw0Zq8Ju6+C6cIHf+j7JniJ/rNh2Yrlsl0uVAkPuRfZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "net.zedge.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic+u4XLUcMl8/YlyGRbin0HD3N8hBNAIqCH1NYyiXzizJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.motorola.actions",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMmmLbPqD2sA0yDT/sqdNLEKB7X6BYINB2K16GlRF8XpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.microsoft.launcher",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOZpkGTYgmSxCJwdxhVTkA2OIfWe01q+flEz5scRXUbpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "ginlemon.flowerpro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJ08nKE0pU++uF9SrOxQjZwmybpTikhGEg5iHRDjTD2ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.kustom.wallpaper",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiceZ5qy2LQxNkdjWobWkyERkKeWj1EHVnsJHswO2yoXxpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.lbe.parallel.intl",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifcSrDBSqhtFWwzZ1wy98jML6/pLMDPwwO9Ba5bymMl1pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.backdrops.wallpapers",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieYBgaTjiFZ/WYBrUVwaJSoQ41r7d32IYGKF5TU4ozBG5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "ginlemon.flowerfree",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJ08nKE0pU++uF9SrOxQjZwmybpTikhGEg5iHRDjTD2ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "ch.deletescape.lawnchair.plah",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiegfCFR89WWmpb9ASAYGsr34q2mTu1YCqoLQTr6E25qqJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "projekt.substratum",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicstQn/fqaCkf6NGg/WuGh9FLJieOaPQB0XjpH03gvV2pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.gamelounge.chroomakeyboard",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiebU2ojNCJNEwxmZcqljHR+GaNfOKK9NUYU/UxO8bTUvpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.achep.acdisplay",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSgnDaLvWqeJVSWiuTkGNdOCN4sIUkm7o4q4hTJP9YJJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.motorola.moto",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMmmLbPqD2sA0yDT/sqdNLEKB7X6BYINB2K16GlRF8XpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.kustom.widget",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5mtKd3FnHkx079K61yIcvMxPT+64bZd+VOi7O8iSMHJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.shanga.walli",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifHtaXiNmfchtf3DbcamH6OQULYAMwSXovzhVH5DiE+HZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.teslacoilsw.launcher.prime",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidEi7wxqtECPwVxeTqLXxc7GNzrs6NBR4cgiwJOp2h9xZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "projekt.andromeda",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqsbVDD66focuv5Wh1YOrE8zDB5wOyo5ia6JOZ6jHbbpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "you.in.spark.energy",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiienQQkiARFI6boByT5E9rp1YDTDpUZvnEHdlAuWmczBeJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "prayer.alert.nine",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieDLqZaCzP1BXwELrTRnNFJQ3sN6WEcm4IcHCV2OJwNLJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.arun.kustomiconpack",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicVnkXmiERNO0FCUa1bUW0eHbwFL9rH4DRmL+WiCPr7N5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "net.pierrox.lightning_launcher_extreme",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif7CTl+3kfjBgFmNsQCa4L2r7dfOBSfwc9KnLPwO13oO5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "projekt.sungstratum",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemzs70jaSTzId9LCut7t17I0krrmEDJwZ2TpoAuQ8O7ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.maxpatchs.ango",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicBOrVBLR6lDRr7Pfv6xbHlNQRJURKLdvMnGgIiLb6ZQpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.b16h22.neonlit",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyCko/Ii8MoU/VbckOkc5gnX6UX3RGfzqNMhrHHa/YlJVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Books & Reference",
+        "lt_ico_app": [
+          {
+            "pkg": "com.sirma.mobile.bible.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicUCYCpJZlvUmSwDkEYFXBH3IHiO95F3b3JFd6pQf88BpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.books",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidldmfSm/vr56sE2S/JdWruV4FRXJMMID0EGb7o+wvv05Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.dictionary",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJg9KGH/CiDez7fo9KTD5tuuOYzH5a9tpau0wpjAsil5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.audible.application",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifaQXrbV+7lEK/Se9OD6Dckhk4NKZNDFxCCb+0AvuwGC5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.htc.guide",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8SVM2AvlYY35zQ5CcbNnWvuTFC4rIPTERUGibxNBVgJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.flyersoft.moonreaderp",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicm2ZRKGWrb4o39ufzmLOSOMCIwZgK68cMKpxog0Rt6GJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.flyersoft.moonreader",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicm2ZRKGWrb4o39ufzmLOSOMCIwZgK68cMKpxog0Rt6GJVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Entertainment",
+        "lt_ico_app": [
+          {
+            "pkg": "com.jio.jioplay.tv",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifA2SHUcAYFuhDdp0vn1SYhDSYPGxRgK41o5uy2ERSCXJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.amazon.avod.thirdpartyclient",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifB4I3NVWMStbMIIcA0sB6bMTIl4VaXJetb0RHZ2LMC9JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "tv.twitch.android.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicu65ZehXLxMUR8fpKvLR/FzVgfNy7C05E32zFdiq/6bJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.youtube.kids",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjSmoEXkW2on6e8a3bdK05TIMHG8i/t6D239q8UFzRipVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.bitstrips.imoji",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifNW/7kyt3DGYmTPIUY+nO+X38Of2TU3IWZ7cBC8fOoQpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.hobi.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicDZg5wtBB8mSn5grTo7smpeONW/wCccFObJhBDQymtZ5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.imdb.mobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicKz8W2QypQkwvYdwn2xERvnDHznIco0QGnQikh6u8jOJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.patreon.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic80oy4YGvtW8nvJ8cp2Gnh+obF/5TtirgqbLbs9ouc0pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.microsoft.xboxone.smartglass",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidzRsK3rq901tjmOGkjVlE7NhEhnbuPcsc2wNBkiPsmJJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.playstation.remoteplay",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiehyY5uX2Prs7R82JLUeXSB/ZLmVatG6PpTyMVu48d0LJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.hulu.plus",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifVWRKa+KjLoYEs94/S/LBdJA1nGTKSYA7TZ0jAuLRv8pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.gamatech.androidclient.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepUkMbF+6tuOttU/5mXye9IaSZFN4uHHtqUq403JtOCZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "in.startv.hotstar",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid1UnAdA2efR547iDodEVGVJ4a9g5F2SN20XU/CMgVK25Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.harman.jblmusicflow",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiegzo+zPv7Ioy0hWccNkfF7m73ZRbnQUYUjlFinY6OG9pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.bt.bms",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZzTOBtLjJAJkd4crgf3o5/feDEhx2qg4Ph/zIxQhFaJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.netflix.mediaclient",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidrBVnsnhS9I+Ou/Vz7hzjjr3vH2MXFEFnskPhEhmZjz5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.ryzmedia.tatasky",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/QkShP2rx3sCxySfuBPy9DIsKNGGKtYalYPm9Md2vwZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.roku.remote",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie3MSXCisGY4PaO5AnV3aRpPHBrm3wKzO1DJr3IBzsFRpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.valvesoftware.steamlink",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicitIP/sWmeXlG4/S9Ds5Rp57xTbOLNivr2ZfjC7afnA5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.scee.psxandroid",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiido5fxqEzR3fxw5/mDWImOlboap3RluW95DoYZTuLaj5pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.play.games",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCh7lFoN7AjDHJk2VcaSqih25zmqPbs7YoONU8F63DZJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "tv.accedo.airtel.wynk",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieL7pRasP6jfCL2cg2lF/4B/MA547y8p9axqggfHRzTEZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.ninegag.android.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiflUUL+wPJq1rkG/6vMlRNeN2UzHIRRSMZdMHdD0juFU5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.tvguidemobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie+NO090TUjfNz7OdPUCIjUQ+v9jhGtCrDzn0qRFhWkEpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.dailymotion.dailymotion",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif5dhAzT9L0s+Ie+qFbAqR/K6SC/NqmzY+mEjjBZfNUOJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.balaji.alt",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiievdJNNWFGWbiuckk9ld7TXdQTGfUP+dxM0WR/vAH43DJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.moviematelite",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLgbvmRbnu8juWeIINSvIrJU128vUYL/KZ/XHS8nUJvpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.jio.media.ondemand",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXYMVgUTb9lCXdZedHIWZD9SjFOh0Y6euFeHAC3c4S5JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.valvesoftware.android.steam.community",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYV8AZ6U5+zhIswb3sh2yLXFfPINDAfAb7CnRiFJg4lpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.buzzfeed.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifV/6O3wUqWpxCfw7fQxZXCvg7jzjJgymKMmgpdyLpusJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.ellation.vrv",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKdFqMIau6GE3gu/SDW2Hz9pt1hxuvmEsNY6ohFbGE1pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.plexapp.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicRXjr78Mmvblysf96QkjNhlOWOx+zz3B7Df9lk25YerZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.cinetrak.mobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTvL0s64e0pHF6/M/f+ijO/f7GFD6D+YkX8yN/2jcw1pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.moviematepro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLgbvmRbnu8juWeIINSvIrJU128vUYL/KZ/XHS8nUJvpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.netflix.android_vr",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2UfM1/90/BDlAWpZCkDysWCbSxMyfJCIlmHN/pzkmv5Vy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Music & Audio",
+        "lt_ico_app": [
+          {
+            "pkg": "com.sony.songpal",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiexiS5Q8vxHZGzMfUnODT4KYbEI3u0M0GwgoLvQnaYubpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "fm.player",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJ1JHIwKW4zefWP/nyStFbLiYG4xoDonxi1NJBktEVQ5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.tbig.playerpro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifudE6MSyKXtf6rx3vZo76ixxn5FcjulndtKVbSBS/qF5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.youtube.music",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifC05NM6diD22a1hJuA+dV3xV+tNIHxN0qJIEBXn5zeG5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sonyericsson.music",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiief1JNAaMa8fVe1Zscci0z73sdbJ8cBMP0h6z9FWtWAzpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.smp.musicspeed",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicudeuxxK2gkvnwciazd9rVu0ZukF3VD+wiXfGFHXsrBZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.amazon.mp3",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicg5bzhbHziLW3NutoqJSpFFZy9/JG41sSYEpATOEJiwZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.musixmatch.android.lyrify",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3pK4466SpcPlZUklHpLvYyGlguvZJcxPW1a2YjNkl2JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.bose.monet",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieBfUNqSlOSJkObzVKrsw6hFVF22AEavBGdSwjOKfLjAZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sec.android.app.music",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicWB6O3ycEs0GzO8KhUIQ3BENU1XTBhATJBbZwRH26UQJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.music",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicZDuEUZ9jdY1sztLWKcEahFdkugEFXtu0MEd0CwQu/Q5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.slipstream.accuradio",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieUT3M6FTz0CTjA/W5DFwlY/d2nrff6ix/8zBAWp/4wQpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "another.music.player",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid9DeJAsfQQ4q+5pw0kpX8qU1RZ5aDPd9PjGQXazhQ2+ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.rhmsoft.pulsar",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUXVdGg1FcLHxuV4q6zqG0V0gAC/kVjwFDogWQzu4VXpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "tunein.player",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfeaRqI4JBrJZ7DZ34YqueCgB/13iXbgaoCIbjvk+MiJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.shazam.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieIf7Cj6xj/iJOprczXPQoYMejLxyiTzf93kz7BDzV5fJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.gaana",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifoCmrZV95U2DL/eaGE6svtN9NGcKth+rnRbyNLh8mZQ5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.maxxt.pcradio",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyUNRO3+gZEaSq2mrGDLYVOkOs3YnxjvIJn0mGw52jepVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "xeus.timbre",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidaCiNBW4f82xIjQfRL1zaZElRY83QRFaj7FHE5UHg395Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.kodarkooperativet.blackplayerex",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidIeFrQ+39ZD3XCU2tgZOM8SUO047ksvHkaPJp/G2oYNJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "fm.castbox.audiobook.radio.podcast",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidhy8nN7bZu/3G9Ik7RSrZSNrEE8rXo2iR5I7SBhRrax5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "code.name.monkey.retromusic",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiffVqcc5UvzvQ9VIuUmbmC7+USuY3wd8K8Sd/NEO3W3r5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.kabouzeid.gramophone",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifO5K6fazWpadMHM5zwAXyTmzyxkXaHNKdp06X33S46PJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.apple.android.music",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiel3FoChRxElwVes/5dh0Q5GmFEbTSrzHW28cVBZlc2IpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.music.star.startag",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicwBMBjGTMIWyww6h/L36vDUHU8/a0rz6b6FrB/0ywitZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.melodis.midomiMusicIdentifier.freemium",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQc4rn/MvZhZLKc7Hbacnx0jMfyfI0Tf5wt/WxRzvB/5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "radiotime.player",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfeaRqI4JBrJZ7DZ34YqueCgB/13iXbgaoCIbjvk+MiJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.miui.player",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6bYaXD8mtwm5v4MREBVtk2Ff9xeMxVZtEbUw201oTJpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.pandora.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifdiiUq8gVUjfr43mlgW6oug3oNOxODYNcJtfGrjgeHEpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.melodis.midomiMusicIdentifier",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+CI3apkoyjz9cMk71enqB6pO/afAcgo+uhh+uBq3zrpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.jio.media.jiobeats",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicZVLi4R3wbsYAa0pMHOXbvLKeyPI5bmb50MN8cREHQI5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.podcasts",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGMXNXM4gYsZMWneBkSgOwLTVjK2jtVROcMdQVIBxNNZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.motorola.fmplayer",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5XlVlEwyfrlFYxFd7P6UJnqsjI1hv8RGKiYmvq5lt0pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.doubleTwist.androidPlayerPro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie9Cq2odNKdr1sqhjxC0b1aAnsMHR1aZ4Iqv9Wqt5ceU5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.bose.soundtouch",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidATjIY3poUqYdSUnOFjKcYr7qmEWJFmTYT5C1cjPPuJZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.podbean.app.podcast",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicknBdd7n3hzhbJtGwUdRAr9cphI/EuTvSX024WxypZhZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "ak.alizandro.smartaudiobookplayer",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidRUUqukIKoS45YXJgPEVYx9fnwQqcT6L3fJR0WEwT2epVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.soundcloud.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieAPuHS2xcw4sVbt4nzjIbyELgc6ujph7AlK3l3YTEMRpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.jrtstudio.AnotherMusicPlayer",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1DMVv8HI1cEo3zuhk8VzJLynF8Arm9w8nnovEufPJW5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.maxmpz.audioplayer",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidEwJ4qHTpAqV0lpEl2sa6sxrUcFq/YqrBMGtfcpr3zupVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.devdnua.equalizer.free",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic5dw+QTET0MTtb7ojKRkcU8JaZOaMeViJkN/o7ASfgpJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.bambuna.podcastaddict",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifwiI19UqXX2USX9eZFHUCdkWZKWyifx3EM7l1sMqKB45Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.rhmsoft.pulsar.pro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUXVdGg1FcLHxuV4q6zqG0V0gAC/kVjwFDogWQzu4VXpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.simplecity.amp_pro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid9DeJAsfQQ4q+5pw0kpX8qU1RZ5aDPd9PjGQXazhQ2+ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.clearchannel.iheartradio.controller",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicPgwpfygSgxVUtheysZSTW3GNMAhGt5gMik1pw1pS3/pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.spotify.music",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieNtf8286eJDXYi+C9UXHJ3I4uUVdPCyUrpEoPque40L5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.doubleTwist.androidPlayer",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie9Cq2odNKdr1sqhjxC0b1aAnsMHR1aZ4Iqv9Wqt5ceU5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.tbig.playerprotrial",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifudE6MSyKXtf6rx3vZo76ixxn5FcjulndtKVbSBS/qF5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.streema.simpleradio",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEVBYeYVFSXCGC7mGelIiLarC2KZ73kcjAg0+oBXOFu5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.maxmpz.audioplayer.unlock",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidaqOmN1l9OK22LAMnkKOLSjiCUpW5WF8T/ANdt73jHsJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.stitcher.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie9aoslsteAmqyBL2hV1szNqFtS/+hZR0QiXJcZIjY64ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.iven.musicplayergo",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifRfCyGy4OSXd7qLf2szClaW2VNDcUTW80xLGoSiEFqaZVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Education",
+        "lt_ico_app": [
+          {
+            "pkg": "com.area120.grasshopper",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieYm7haMgg8EJxB6+i3HIq+h+k1KRnT1F9K+X6r8HJaf5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.blinkslabs.blinkist.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicPoLMZ0OyMVXGQofmesCWgKAsg8RZfqvZW5nE4U4XCGZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sololearn",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVnmalJEsiqHwtBicnHfS6VSrFICd+of4P0aTzDIPIAZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.wonder",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZZqbgPf2+WdR+R/LO5M1sinbyzss3j6jT0y00tWqUHZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.duolingo",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiice70L5E4LEnw/ORV4Txqf5cidcVkhvZrN6UwoyqGoIOpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.languagedrops.drops.international",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieIiLrHKDjgOm86dHlIQwZKruON8zpq1gbJNjTilU8tl5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.classroom",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbvA1rXq4F2/G93bQObaqkrQ+Brm1JwDVGFuz5IX5P65Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.cultural",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieBuf8OZ2vpHxbjXk1keWzBkFsUXd7CebX4kO6nJmgvyJVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Lifestyle",
+        "lt_ico_app": [
+          {
+            "pkg": "com.pinterest",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie4cFrv5bf/SX19ikRj8ydbTAAtKzbSsjGgkALr5r1XFpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.amazon.dee.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/LK/SCI/0HnH/3DDRuR8yqzhZ6IzsMxo+/Vnq04n35pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.samsung.android.oneconnect",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJC2hOV/msS/jVkmbWNQqefKiDFsP23kVr6XITXoVGC5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "de.deutschlandcard.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicNrfOmhx/fwRK/MmZisPIaM5Skx/Th9cVZH/ljSFQ/8pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.delectable.mobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQLOmiFACDr3BIviVZLrheJ6/H2eaY0jCa5fRtZxIF6JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.samsung.android.spay",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietFtAspk4iuEzSlC29CF6y11Gq/PIZMmmteGn65sGiVJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.chromecast.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidEuh73xb18Zhaac2e5GhU6kbrmjim99+LeIaOTJ16MnZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "de.telekom.smarthomeb2c",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezLKZ8flWTxhfA+7bocSWyQi4hCZPnN9aiVAVEm5eyt5Vy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Shopping",
+        "lt_ico_app": [
+          {
+            "pkg": "ro.mercador",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGhwZAjIGtqepwreLywA0PjUn6s6Rozr8158WsGbwNnZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.thecarousell.Carousell",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidT3WNJZzmBs/U2Wo52wpcSpdOLKcfk4McQa2fLgjoyaZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.DramaProductions.Einkaufen5",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidW6rfGZkQtiBQsNKVeQuqzE1wUJ0HOM90JWDfv/j+iK5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.mi.global.shop",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemtA/2uMCZxiasYA0EJKaTXYO7Y1lEGHc04QSTajqfFpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "net.tsapps.appsales",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewFMz2EZkEweRE02bHUyraWM0yQqGV/pZFH2KdenDwU5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.aftership.AfterShip",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicDt8RtIbDdxZ/OV7ApC9P91LwDHpo5abZ1jFR+6QxZ55Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.ebay.mobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5SVhqu4wRCJI/yH3wyCepTt37vNbEMS/p9mEl9X6KAJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.iproject.dominos.ro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3wvk+bHtflqgr4C1VacTuML2z0d4dQWfBD61UxcX8AJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.l",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifI7VlpAEFk3//I2Lf85ES343DbRMPv+dnlunnTatxVFZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.amazon.windowshop",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiceUYFew1dQghSUtaW2kpZU3mOqe0qKaVV/LsQ+x2+39ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "ua.slando",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGhwZAjIGtqepwreLywA0PjUn6s6Rozr8158WsGbwNnZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.shopee.my",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSOy9PWyGreP6lt1A7s5vOFlZInJ6ausTLg4PRum7V75Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.flipkart.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewL7ILHls9gKpn2klFFDJVt4e5pC77QK+uDd0P5tsj/pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "pl.tablica",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGhwZAjIGtqepwreLywA0PjUn6s6Rozr8158WsGbwNnZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.banggood.client",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif88uGxcUbq8KOct0YOKM42MXWhnXHcajf42Zks4A9tYpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.olx.olx",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGhwZAjIGtqepwreLywA0PjUn6s6Rozr8158WsGbwNnZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.alibaba.aliexpresshd",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicBNcxi80idsxwtiSSyurp5M2veR+4iy9x/hUjgJUk4Z5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.amazon.mShop.android.shopping",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiceUYFew1dQghSUtaW2kpZU3mOqe0qKaVV/LsQ+x2+39ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "in.amazon.mShop.android.shopping",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiceUYFew1dQghSUtaW2kpZU3mOqe0qKaVV/LsQ+x2+39ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.schibsted.bomnegocio.androidApp",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGhwZAjIGtqepwreLywA0PjUn6s6Rozr8158WsGbwNnZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.thefancy.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieFn3rrkspB8++q7lFN1Q+N88EVsMXOikdWV5V1iuOPh5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.app.tokobagus.betterb",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGhwZAjIGtqepwreLywA0PjUn6s6Rozr8158WsGbwNnZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.olx.southasia",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGhwZAjIGtqepwreLywA0PjUn6s6Rozr8158WsGbwNnZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.olxmena.horizontal",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGhwZAjIGtqepwreLywA0PjUn6s6Rozr8158WsGbwNnZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.swappa.app.market",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiichr++53IzOkKfyF7VnJ344Z1NHzxtDxz1FeTElCI2I25Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.tourbillon.freeappsnow",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieskBp7NqkF7q2oUYul/ULQDyxir9fgcnjpZlOYDzK5TZVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "News & Magazines",
+        "lt_ico_app": [
+          {
+            "pkg": "com.nis.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpmFHVlyFvSjhEG5tySSNVAjmMpWe33UQ4lLyNh5sRgZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.medium.reader",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCnVxfgqhg/KJ4yH6MNhef4J2QbSJjFlH+d9niXcau55Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.ideashower.readitlater.pro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid9mdLntLjh0+7+p5c4gS/8L2/aaumoRfxAjrPTwQJLB5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "au.com.shiftyjelly.pocketcasts",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJzZAvTrhQYy447dZTY9b6DSO5/WoyUaaEkh4WN4kJJJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "ru.fourpda.client",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfSShppj7WMJ4ug8e2em0HG2XIW1goO0le7ouCKSdv4pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.podcast.podcasts",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiido0TYi9pTJeck2E+yHr10rR3Zoe/q4j7bnlpIAyhGw2pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sony.nfx.app.sfrc",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEwq62sM5gwPzAw4kV6TjsapQyLur9WpvUJdwm+MFU1ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.snoggdoggler.android.applications.doggcatcher.v1_0",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieityhhIHqR/bpKTwB86DS5fu461MUcnkFavKngerFa+ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.zinio.mobile.android.reader",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifPXoqpcjQJnzrglP3cyzvY1z8Ml4FrWBbPVcKWLjcDzJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "flipboard.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifqdj0mn+gTT01x6pzJmfkBtjDEImo2782KdA6h0DrHA5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "free.reddit.news",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqB0InGaxktQRPytEDybOD2V1YTUanQSGI4iYrcsTqL5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.npr.one",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidfpW2HNJnXZN6wcuG0qsFjbMEOWtftfRJXvE3baQsfHpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "me.ccrama.redditslide",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicesdRyVSL9kePKJksVBGGeybcGlQrqtkSSwtaUV38ClJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "bbc.mobile.news.uk",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiichJ8SE3TRWiPHz5+i9wUXm6/uAY3A7EeyizSsn7wgrtJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "bbc.mobile.news.ww",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiichJ8SE3TRWiPHz5+i9wUXm6/uAY3A7EeyizSsn7wgrtJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.levelup.palabre",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidH1vvrXmlKWlRqhlkRJH7kg0XShGIqtvzG4+/HBwfVV5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "reddit.news",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqB0InGaxktQRPytEDybOD2V1YTUanQSGI4iYrcsTqL5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.devhd.feedly",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidO62ZgQoLoelz15iuAZ8gFWGMtWAVhGip5Ftn6WHN/2pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.magazines",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie52NoSTPwhhCk7O8hkbg96XLVDB2QL0KNWKFIrPoKfipVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "jp.gocro.smartnews.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieuhgSEcul4Hgqgh35UbQCW7OyUc9rQ8faitNPYobL/YZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "sanity.podcast.freak",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie79y877+qoz54td4Wt4kV75QzbgZEeO4hEmHEk8f3shJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.malaysiadecides.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMRrzCYrvOa9RfsfvNd8wwVklJOf+unsNF288OoN0nEJVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Maps & Navigation",
+        "lt_ico_app": [
+          {
+            "pkg": "com.ubercab",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTXAeujnB7O4Go4jUMAGRi11EpjFrjRxGGFrPc39VD3ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.waze",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic+MIYnL1JY5LWJofQ+S18jTuC9TOGsYnxK552j17atIZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.olacabs.customer",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicT8iKZj7A2wy8mPsQgnBeCJ7iHK6gAHGDu5H+bDH+sDpVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Dating",
+        "lt_ico_app": [
+          {
+            "pkg": "com.tinder",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbn5TLrY1k8Dgj0MfF3YqXhs4YhHSUCOMBY2aNf0pLDpVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Art & Design",
+        "lt_ico_app": [
+          {
+            "pkg": "com.behance.behance",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiddVF4m6o18DL7L65rXsQSgeZhGuXzRacxRWwdirMJ8y5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.adobe.creativeapps.gather",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCqCPy3+ycSPxufElbMefcL7AyVNEAEoNj9q5sebfHPpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sec.penup",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifLk2xtTBhlH2EHmGsWzgbIeoUYpORIijeQkKAjVHt7pZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.adsk.sketchbook",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieiv0glqNBvkxiGJR/ptonm72oNQQ4cINQm0XqCR4kPCZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.mark.calligraphy",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXcZQaI/RpAUjnb6Rdjgg/JgycIAmMGe3OGt7toPKkM5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.mark.calligrapherpro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXcZQaI/RpAUjnb6Rdjgg/JgycIAmMGe3OGt7toPKkM5Vy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Sports",
+        "lt_ico_app": [
+          {
+            "pkg": "com.mobilefootie.wc2010",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicnF1oAsF0zCqoHJUyqohLON6R9tneGhGOejrzbqhiEM5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.dorna.officialmotogp",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQAzw47W4eNMivbZsCbQSo7+nJUlaqQaD0sFHepPZkb5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "bbc.mobile.sport.ww",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidDMyMjNHlLAo6ku1nKsTR4sK3ZLzytwVdCZcs45k7dF5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "de.motain.iliga",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8kaXTAENZVgMdRY7wseXvQFh/MKUmkY0O8PjPR2Fvq5Vy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Business",
+        "lt_ico_app": [
+          {
+            "pkg": "com.Slack",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieAbm8rsLpG8A4CdC6tXss/G45+37e0E81Ma4xzKVDYn5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "nextapp.fx",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie6LgpW4zfZ0eG8rCGUZmXF3UUR5on1at0jU1ttFk3p8JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.mobisystems.fileman",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsr+25Lum+HhvsaZIP2IYyGgMoxpmFIFw1/zoK46aCEJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.mobisystems.editor.office_registered",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiife/yxaOV/MS/U+F0eNtiWKATGrjspB/kMl8zCE/zXYrpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.samsung.knox.securefolder",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifsJ+4SzyaKJYLS9dzunqe1I3d2Sx8UVJ842dK0HQtIEZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.giant",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTIlr0HNPkTs5gX+1ZWlT63eOSZ4PAjB1uITDHb49CnpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.linkedin.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQUM0jcYpB5RyvLrFpa/529ffTmIz+MKzuWDXFvM7ilZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.adobe.scan.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidItuiuIpEDIJoBOxDapyxb52tk0AUY4ssqwt5hXw25kZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.microsoft.office.lync15",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVmsilbZD9Qq37Doj5Z5JoNXqlVRfVwGYkzEE9y+Y4W5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.facebook.pages.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidWZsSuouawnjtM765FShw1/+xF404GGP4pIkOqyNEYd5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.box.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidD3jUK97UMxD9FbAUyC+x7Zrma5/IwGfOEFbwBCc1SrJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.kman.AquaMail",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie0vobCKT4mf97r52H2/f1yf6MN0PAmGBWETYaTvBDb15Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.ubercab.driver",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczoX4ofo3sSdaVMh6z3eVRmBpBQwJtMjdhfaDynmUMiJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.ninefolders.hd3",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2GZ3KZcKMY10vn0kHI8AxUd8I99izlLdNZNRfn4cDnJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.adwords",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic49NB6GbYYOpLVZhjkUtOIx2QKEY4zjRc927TrpWLA7ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.mobisystems.office",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieK1sOGmDRgSPf4XI9IKpwqwvOeXJblyW0jJKJty7baT5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.bitcubate.busybox.pro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOWFH+2xd3onbSS6Sq5jkNCBY1uCYyjy1IUoupAbh6ApVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.bitcubate.root.busybox.complete",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOWFH+2xd3onbSS6Sq5jkNCBY1uCYyjy1IUoupAbh6ApVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Communication",
+        "lt_ico_app": [
+          {
+            "pkg": "org.thoughtcrime.securesms",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQf+xi5zaHYkAKw4tv8/PUSxjV3eDjkBhCegOyRZVEp5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sec.android.app.sbrowser.beta",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEhxGvJ4EeuEhTJC1LE0ZG1ks3XqVJAqdGuqFWWzBhxJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.opera.browser.beta",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbd3QTKjIevetQZz7G4F9DrdP+yLZwXyBM/g7HcZoJA5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.adblockplus.browser",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicuFin6V6dD7YNNqqwxTxxnljRohaRYom3dfRV4+yFnw5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.contacts",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMstQpyV3UTUZHQ2czktOrlxx55SX0K7Uzk3Dro+k5sZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "net.oneplus.forums",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZtRq8uA31F9yQGNkRECGT+FAduv4i/n8q0u+Vy00o/pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.viber.voip",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicm0TbOdd8qnvq7nhpYaZGxQgKGgiBXl4h2LLkrvpuc3pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.discord",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicRjp6RTiywEorLB9C7+XTpXlmS5sypS/kb1qZZ/fJRHJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.jiochat.jiochatapp",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/qLFNolRMtyQJqNOOOyPzO6L7J7UFboqtTIDMRjFyqZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.clay.redtritium",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiflcua/wHAprnDVKAKI+LSfW9iBmJTRFs4hzx61BfbClJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "kik.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictZTnbzCo5iO5sObIFUBIRXKCXaNXkvbwwR4785UPmHpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "jp.naver.line.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/zylARoF7zQUwRKH/uPd9d6X63OJBmMuqWxIdUrJL3ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.textra",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidhC/G1P3UUYXVDN//Fu2NDVpAfEWpQ5fMeYYCeINdxwpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sec.android.app.sbrowser",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEhxGvJ4EeuEhTJC1LE0ZG1ks3XqVJAqdGuqFWWzBhxJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.microsoft.emmx",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifS8zQR1GhjPp1QlxcIqDaqV0r3bXn8hWHiENMPvkdkv5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.simpler.dialer",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiclxhYO2/b1yr1AdSbtwplLXhKQUKxlyXEoE+LueYF9yJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "ch.protonmail.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicAfDt56D16Pr9uOE0LhX6kgW/8HpgYFW6x2OEhcrQXk5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.facebook.orca",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifsWROH7aUPFAOBf5x5S47OF8dZMc4LH9fWm2DHV8gDEZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.chrome.dev",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidR2L5/nluLLa4fGdCRZt2IPNxuXL1BGt4vx0Thh/5OI5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "de.web.mobile.android.mail",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieO+CcF8qYm2SX/zosqEKZJnQUA7YPjQu1P/H2QnDP2/5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.xda.labs.play",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicRKhTr4DG4c/EQuIThDqWLmlVZ/p2tRoLPdVhKm5bc45Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.android.chrome",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiden8RuGVvSY29dyz0HEVxYJ2lQITr1uLjOm6e61oVKHJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.mozilla.firefox",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicGBoyr3NAKSRRlXKrUyTLNM50i1cMghw7DaSuoh4Y4AJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.opera.mini.native",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiickryFl3KLS708DDGQs99atGoJBQxquvUHqveAU/jKjEpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.mozilla.klar",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiies8BPqFKDJuKzxBiVAAx3psZ9ptb3ll8kw+pyAL30nH5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "xyz.klinker.messenger",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiez4AwJHF2agKonBZa6VXZWrOIeTWqvQ15bnm700EyXGJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.truecaller",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifNYY+n9oZTb5KnqpLVDqchA2HT/5Vs64Xmig1upwONuZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.telegram.plus",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif51xgxcnDLoe2zAQs13Us/BITDyPeeHzmY2akIGsbuMZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.imo.android.imoim",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiddn7srIUnJvkIkEwhMJW77korIqvQvoE4kjpB/nkvMDJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.jio.join",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicy+3SXxOjvH/Hz+agyexdcjCeo3fO3fXWUf0lJVnJnd5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.tencent.mm",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1rJb6SNYdAir6B28Gl1hdc7bAmDfnR4t5PpTqK4t7p5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.messaging",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifsih5UgHInusfiPO4VEOnCc1SGsGRgaJH467INsY9qiZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.kiwibrowser.browser",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid2H3bXTqXEOheF/4KlVgcci9m2GP/wspWCGYvG/PdVMpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.adblockplus.adblockplussbrowser",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiegV62/7UV2w5OybQC8yb+ziL2asHl8vejM48Iu3DXYNJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.whatsapp",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlJ+0iEN2RcRrS3AtFSUzYURyYk129ybGEqIpUJbsUYZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.verizon.messaging.vzmsgs",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieeuOBz/Y/GZc3xYfT15xrRZbfw7m5lXOY797QaM9j7a5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.wearable.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidw+dd+f22SRzIQXxI3bMyl4H2J+y5jswOfMvd5X8WGEpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.whatsapp.w4b",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjfLFzSApAG2irZmo6T1ZkwwcMQa+T/lZuPMXt4vpZJZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.skype.raider",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSWH3+J/augme6ecaa9xWzl0bZPuwjyaPw/pwC1Y8zapVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.mozilla.focus",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiies8BPqFKDJuKzxBiVAAx3psZ9ptb3ll8kw+pyAL30nH5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.opera.browser",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVhR87rlg/ptnYNwnaQkLYhvuWrmuyKovmsmS1AcdSopVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.calea.echo",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicC4qAsF37Baexjim2CVAUhl6Imk5+/F+Gkg5IcE9J32ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.tachyon",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidSoPahaChQxnWjcwsrETUo3v1hd4WLFDuaht8NxzL34JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.opera.mini.native.beta",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifLfqnY4gg6AW9CBNTG7CzHM9Doi7/sH/rpdFvlNStMSZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.gm",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiienWWmDvf1ouWS53Yl1/C3Hoh3F25QGPpiF/Q5SZ8ZN45Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.avast.android.vpn",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifdXaNw73ZBZOo5YfjNHd9sgkLdFofshzEqHxTqRzhpbZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.googlevoice",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieduzPMOVJDt8eNWyZKdq8L4haUQR43FRdsOwTBsKBTDZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.telegram.messenger",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTNz1qhrjpwTcFd4aNQJ7UR8XWYOPPnNGiTVHvqIVAMJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.snapchat.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidf1Og0gISYEhG0/yHqep98alqb2DxbGVZ2ByNb4GxqapVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.mozilla.firefox_beta",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicW7cu642krEIiUcg50f035n7eSO/rOiAzVOg9sP03iqJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.limi.baton",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiife0X/3OtT3NC40Jx6YbAZwRMrGU7UApiCfpEPxcPYP0JVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Social",
+        "lt_ico_app": [
+          {
+            "pkg": "com.phyora.apps.reddit_now",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3DEAlBVpa7ubeprvfvcSU+ONTA153qrAQku0hkfskoZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.zhiliaoapp.musically",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYa7kUNbOrfZwOin2EV3EiLCnrBxhjrW9OoLsKOTc4YJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.bsb.hike",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidzt7n9Nb52Dknygti1CN2Np+ilEdlmeFzp8o7aIRDWX5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.rubenmayayo.reddit",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicG9bIKclR9bfQ9IQF5cZ1C1HTqd6NbEPrutylNxZ7ZZZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.twitter.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidRONkrRrIfxKWk9t4LF+p8o4MZnzNbkk6lUTdUvvWfipVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.buffer.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekNC2HGiXTTZAAif+v18OxYQIbWjDgdb/olg2LpQ4aQJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.deviantart.android.damobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiift2YTfinCine/d776i22GvmQVbzIpa5ynXxybT3lK8RJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.facebook.lite",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPXEW61yXGU0Tn1oUlnJHsn/chlEDvKoifcmEcflNCQZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.vkontakte.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiep6KMVqICoRF0t7DkR4/2ODbUjMVRBBkxHSD15iIA2aZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.quoord.tapatalkHD",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfVhue4cJlgIxlF7o7LNy5dgWNL/L8MJvEo98E1R5Jq5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "photo.video.instasaveapp",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif0wGYv8xpn7F42Gtc/60zQtKssevjZYD65uAVDNUT7q5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.blogger",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieR7vC3w4NhmgJy2QHJwpV+BDWqq0ZTr1s1xgDG0rYsg5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.laurencedawson.reddit_sync.dev",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifCzU54ylmgmMOfDAiRIziLcfzzcJaeZtlWT+ELdsjBuJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.laurencedawson.reddit_sync",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifCzU54ylmgmMOfDAiRIziLcfzzcJaeZtlWT+ELdsjBuJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.facebook.katana",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYG61vtLlbHq/0gDjAkH+fk9SVtkkRDeWXh+FnAGhcGJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.thunderdog.challegram",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEAIWEojyUoWgWcCxt6mHPgwraOaT+nLxltfZ8kKUqtZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.plus",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiied5I+kTdzRgKOqxq3RwLt5X3pduysgR5cp8hh+WcFQ15Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.tumblr",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifLdukTfnAVopVPchrq16MYgowKAJE2m5XNYuMZaROuO5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.onelouder.baconreader",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHkcGTxs9JT4r9JiqPUhMRpIrmZL9+vX5qCwZ6vx+g7pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.andrewshu.android.redditdonation",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifobp+1tHRx6xNtp0f26BA0XsEZyGWjpj/gNX4puK9Xt5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.onelouder.baconreader.premium",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHkcGTxs9JT4r9JiqPUhMRpIrmZL9+vX5qCwZ6vx+g7pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.reddit.frontpage",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicD1tsy3LJBXzhQ2iqo3t5fUO0VBNhbH4KsGcJaZkFyuJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.nhn.android.band",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgKIBrGKtaSwUnkIRnWi1CAaHES6525fhEEtkAmvQKpZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "video.like",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieDi+m2pH40R7hf2yBE3R3oIHfOuGKMT/wWnSz5wYwWDZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.instagram.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifl1xoMZTTzrL5qIW/tUpr5FreVaPFnXaZCY9vw++2kxZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.laurencedawson.reddit_sync.pro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifCzU54ylmgmMOfDAiRIziLcfzzcJaeZtlWT+ELdsjBuJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.andrewshu.android.reddit",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifobp+1tHRx6xNtp0f26BA0XsEZyGWjpj/gNX4puK9Xt5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.quoord.tapatalkpro.activity",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgR9zKJCN4458OdogHcM+9iSm/5kBIkXYgVhC9v9hGfpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "solonsky.signal.twitter",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgl77yCap8lGs4AxK+bV6nHdBd1MZyX1EN5Lu+gA2vgJVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Productivity",
+        "lt_ico_app": [
+          {
+            "pkg": "com.safeincloud.free",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTguhyyLtxz4cW/BuiFh3G5mWw7oKZG0yhXs6bgWqCp5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.mediafire.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif5TOuEs5oWi2pNJItKLTmRZTRVa5wN0HmzFnR2zBH7DpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.dropbox.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid3AZSU6hQ++leV8c9foD4dmV4p6w81ka+iByVHIRM0IZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.todoist",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicD7a9kbJnz7FkwcCZbeC9vI2AdQk8STtfP4ZdvkK6gYZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.docs.editors.docs",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid3z0eqxUvl8tzc/Y4BgQfEZQk0mtXnmvoRjfOejWyDWpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "arun.com.chromer",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie0xtc1alw5O6ohct5oYllGO7HuWsu8yc/nFcKKRncgK5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.htc.lucy",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideYEgANVZM+lTAN+cVBIAaY1O0ByyLz6NNwJBJDqEzfJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.syntellia.fleksy.keyboard",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9OBzyu4vc5vCbQIcN1zeExXGCI9+n5wHwic/daU9yipVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.tasks",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieAq13TdGq1cxkFgyfpb4U5udsWNWv9HwQYefAoF7eT35Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.microsoft.office.word",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTY+voZTgpyNsVY6z6Ss7QAKVBz3MNNOgWnci4VZgsR5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.teamviewer.teamviewer.market.mobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicVgQ9vkqmSy4GgkXAbOWWN3stBoOeAw1BHnkkgs0qpWZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.microsoft.skydrive",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicwdXG6eFJdkejI5XVzOfO+Hs6dHJMvpu/naURAAChafJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.intsig.camscanner",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiichL0LgwApBR+Jmkl5mkGDv8zks7g4oNZXMJ3TQdAb+4pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.docs.editors.sheets",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicavAs2GBINWBXNHsLqvyA+0TseF6z1bbTTRgKJ6bNeupVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.infraware.office.link",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidXVgvqPgQ0e+jkTgVTE2In1aKZbkV44ua12LG6KQzje5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.microsoft.appmanager",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic5GrdhmTqDaX20ipmSYfB7Jb6mTesa2fI3QsuAogbTnJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.oneandone.controlcenter",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekBQj2E5Y5jVcsixyIoWutgj/+rlwsRGF7NixOk9Lc9ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.dencreak.esmemo",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidU1XqC9t/dP4PrhxaWCXSNsfaoSz4sxhyeq6LVKrIGRJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.ifttt.ifttt",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvTUMin9x03lCkC/S5EMvXZOiaK8tksHbNH+t7k2Z6G5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.chrome.canary",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfeN0SVmjFjVFTN8WAisdCCV0M/mUsZB6YfZU9/3kMnZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.microsoft.office.outlook",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSvYCPBGMfjv11CHh2QbJtuVXqIPZU/Eqqj8nujvOOp5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.touchtype.swiftkey.beta",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFLGWENjM4sXEPL2eXbnqvzhOU7UBDo+MmQeEI1fX06pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.adobe.reader",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicX6u0HZTR73h36cvcZtn1uOeOy48oJwnGXdrYkQSKUoJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.genie9.gcloudbackup",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgG6/LvHNB6tsIdYFDsXfF2YymN8bLlvHzpghKbVu90pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.dropbox.paper",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifFKzk90XsJ3meBtlM1xRd5cGAXljyTT6STS9m8wifoDpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.rhmsoft.edit",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifclgeVvHZQtJEw6Gcl9YWhaBYA4HnGB7wF/ht54w3eOpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.rootify.emptyfoldercleaner",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4+VlR72DIszB4/lvhPESAgBzikmUJxuf/BSbPgy9yXpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.adobe.fas",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlpt8eejEzW4w/HQLD3sX+Ayr3t0L62jE9Zul9dmaVs5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.simplemobiletools.notes",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiebUEnvkZaouNaoHbzID3/5AuU6cmZrsgmUuB4Q1s276JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.touchtype.swiftkey",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGU4WM8vORFJk0duI/1ZTBnTV+vL4q7LERh+BVxOabupVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.speedsoftware.explorer",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidfP8VWmVyUMRVPPn4DckAC8lnw2fStdX74/tMJ2ZD8fpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.uberblic.parceltrack",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidt88s8e9Sq+KKDHYp5pjYYeyLHnEBDRm3VwRpe6sAs2pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.enterprise.dmagent",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidV6f1ztejnbr1yVdBGdiGDOHF9CSTJRboiTAI+oSritZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.splendapps.splendo",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiehbZbwlZJY78DfN/0sUBR49XTDoiHYJyc6ReKMVi39SJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "cn.wps.moffice_eng",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYZnNVWdvo/Z1uWxTGrPADP8deMs/qMkgQJJnQTYlcU5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.speedsoftware.rootexplorer",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiierBaeNRNbS5x2rFevMg46BS3eZ0xdziNsMgxGfnwoXFZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.dvtonder.chronus",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidhjHaL0B+WqqNTrs8pfIY3yda95+8O3dhszec8D1cygZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.calendar",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie6v6msid1rK5Lmy7H62qcwmYrsm5jSYkmNtGdrb3Mhz5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.ttxapps.dropsync",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifhqndaCbhlY2ghBcp5CHAcV83VGhksdvVZPfEqXFIJ6ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.chrome.beta",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidf/eXddFHvu5OTNjEjDUrrWho0OW6sxdA46Mj7R3DlEZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.safeincloud",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTguhyyLtxz4cW/BuiFh3G5mWw7oKZG0yhXs6bgWqCp5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.microsoft.office.onenote",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifmkKhJXOduB9CUucK/XpfjUW/ZzWv8s8Or3S8s2WFm3JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.samsung.android.galaxycontinuity",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicf8H4vaNxEpltt6DAO/Ovjhx4MpqEfLJdmoCQoa6WVHpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.microsoft.office.officelens",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiift8pjXUwTHXmkVOehiNt8rA8lFJ5jR5BTsxnTGAxwG3pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.keep",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiec3yopQnoYvTVWEqJELkpJlkatKkmpHMLDXOQiWCmJlZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.htc.android.mail",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieRJ1WeeKM5NOPZdYwSXShrWXYqcRVlapNSwC2FuYN+f5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.rhmsoft.edit.pro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifclgeVvHZQtJEw6Gcl9YWhaBYA4HnGB7wF/ht54w3eOpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.enterprise.cpanel",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTSwkSGgdA/CyaATVj0mwuHiND7O7A4GFpXgBJ1OMbBJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.samsung.android.app.notes",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgcgKnQPBJM2y0TePTJZNa3HeJAME1VTgykTwWzob1/pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.motorola.ccc.notification",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifftU2zR/atAxmQEq0vjNL29Ajc7O+XAunEKcVghlbooJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.htc.calendar",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicBqzc3CgfOQQo2CrqqXbvnrR6WzkFVcBVfxve6QBk+pJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.x8bit.bitwarden",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiegh5yJ/qqFVbUaa38LP1CLpk5dQuSx7hKfrPY1KPOolJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.jio.myjio",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMxenfAEeqbug0gmuw/algJnh3zqKC/uGbxNh73LvcOJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "mega.privacy.android.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifeKHZfI1IYTmh69y/hr8P7Q31Y1+VST0dyHVilXmLaQ5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.dashlane",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTOOzscS4+W4gGW3UNbAWb5AGtc7HbXAWxG/Svsh1LypVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "pl.solidexplorer2",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifpicl5WUN2g5QLZ1t3l9jvxjZnKfnf/CJLLftJ+XZo5ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "jio.cloud.drive",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidKhGfZ6xE8M7tx3Qn0guEj8tAxxff7q3bmfemFsZE7mZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.htc.filemanager",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieNEzsAt3bULAz2dl9xCd3qgf81bQ8hMuApiVpiZI8nxZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.microsoft.todos",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifE7Rbk5JnugOwQRgmsqLWCee+uXWDI6UpdBdskgGSjJpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.pushbullet.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2tbIscBRn03F/2eb8B/HWpB80kIC5b9mSp9lu9fH/SZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.microsoft.office.excel",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBu/3ezJG+iR1pzjvSr5dsU92A+G3WQYYBkgObCLVrGpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.docs",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1NCG3T709JuOyvaTMLOSFlXRsHPJrXZxw2swKD/pmapVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "ru.mail.cloud",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvxAF4HKA0drpoIUgHE9Ere7Cmo8LcGY0RRsYui5plFZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.microsoft.office.powerpoint",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFh0Hi5SUQrCJjUWHgTWYcUMVR8nL3SebimH0oaOZNopVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "de.dpd.mobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidWAzNJni07037cztz/2y++PfUo9llbQFBR9XASUSS80JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.evernote",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifcldzIyrULEmpCxOy58a7M0m5il7uMd7vUViL37F4lE5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.googleassistant",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifq7JDQ0wSMvv1xRqZZBvovyet1Hn0bUPvy6fQ618+6G5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.coloros.backuprestore",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQ3FueNX+mIEFw1j1Va3JcRk4lM4KgFHCjRl2a0Ig5wJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.ticktick.task",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicnTNsUpmQ1gLkpvxQXOpVn3SdBwO5fBIzzHM9Y3s+5rpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.samsung.android.email.provider",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKcDuTtm/PA7XKHIGBW/zsG3QKGbna824shJopVPT5o5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.rocketshipapps.adblockfast",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif7Y+Exl2xo/bFjYURrBVYnTITXcEm4K0RYF7Er0li2F5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.docs.editors.slides",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicGsZdRHpjCHvMCsKms/r6RLn2YLPdmdPI9iF7TFL+ZQpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.anydo",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifaNQD5U7foMZZt73rhBqeXCvZdPQ6u8wORanBfXdZSYpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.gh4a",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLrD+D/N6IQHhcbyww57jNVF0NDv8lqgcn2Fyqh0geLJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.robj.remindee",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieoFwOUJ+30Pvclsn0XjrSw++rLYjThbWVKgyWd/3DzoZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.koushikdutta.inkwire",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicaRRHkWbXtX5tiS/6REEdxX+CvuPXExyVvvgvNFvhaEpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.ttxapps.onesyncv2",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifPxbuu8cnd86xbbvB1L6Qtsj50FdTfnqH5cXkjNb5A35Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.vapefactory.liqcalc.liqcalc",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiexhd9B2FRWF3ff1OV187F9x/XqrHL1XB20HXuwwzFOQJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.SagiL.calendarstatuspro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicX+fp7S4eM9jj3VIRLTnN86R3AMZT6mx4tthnX8ZawiZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.SagiL.calendarstatus",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicX+fp7S4eM9jj3VIRLTnN86R3AMZT6mx4tthnX8ZawiZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "co.easy4u.ncleaner",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifcIXRIGUAUq30IQLuowNnKdHuDhKQW+jMDJcjOWhUtVpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.koushikdutta.vysor",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieYzZ7GfK1g617KBwB8F/IfzzC1xDkkXjz8yMWTBTWTkJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.splendapps.adler",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifiYILR0Siu/9zIYmH5Syapl+vVAtEuZbWNTVqapZQqzZVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Finance",
+        "lt_ico_app": [
+          {
+            "pkg": "com.Splitwise.SplitwiseMobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGHM1xtsqQ0wZc1NSkPhRd5grjwZjPN8BOXyl7cTpKP5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.td",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpn3/tgSCqq7RNBuX9OlFDUhv8TzwhVy1+ykS+rSHK9ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "net.one97.paytm",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5nMDxNlReVSmVsJJcvb1xsU/zSnEHq/+pPI0o7x4bUZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sbi.SBIFreedomPlus",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidcP3wMQ2niDK7DB65VfP8osXYKlUNScxuPt6fqWzWfVZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.freecharge.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidEqTTsru2l7AOcYNzj+oy6IwZGvVAvGPXwEivIeBZgAZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "io.getdelta.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie4iL4u7ZRGc/ChgHtSAYZYi8WkG+rPrnMPmH0riPCuHJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "in.org.npci.upiapp",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4QDculgZpW3JZApmO21XHLGg+kw6/zPuq7VKtEvTpHJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.nbu.paisa.user",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4/OoZjDBgdqCnQn1ky0BNZaEHzQTjM4RO4RL8ZnRn8ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.walletnfcrel",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHXS5x8Mu5weQdXVUL6MK0CRzS4E0mLXNGjWjBheH0NpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.paypal.android.p2pmobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifmGVc6Ata8AC7CUhztjFpG2fmoIJUZJAXu88PcpFZN6pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.chase.sig.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif5QJHSUFJTFEv/MKuxdyWQjfUv96uUsHAbLEKEmxhgGZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.creditkarma.mobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/heliGD+68Golf8FKBR7KmcJ7axYqdyySnSQ42iYCW5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.pnc.ecommerce.mobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicrRc2u/FKvhfuvmrnzYP6ftbLnC03fP2osCd4kCiAExZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sbi.upi",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieN5SNhH9p4Cs/Fmk4Grsb4zV+p9aZmPhakpg7XaP4JNZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.phonepe.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOfxtKugviade35goZ5GRwhwzfEm/I1M8g+E56EnqO6pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.myairtelapp",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiffIcLCFg6XsPyq+ioNQIjTk7+2C9WXwF0VzRdhcMqwjJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.csam.icici.bank.imobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5d2iOLeYLKDf2mq2wydg3q6O8eDruZrT9lrDJdoX7y5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.nu.production",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMqnyKxHeL393O91jwb6zAMgNsE/FSh1+W1JF3imlWv5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.cleevio.spendee",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicBLTdUDF/xeM3qPpqTefHLj9u/qKKt4w2FjmETOR1r45Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.zeykit.dev.cryptomarketcap",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2/2gylmQUVN/zHm2s3i8faixIRkI9owUh9NujzyaDspVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.slapp.subby",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQ7G7Vhp4kHA0JHmHrKpyyrHzkQPdyvefV/Eq1WSvRwJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.centralway.numbrs",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiddttYUvhBZF77eMgAsxDdtig++qpC8hBVvxEgUU25fY5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sbi.SBISecure",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMCPmgN8MFCFUREVk7wBidIucUvXfxXDKpRx2jraf37pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.jsd.cryptoport",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjNZ3tVYhELVerzdQxEoeW4DJuojbrhoBAuk+ZA4FaAZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.tabtrader.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideagIyQrvDoqTH8jYW28ry3JHj6MVbazFRJ3UJZdrhV5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.olacabs.olamoney",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiee+CXSZDh3/KT8obACEqNe953AGAygU9kAh0rkqLdwHZVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Health & Fitness",
+        "lt_ico_app": [
+          {
+            "pkg": "com.sec.android.app.shealth",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidEZ7JlAh47tnIU1JM/uoHolYKxiKLmDKD5DGuTQvAJ15Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.fitness",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+Ht6Z1bDHI/ypA7UcUvMUg/GVf3A8ADhOzkZUlDXkMZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.lge.lifetracker",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidKq0H7vt7ezCHkWMPaQ+wLQ4rHU6bH7k4l3aDo5ic0/pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.medisafe.android.client",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif6s3I6//f4eZIe956GCTxpP+Bv0feo9cdw5xqbk8Y/oJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.fitbit.FitbitMobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOutv8BjnuOXVzCiG5EoZrcVRWPgACPrqTE38M+cAIdpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.motorola.omni",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6i5QGvk+3uomYFNqWNAzVeIgb+EgpZwnPt6hSyFVGAZVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Tools",
+        "lt_ico_app": [
+          {
+            "pkg": "com.digibites.accubattery",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie67jE+HMOeYB3HtvPHhM3yYUy0g7gXJAsKrwHJymjyIZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.zwanoo.android.speedtest",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifnF2FH6+Zvvzwyf5sAPEdoAblnfZlC6yoxnN3gg6KGxpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.playconsole",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid3c9SHTun+Jd6ZenKDgjs7GSykJ/1oaYLSR5gMzU3CWpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.htc.android.worldclock",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicptutVbxbtW+0i0/sps+NMU+lZ1oa89+rcEDU0y/GfVZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.translate",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekrHc5XmfwOzJg5x4hftwMsIqF02SyIZfy2sAYFsOwnJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "net.openvpn.openvpn",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekaQjTbS154I5N0hDEU9jnKAMQwEA3TSYexTJPmxJRWZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.tct.calculator2",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOKX87arwLcKvCz1QZ7WheStU1RD/W8/HNcaOumlfFq5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.googlequicksearchbox",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieduzPMOVJDt8eNWyZKdq8L4haUQR43FRdsOwTBsKBTDZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "stericson.busybox.donate",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifqctGJA63B4Ba9xe7tATPdbHj/Gt2CbuBHkUQMpP9VhpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "idm.internet.download.manager",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieYZyq3QRlVq9k4zNX6OOzVxjTkC/9ViS81PKf00+iyu5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "eu.thedarken.sdm.unlocker",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/HTCLNSj3AdlC8jgF0OgJOffP+Mau50fnk5G+IxwTPpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.samsung.android.app.watchmanager",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSvEtDjNGPuP+ZtGIpWuyyFPYPrPEXelDFKqYuOR4z8JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.mobilityflow.torrent.prof",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4HviqnIOumokz62lSsVoYIwX/V6czjxUnM7dJZHJobpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.avast.android.cleaner",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidr1MEohhXfY+MBSGQG4OwXhH/CFBIY0FkVaX4q4uRwVJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sec.android.app.popupcalculator",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6vqT0oIgl/ElxFPJrAUp802wTdWKCTXo2Lqe16xIBBZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.samsung.android.voc",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDJnrzyv5rCDjnW35h60PwUL2G5EKvSdH8wVYfVhKAXpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.calculator",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidezdIawYpX1AwSDErfjDimBzc/t2eRxJIAnZ1wxSBw/pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sonymobile.support",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKbM+JLkY9sbZ3Qv/9fnCr3xfNFUi3ofG8wPmWKF3q8ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.chromeremotedesktop",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie211s3K/MHnVN+96mJS7hNSO5LaJi9AqHE83bAmEt43JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.antivirus",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicF2FcTzFxDDxVM79B1TIrmHu6r45GdNjxmxjKiPtKGl5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.duokan.phone.remotecontroller",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+sC8sBitLOgu45VG7KNayjr2u6XPH4X8px0mCx1rq6ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.nbu.files",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifQhnOciYyw6VPBpqmOtG10vZby6UN7CSFIkds1AZ1nl5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.motorola.genie",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJP3N52vApV35ycsxLEnc5+j4nIxWu1uC6GEmBDaXap5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.piriform.ccleaner",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbWm/DC958OtiTBTKcfOicnOhfhl2/KfB4rjd0rbKYj5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.franco.kernel",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifLES0bnONb2pF2aHPC5smgw/FwEdR4M54ZaRCuaca0tpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.kustom.widget.pro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5mtKd3FnHkx079K61yIcvMxPT+64bZd+VOi7O8iSMHJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.tycho",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewqpJU/NzyY6HCHHTDrWaBC/tnDW9/0Yf3FSnORZpzeZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.oasisfeng.greenify.pro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLSZU4hycrF/FkJoHx7D8VlMMjThZ6LLap6PmIuEfgE5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.samsung.android.lool",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifhxZFArWmHPTokaSM3cDgJCApkrH8Cw1+zXmfAc4wKDZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.reliancejio.mobilesecurity",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvHKAkAopfJ8osUubPnIePLpTfbWIEVcvbQ8ocRPaLQZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.amaze.filemanager",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifrH2JWFQTWmuGfM49LqoE/giY9jAprDK5w2l2Ywk4Yd5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.xiaomi.midrop",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifP39iVAkQ6U9ScrO65p3/VxuCL+1xZDlT3yXlSxzXSN5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.evezzon.nightowl",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiict22Cn+QYTZ3Zmj1vKmOzzBOttN7GoKPnkhc9KDkoxO5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.linkit.bimatri",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidF0G/dU60y9pLZ9imYGaTcerhwhg68JD+9lA7rWX/ADJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.bitdefender.security",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiichHcgx0DmTVnc7PSTk6hRs3wJNu+6uRTM9Ez4picmPs5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.miui.calculator",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmuuGSQfetbD7MVQOpmMculNJ8YAJE9Zpk45dajF4Jp5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sand.airdroid",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMZqPt0h8hfo/sNh2lwU5g6GwK2xsH42f2j5NPo7CZFJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.adm",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicG4Z3K2BnPGAgHfSXyNswdETre6Ee0Retj3pBh8OmCrJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.adguard.android.contentblocker",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicdUAzWNGXjCzV2DzGEHRwUQcT1mUFMw1nyHMqpL2vX45Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sony.songpal.mdr",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQlcHYSq+Zk6+w8NWAVuwYW5ITaLDJH6cgy5w9JktBRZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.microsoft.bing",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidEdo97mzvjZrdOhkgxCjYJC8PMJUtV5FlzrGgpxF19JZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.futuremark.dmandroid.application",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBK/hBNYmG8TqO/P0Lh15AzjGk/nKZFlHcxfonQU3CJ5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "mobi.appplus.calculator.plus",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic4bNDFcYYcbI5mlkS1R8igwfiOhB/PBHFcVepj6hNzHJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.malwarebytes.antimalware",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6wGhse33T+9zy5Zyc1m8aPyo0SKMTf3u6C8frSwUsEJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.netflix.Speedtest",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGU6AfDw8UecPwZM7UBIB45YjGsv9QlV6YWDciaWWOlJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.avast.android.mobilesecurity",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFHgtGp/pNbCj3YBAdtLOGbm8/kVLiiEt3CLtpQDQLh5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "intelligems.torrdroid",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSte+DrSDhmX7Ee+zCJeP4yuXHlCZVo0pdJCTzpo2x1JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "idm.internet.download.manager.plus",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidR8Tm2Iq6ifru67g0vYKjL1gcMmsyXxVQFVfbbup7hNZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.baloota.dumpster",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1JUa0DIFkMoy05Bd71CyUfN/ajfePjkgZ4dQgwdfuYZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sec.android.app.myfiles",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic00B8XYYc0hA76IKXJ34PKl6KFbrQOj7dzPMxfk0m4VpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.kms.free",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid7H5hXaAjznEzi9OGS9OfzSziz+kJ8gV3eCBYcXSPRL5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "ch.smalltech.battery.pro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidm55rES3WR5jZszUFDJsK8PfJI1VRCDCdv0OF/B2JWWpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.hmdglobal.support",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekHgERcZtUskDCkKy07GpPr0pid7rgwzUVciAm3+r7ZJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.keramidas.TitaniumBackup",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidw8Ffw5dcfbMlDyQb6Ku2fNUO6kOB/qxgWx2BgMKobuJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "flar2.exkernelmanager",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicGR0xKDervsyyOitB4yVDljskijIKOng6x+Rw6wWR1EJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.motorola.modstore",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCtNNh5yKhr/AT5FUwuCoPWZn8jIw1B9tgcMRLwWIDg5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.celcom.mycelcom",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZlfDGaFsW0Z6q2ltgui98xKQECKPa6pHJRHy02/cRUZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.jrummy.busybox.installer",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8THV5DX5QYiT7mv2YWBodri5I4G8ORaNazB+fmTIk9ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.htc.AutoMotive",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidKwu7kJoExZdtgZdIJbQGaQ0KBPM+Pw/r8JIzks4IjgJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sec.android.app.clockpackage",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8q30dySf1iDPB0WlRVYO4MS8IF+FnxT17fFjz6YvffJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.motorola.motoalexa",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictx1tLHCcVXbcBwq9nXsW/91PWOj/pm8HcHlm74tNFLZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.lenovo.FileBrowser2",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieXmH7Mey2TcAh8O8qYHgXQH0bZ9FrE74d2qc+wiOlE4JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.zloy.android.downloader",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiccpIGROhYradhKQoKnBFeeyyPHubMPMCT0m0N6hDh0IpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.oneplus.filemanager",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFht5CSQC4AvrS+Lv/4hV4podq+kgSK813OwljRjXB45Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "ch.smalltech.battery.free",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidNW4akReITzY5zUTgAXCmqFCnEI9RPy6OPK5JlKF/N5ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.oasisfeng.greenify",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLSZU4hycrF/FkJoHx7D8VlMMjThZ6LLap6PmIuEfgE5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.sec.android.app.voicenote",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepFmvl/MLctbCLfdG2hXhi1KNUY5yShGxb4V8FjZ61/5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.candl.athena",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiife/ayergZoMsdZelJtp7ksak3CIt3YOWuDowXCKEW/65Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.dv.adm",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidiZYvl2sD23kpe02JSqrcr4WeZeNr+0Ccw9TgyQ13CvZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.windscribe.vpn",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieoSD9qBDyS4OSrk20kpP450ir8zy6lDPKRSbReb32U7ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.authy.authy",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOI1iwXaeKNn8UGRNS2h/VkLIN5PW4xyQxGPJHNfUXMZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.oneplus.note",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieUYQki76gHZBfesJhfgXUgz1SL2E70ZGI5fRShlEhKt5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.paidtasks",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidrQT/iCfa3aV3meuwsv683Pxh/5dib5Wvnrynr6d/lmJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "ru.zdevs.zarchiver",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicZBVqgcndyQ0E3Wauni+Gm0CYOYS667Z53ramn9K0p9ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.kustom.wallpaper.pro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiceZ5qy2LQxNkdjWobWkyERkKeWj1EHVnsJHswO2yoXxpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.franco.doze",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifbFJXnLnhl+Q7/hF3/G/IoyWIMf+7qVwAWwqW/kL84wpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.htc.pitroad",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifsgGlL2wIEwfySLPHoPtyE+FM9INiIzBQd/15xxiCLD5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.cpuid.cpu_z",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMPbtZgMDqfdhIRkRuwFq+JpwlCcwJvM3j2od6mVpfQ5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.authenticator2",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUMRKoy/Xf/BTMOKaFmCalr0YPbkFnahi4B84I/S6h+ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.deskclock",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGLzmiT8ST2tminxKzUMMoilp6KBKybF0FxxEONefTw5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "me.twrp.twrpapp",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie4phuiHs/qocl1EDzEOVgtKCUzxRjPaBn4af72CtZO9JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "stericson.busybox",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifqctGJA63B4Ba9xe7tATPdbHj/Gt2CbuBHkUQMpP9VhpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.metago.astro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie0wckxLLtrvmGiWrn0Gsu3s936C2dKQ+syQx40wn3Ad5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.oneplus.backuprestore",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidIjw5aVDOOCn4JEZ1vLEOJVOZrW5G4aAr43Ja94aMTfJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.buak.link2sdplus",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidrrO27Qvp5SXuiP9pLY+clrlYG0tkZRewp2jkqe/EirpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.ar.lens",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif36yWlUY2qNAnJiwkwocDty+m3i1PuCmVoSqylsEqxkJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "eu.thedarken.sdm",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieH/BxLRxf3gfEwmxzxyBTSFkP/Mck3qmcWFIfY3Hr61ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.mi.android.globalFileexplorer",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifds7u8Guae3bI/7I6nytxeETe7V9ssTX5TuquFq0pWbpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "flar2.devcheck",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1Jkt6wXImQ1guLnh8PdWg1SnBkS3susT8d9c1koPyRZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.lenovo.anyshare.gps",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicDvMSTBq30ogFCxPFuuHX+eQKgVNPgEVmzffMAucCkBJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.duckduckgo.mobile.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2VhrYdDj/qNdL6jBSt3sidBFUtboyrA4LtD8+b06385Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.inputmethod.latin",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic95lNs2w//S+aifBpHLQRz6tzbhiR3uTm8K3mGusFj05Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.dialer",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlTbYisB26y9fegxmFJu3mvfVI1TqO0jMCar9jG3GZ/pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "cn.xender",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/6wp0rar+CubQO2Y1mGMBJkY8wl9F6L9vn104eXUH6ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.buak.Link2SD",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidrrO27Qvp5SXuiP9pLY+clrlYG0tkZRewp2jkqe/EirpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.swiftapps.swiftbackup",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidaCHpcZ7aIBLP8rwxnMRgi5FndaoUWiH06XpquwtrcGJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.javiersantos.mlmanager",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic+XkZODhMqpK58HS2+RIQlQidEOvTHysRJrza1WYKwvJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "rikka.appops",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifhQijepp5737sS0iHFreOPgOxOwSh1KD7hIZuIDhw2EpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.azefsw.purchasedapps",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid3LRP2TJw2N4WmqHlCcHEVFInqSv3u4qB9ilHbSnUENpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.jrummy.apps.build.prop.editor",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidnzl5y5KyXwh78jUw51XH6HZ2pcVZvOKVvWSveHgJ+g5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.pluscubed.matlog",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifjuTQH88IBhKqkONlXitfcyWUCTXB+AQgoPZc70CXTYpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.embermitre.pixolor.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie95zKny8Y4pfWQfr42sjaUNk8VCLYmD62hVPIZNhcbMJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.franco.servicely",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie68rd8qj4qkK/S/LtEBS6gR9V1PP9FbKenEmPgGoz4bJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.anod.appwatcher",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLFk+iIWiq8+1kd1QYVwb8+CrRdL2+z9ggoh8Pu1K1p5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "ly.adf.adflypublisher",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidvfwndY/eaDfDf+N3bCOBkOtG/7jld4bFiBqce9JD9EpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.uguess.android.sysinfo",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifv6H2FVmjxB0kzzGOOB55mYAsb8Mo88AiksacMP5UjIJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.htc.accessory.fetch",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifO/eXy61W2Rt5GfgY1Kc4wWP32TrTNgtDLcxeuzdcU8pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.javiersantos.mlmanagerpro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejqQQa+BGN+CmkRC7nQt1tpAe1QoDSm5wtDioPcdfJ85Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.uguess.android.sysinfo.pro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifv6H2FVmjxB0kzzGOOB55mYAsb8Mo88AiksacMP5UjIJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.htc.allplay",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTejZ4ID/NpLyXJxemU+Zmpk+XWppI2Il3gKT7dtz2ZZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.libin.notification",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidkbrhcgbn1dA57jLAu50WBcPpKoyHyd5O7FcJdhybOYZVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Travel & Local",
+        "lt_ico_app": [
+          {
+            "pkg": "com.google.earth",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifIHCmz+Ns+sUERveOV9bMLvTQQrYidTfFWP9vVp0EwNpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.autonavi.minimap",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidRGtdHNdOG+gEKMUfh8Az0mjEisaI4Yyg7JpTlgfCn8ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.traveloka.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifA7cbzTdcCHHuUAH6LzVGzAnhsNArEzZWCZGEw9d7fu5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.foursquare.robin",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYd5JPYuhpn3Cn+FJFXcIJL00rX0cTL9Xivqig4FXlLJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "cris.org.in.prs.ima",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicYitF8ft8TnMgmmiPoIXHDO80yOcHeNI1CEjcMDXZK65Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "aero.sita.lab.resmobileweb.android.mh",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicul7tOeXeqC+2QJVy/i6waVf5B11N3I0R4kXiApkfpc5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.street",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifG/9vFjLisGJbb7W+SporIhFkJ1I4gLNgyAPL+kyJbZ5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.maps",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie55h4LX0XyzxpGkHwQ35Vsf3/MzoZaMzXhQnr1hsqLAZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.gojek.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifXmWhPvdV35K3bAEO3+ULaUAhtdhlUS+xR9Mkzt+8KA5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.cris.utsmobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJIsZ9SGAV5pdcoj2Qwi0AlA/Wfptem1iegCwYkPlAcJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.grabtaxi.passenger",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieskBp7NqkF7q2oUYul/ULQDyxir9fgcnjpZlOYDzK5TZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.airbnb.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiied0UZdCz5IdOhqKFCSrmntPVL95coKDiTthi/tb+gV7ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.makemytrip",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieFWGqbVJHHaiiJsMXskp2LoruhEZZ1VCGDWhZJe0X4xpVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Food & Drink",
+        "lt_ico_app": [
+          {
+            "pkg": "com.Dominos",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3wvk+bHtflqgr4C1VacTuML2z0d4dQWfBD61UxcX8AJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.dominospizza",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3wvk+bHtflqgr4C1VacTuML2z0d4dQWfBD61UxcX8AJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.application.zomato",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjXqseK0P+4m5HCk7KMmRkufnzq2Dcgi2rvKjIaxnpgpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.molo.dominos",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3wvk+bHtflqgr4C1VacTuML2z0d4dQWfBD61UxcX8AJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "au.com.dominos.olo.android.app",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3wvk+bHtflqgr4C1VacTuML2z0d4dQWfBD61UxcX8AJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "ca.dominospizza",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3wvk+bHtflqgr4C1VacTuML2z0d4dQWfBD61UxcX8AJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "in.swiggy.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1PPB4FGANm30DML81xfudRSrVF/R8dvLbLhKKPRRuWZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.joelapenna.foursquared",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicE9c27svacQdMtmofQVRixPqH+qmdNUy/W7jBDQ+3RaJVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Weather",
+        "lt_ico_app": [
+          {
+            "pkg": "com.accuweather.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieG9DqMAvLxOvLTNBzTSCP/pOJAgwjHeZmLiCOPsN5Qi5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.miui.weather2",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifevS0EI3LFQL2IfkkrMrwC5DxF3zpmEYCeLrWHTcDZQpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.htc.Weather",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiesSPTTT+10ZLk4vOOOFlCYwE6Laa0BPpx4tDQPk4skm5Vy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Photography",
+        "lt_ico_app": [
+          {
+            "pkg": "com.adobe.creativeapps.draw",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifsVFNLdTvFlpNK7XWhMQCnDX+nmnU7DzhptslECMZ1YZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.adobe.psmobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicuQtDDIlyE0DHqXpgLadLf2ZkXkSG08Q+bmZqxbI9ycJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "slide.cameraZoom",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieWPB3hjkmhfro6rZ9KP4ptPiA4Q5X9qD3cak6X8sH5c5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.linecorp.b612.android",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiegC0Z6pkE06wxfd4pq3+3AIeFND0psRKWVUKoviCvYe5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "vStudio.Android.Camera360",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie3xLdweI7zmZrzkjuu00Tu7v91OM2HabbuSx8RrcQAoZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.motorola.cameraone",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifspiGOC7/++Ssc1/C4ZVcMrLwF7mF+YplpKvrm7tm9EZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.franco.focus.lite",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxYwrlUohCB0sMXvdl7cY7m3wU1Z8w5OgTWpXrTdkUUZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.htc.camera2",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLYix+VeT0xhpHQDPT+M+zZW/UUIOIb0R/rDDGUkVuMJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.oneplus.gallery",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieT/ZI+OSoM6+uQouJuKNZXu/Vxcw/nq9O4+Ieu6g6lWJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.campmobile.snow",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/rYLxNL0hh7nNzMnZQyXjNsy+jvq3y9lM7yOJo/wSkpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.baseapp.eyeem",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid7REaVNHx26y/jUjyXb/JmeWaXbVawi3ot3G+Pjg9GxpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.kvadgroup.photostudio",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif85ybKOt1YHJ5ze+yTaL3vRYtEBuewkD7RIr6UoqbuY5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.magicv.airbrush",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidmJE0OI33zf1qinsodMC6QI8AR3NTaPAZ/IHyvmZo4/pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.adobe.lrmobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidj0iMRCC70uFOS+O+EvJ1zmMnYyDNho5VJHZ48BqOTW5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.photos",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8Gxbzu15iizdPXutsn2mHJwwlVxehHYSkmNkT4LtGoZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "io.faceapp",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifMEnTnwFRWh+HUoF7BHy4cKg6LjJNXxAYIz2l1vRhn8pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.neuralprisma",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOYysfZ4fuxMCc787Vv7cYAW4yuf6SVB80h2gRK1F35ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.flavionet.android.camera.pro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicR4s5/MAgPZ/7rXJi3Rg12RdQFXGh9EEmtzmXJqB5cHZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.adobe.photoshopmix",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicnqA3X8znndmS038atzjXTwGR7Ebs1l9K7VQbH+L0oTZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.flavionet.android.camera.lite",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicR4s5/MAgPZ/7rXJi3Rg12RdQFXGh9EEmtzmXJqB5cHZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.vsco.cam",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQLI8EOWjsxQkRcl2PnSMinul4Duu9eeVUeUvHmJVE5ZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.instagram.layout",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieM3377Io3ml2EIACAOSbo0CKPbG79Sd4PJqyHPEa8ZcJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.GoogleCamera",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicBvXES9FYYPI/Jts9zTe+r7vt3coK8g0/SjDijOPZd/JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.niksoftware.snapseed",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifVqy3gvHwRyHwohyJFH/gUaxMh2KmfnZbyLsRixc6Kw5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.pixlr.express",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieeNGK7Fz7NnWQOgcgZTDMIgZhQeg2hWDTKfuSrBeDt/5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.joeware.android.gpulumera",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidEUVBF8i5Xj2ewgGziEUcOTrsUKfEyqL5A9G98Pofi2JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.fivehundredpx.viewer",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZpBOpKsH6vYDCwe0BoBPbSOiNVTc7oE/iOx2+4noLYJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.kvadgroup.photostudio_pro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif85ybKOt1YHJ5ze+yTaL3vRYtEBuewkD7RIr6UoqbuY5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.motorola.camera",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifspiGOC7/++Ssc1/C4ZVcMrLwF7mF+YplpKvrm7tm9EZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.photos.scanner",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiez85tNqyORiygYmYtm0q0SOxnSZQ1VrCrBu+hEopbQOZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.picsart.studio",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGAElmPehOnWUaOxyVB3+qnGKlH4C0vRa5BKlEfBu42JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.motorola.camera2",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifspiGOC7/++Ssc1/C4ZVcMrLwF7mF+YplpKvrm7tm9EZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "net.sourceforge.opencamera",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifFyt/iIulqnW23lsB7nHpHPGlKMQE9jni7/BgtQMa0hpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.venticake.retrica",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie6FmlBkPckjQnzv5/gnSGKvJLHxn0Lg4bHhMCtmFo4fpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.diune.pictures",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidXglOyw6nCuQNPRom81V6ocqdykmvWwN54PwbmIbmP5JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "us.koller.cameraroll",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidD21T88qBzFhz25idgn/oF/PVXnoQCpqylVgu7pu31OpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "pl.vipek.camera2",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8u4BNpw475LUod/3LS6Jcptqqj9LGpnghYU2N0tdh6JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.gryffindor.gryffindor.feelm.mint",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8bOGnyNHpAaHtXJuG1BUBEKcoL1btXOy2vz3bekXB5ZVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Libraries & Demo",
+        "lt_ico_app": [
+          {
+            "pkg": "com.google.samples.apps.cardboarddemo",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejfiKxr0zbMpcAY3u95v5ExKyAeXyH5yP3JfoBt8R0+JVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Auto & Vehicles",
+        "lt_ico_app": [
+          {
+            "pkg": "com.bitspice.automate",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLNcRbNrenPG8OtS1PjTl66/ZLCrPBKawgUNzqIP4Og5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.projection.gearhead",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4cNYkVTThHhYtjx2q6oy30qPuxfTtYriI1c1TF790GZVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Video Players & Editors",
+        "lt_ico_app": [
+          {
+            "pkg": "com.gopro.smarty",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid60Z57M3+qb6dSkDvE0PdwgG64oOxNz4U3T+ikCbcWkJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.mxtech.videoplayer.beta",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiehf4ThUFrFVLHXMf80NyZ0oqgZtevmrN6hMsHI6PZDNZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.hecorat.screenrecorder.free",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPZwRtuECexYGjsyNCORHhEp7C7ccMPoLiTg4v8tU8zJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.videos",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifclr9t3/WOKy/0G/AHXI85uRJYJ7yclm9Cz9vpNO7V65Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.imgur.mobile",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieT+CdfXPm6xyTrGAjTwfW9bHgdjgB+fFUlm2xgGf+CYJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.apps.youtube.creator",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieOWLEG4mh9YZN7x4Lp4cGue2UnJOF5+AVOctDEIvQL55Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.nexstreaming.app.kinemasterfree",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1YYeyA3i4I57x8uR5p8ysUaF7Z7tlmzfSo0gDBfhpC5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.gretech.gomplayerko",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicZce371/5QJrTzkryaz7a0tfDTp8eUOLo4FnWoRT7S4JVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.giphy.messenger",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifz+3UpSGrf5N4qz4n+Vbyg/8nBvmAPu49Emty2nN52mpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.google.android.youtube",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfs6noGbNbNpjD5CFTslPDMb/bwBOi/bB3A4EZEr7gzpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.videolan.vlc",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiei6FMgcHminX5t89yK+GvW1ADsXQBAjp33puL5zMAyTJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.delphicoder.flud",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTGEmtacyxaOYiKerkzcdDMPQ4ECGvmZ4gDXAym3Dy8pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.koushikdutta.cast",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicf1g7u78s1tw1xNm/1piyic3iSxqfGB8veFv0pOGVPpZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.mobilityflow.torrent",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4HviqnIOumokz62lSsVoYIwX/V6czjxUnM7dJZHJobpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.utorrent.client.pro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidoAyG7EgqOugQ0+P4HCRhfHNj6dohR1li7rsG1ZFK4jJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.motorola.MotGallery2",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie4jYeF2pEj6Ywij6ZE/JlPbNqWKAGJw1r7zhsRfzXwSpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.kmplayer",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicAZyLMIXRFFgZ66VunwRv4JI7tE/JhPEeOGrBOEnbbUZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.delphicoder.flud.paid",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTGEmtacyxaOYiKerkzcdDMPQ4ECGvmZ4gDXAym3Dy8pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.proninyaroslav.libretorrent",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBn4DDFFLMGt+MJvLOmA6wqXh64Uj0mheunR1xAAfoV5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.bittorrent.client",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie7aEs2An+Wq41VfEinEAqxn9yaYCgWSKRfTjNXVxP2zJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "hu.tagsoft.ttorrent.noads",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSVmgP1xnvycUa6jJtocQvD6QeqBRUXvrlTSl/0wBopZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "de.stefanpledl.localcast",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHQCEy0jcujzyqQj5p1PZOIQW54TYMU6tTvij82U6EYpVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.bubblesoft.android.bubbleupnp",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOkMg/ZQ6FKmwLQOs/Kxtkld7r9R36bhsc32ydfevk+5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "hu.tagsoft.ttorrent.lite",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSVmgP1xnvycUa6jJtocQvD6QeqBRUXvrlTSl/0wBopZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.instantbits.cast.webvideo",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZzW/KJoSaNUFvP0Z6KuLBTkGijV9VEmYfLUjgUnbORJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.mxtech.videoplayer.pro",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQtu6v2vz705/YOhvEVMX6JY/7tEG8M6FO7lBZg8UrE5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.avcrbt.funimate",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOcGemBwIMno5FwMIS1G9PaZoWmvOhXqtD+WttkvJHMZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.mxtech.videoplayer.ad",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQtu6v2vz705/YOhvEVMX6JY/7tEG8M6FO7lBZg8UrE5Vy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.utorrent.client",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidoAyG7EgqOugQ0+P4HCRhfHNj6dohR1li7rsG1ZFK4jJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.thinkyeah.galleryvault",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsId8l2OjRGnr4g5XV33sRtYwPaWWKaUnTQNUd7Uy1DJVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      }
+    ],
+    "type": "App"
+  },
+  {
+    "lt_ct": [
+      {
+        "ct": "Action",
+        "lt_ico_app": [
+          {
+            "pkg": "com.nianticproject.ingress",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKw8TayxFaQE1Tsh5iuWgpjdPCfTVo/BO7voxAewrgyJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.nintendo.zara",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6XDZda7k7s4yBFRVKeaY8nGVKfCLbiGbhaGcwUyjezJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.studiowildcard.wardrumstudios.ark",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidSa9D4vfNZHNWu4QvPCJbc96Y6bOE8sJQux3BZNO82ypVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.tencent.ig",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVfLcHpVFZpsIyekM9gDObQOI2EIkqlekzOLGX4aMSlZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "org.ppsspp.ppsspp",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/sMoYuq2YV8EIyra+4jYDCEOrhxDWlhO0IGhuLV0iUZVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.kumobius.android.duet",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiep4BzuGvvu9sE/U7Q5XlCNVwScb8zM1JqC/Y5FM56feJVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Puzzle",
+        "lt_ico_app": [
+          {
+            "pkg": "com.rovio.angrybirds",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidttzj89BTenBuooHXia3vRdNDCQDm7+KAe1VZ7pi5YYJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.rovio.baba",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieFrtjTnbSLjroVERfYpLNH5fYoSzjagTXc7pop6Hoz6pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.rovio.angrybirdsspace.ads",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifzb5MrEyFgoL/2Dzq0miS6hojWU/5G0HwI1WBRuoOm7pVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.weplaydots.twodotsandroid",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+4jkpW5LtaceMDUfOH51uFsFWIO11MMIs9KM5erhfoZVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Board",
+        "lt_ico_app": [
+          {
+            "pkg": "uk.co.aifactory.chess",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifhQbF9FzXq6vF9OEyMmnbqTlROtGYvpmILvLHyziA3CJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "uk.co.aifactory.chessfree",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifhQbF9FzXq6vF9OEyMmnbqTlROtGYvpmILvLHyziA3CJVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Racing",
+        "lt_ico_app": [
+          {
+            "pkg": "com.ea.games.r3_row",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+A85t3A3/06XACOzeobNWMUcJC1TAJc3XLkDK/803LJVy4706IhQgSYlgwrgVRHU="
+          },
+          {
+            "pkg": "com.noodlecake.altosadventure",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiex39ZmbkWkIvAEHhFsVHZkcrgQINBrGwOG2HRh1FKM1pVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      },
+      {
+        "ct": "Arcade",
+        "lt_ico_app": [
+          {
+            "pkg": "com.rovio.angrybirdsspaceHD",
+            "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifzb5MrEyFgoL/2Dzq0miS6hojWU/5G0HwI1WBRuoOm7pVy4706IhQgSYlgwrgVRHU="
+          }
+        ]
+      }
+    ],
+    "type": "Game"
+  }
+]
