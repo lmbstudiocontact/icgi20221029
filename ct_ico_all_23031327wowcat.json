@@ -1,0 +1,98 @@
+[
+  {
+    "lt_ct": [
+      {
+        "ct": "Social",
+        "lt_pkg": [
+          "com.twitter.android",
+          "com.facebook.katana",
+          "com.instagram.android"
+        ]
+      },
+      {
+        "ct": "Productivity",
+        "lt_pkg": [
+          "com.dropbox.android",
+          "com.google.android.apps.docs"
+        ]
+      },
+      {
+        "ct": "Photography",
+        "lt_pkg": [
+          "com.google.android.GoogleCamera",
+          "vStudio.Android.Camera360",
+          "com.google.android.apps.photosgo"
+        ]
+      },
+      {
+        "ct": "Entertainment",
+        "lt_pkg": [
+          "com.google.android.play.games"
+        ]
+      },
+      {
+        "ct": "Music & Audio",
+        "lt_pkg": [
+          "com.zing.mp3"
+        ]
+      },
+      {
+        "ct": "Health & Fitness",
+        "lt_pkg": [
+          "com.google.android.apps.fitness"
+        ]
+      },
+      {
+        "ct": "Tools",
+        "lt_pkg": [
+          "com.google.android.apps.translate",
+          "com.google.android.dialer"
+        ]
+      },
+      {
+        "ct": "Travel & Local",
+        "lt_pkg": [
+          "com.google.android.apps.maps",
+          "com.gojek.app",
+          "com.grabtaxi.passenger"
+        ]
+      },
+      {
+        "ct": "Shopping",
+        "lt_pkg": [
+          "com.shopee.vn",
+          "com.lazada.android"
+        ]
+      },
+      {
+        "ct": "Maps & Navigation",
+        "lt_pkg": [
+          "xyz.be.customer"
+        ]
+      },
+      {
+        "ct": "Video Players & Editors",
+        "lt_pkg": [
+          "com.google.android.youtube",
+          "com.ss.android.ugc.trill"
+        ]
+      },
+      {
+        "ct": "Communication",
+        "lt_pkg": [
+          "com.skype.raider",
+          "com.google.android.contacts",
+          "com.facebook.orca",
+          "com.google.android.gm",
+          "com.google.android.apps.messaging",
+          "com.zing.zalo",
+          "jp.naver.line.android",
+          "com.android.chrome",
+          "com.whatsapp",
+          "com.snapchat.android"
+        ]
+      }
+    ],
+    "type": "XwlCFyuaZFZr/a4wRM2a+g=="
+  }
+]

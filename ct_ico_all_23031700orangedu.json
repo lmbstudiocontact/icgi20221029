@@ -1,0 +1,585 @@
+[
+  {
+    "lt_ct": [
+      {
+        "ct": "Undefined",
+        "lt_pkg": [
+          "com.teslacoilsw.launcher"
+        ]
+      },
+      {
+        "ct": "Personalization",
+        "lt_pkg": [
+          "net.nurik.roman.muzei",
+          "com.Hastamev.AmoledWallsFree",
+          "com.asus.themeapp",
+          "com.vinwap.parallaxwallpaper",
+          "com.doubleTwist.alarmClock",
+          "com.nearme.themespace",
+          "com.kubix.creative",
+          "com.round_tower.app.android.wallpaper.cartogram",
+          "com.jndapp.hexagonal.hexa.iconpack",
+          "org.kustom.widget",
+          "com.mixapplications.miuithemeeditor",
+          "projekt.substratum.lite",
+          "com.sharpregion.tapet",
+          "com.kapp.ifont",
+          "com.whicons.iconpack",
+          "org.kustom.lockscreen",
+          "com.perfectapps.muviz",
+          "com.shanga.walli",
+          "com.gau.go.launcherex",
+          "com.Hastamev.WallHubPro",
+          "vr.xperia",
+          "com.sonyericsson.digitalclockwidget2",
+          "com.androholic.dopewalls",
+          "you.in.spark.energy",
+          "com.Hastamev.AmoledWalls",
+          "projekt.substratum",
+          "projekt.launcher",
+          "com.teslacoilsw.launcher.prime",
+          "com.calculator.vault",
+          "com.jndapp.linex.white.iconpack",
+          "com.gamelounge.chroomakeyboard",
+          "com.deishelon.lab.huaweithememanager",
+          "com.mixapplications.themeeditor",
+          "com.b_lam.resplash",
+          "com.backdrops.wallpapers",
+          "co.aseman.ubuntu_touch_icons",
+          "com.sreeragag.pixwalls"
+        ]
+      },
+      {
+        "ct": "Entertainment",
+        "lt_pkg": [
+          "com.microsoft.xboxone.smartglass",
+          "com.miui.videoplayer",
+          "com.hulu.plus",
+          "mobi.ifunny",
+          "com.bbk.theme",
+          "com.amazon.avod.thirdpartyclient",
+          "com.google.android.play.games",
+          "com.bt.bms",
+          "tv.twitch.android.app",
+          "com.netflix.mediaclient",
+          "com.bitstrips.imoji",
+          "com.moviecity.app",
+          "com.microsoft.xboxone.smartglass.beta",
+          "com.imdb.mobile"
+        ]
+      },
+      {
+        "ct": "Books & Reference",
+        "lt_pkg": [
+          "com.sirma.mobile.bible.android",
+          "com.google.android.apps.books",
+          "com.dictionary",
+          "br.com.frizeiro.bibliakja",
+          "kjv.bible.kingjamesbible",
+          "com.tecarta.kjv2",
+          "com.pmp.biblia",
+          "com.bestweatherfor.bibleoffline_pt_ra",
+          "com.dictionary.paid",
+          "com.logos.androidlogos",
+          "com.amazon.kindle",
+          "es.rae.dle_offline"
+        ]
+      },
+      {
+        "ct": "Music & Audio",
+        "lt_pkg": [
+          "com.sec.android.app.music",
+          "com.springwalk.mediaconverter",
+          "com.audiomack",
+          "com.jio.media.jiobeats",
+          "com.media.bestrecorder.audiorecorder",
+          "com.maxmpz.audioplayer",
+          "com.andrwq.recorder",
+          "com.motorola.fmplayer",
+          "com.devdnua.equalizer.free",
+          "com.tbig.playerpro",
+          "another.music.player",
+          "com.shazam.android",
+          "com.simplecity.amp_pro",
+          "xeus.timbre",
+          "com.sonyericsson.music",
+          "com.crystalmissions.plradio",
+          "com.spotify.music",
+          "com.jetappfactory.jetaudioplus",
+          "deezer.android.app",
+          "com.amazon.mp3",
+          "com.rimidalv.dictaphone",
+          "com.shaiban.audioplayer.mplayer",
+          "com.slacker.radio",
+          "com.fundevs.app.mediaconverter",
+          "com.jrtstudio.music",
+          "com.musicplayer.music",
+          "com.magix.android.mmjam",
+          "com.miui.player",
+          "com.doubleTwist.androidPlayerPro",
+          "com.appgeneration.itunerpro",
+          "qijaz221.github.io.musicplayer.premium",
+          "app.odesanmi.and.zplayer",
+          "com.ilv.vradio",
+          "com.rhmsoft.omnia"
+        ]
+      },
+      {
+        "ct": "Education",
+        "lt_pkg": [
+          "com.vitotechnology.StarWalk2",
+          "com.udemy.android",
+          "com.google.android.apps.classroom",
+          "com.knudge.me"
+        ]
+      },
+      {
+        "ct": "Lifestyle",
+        "lt_pkg": [
+          "org.reyfasoft.reinavalera1960",
+          "com.pinterest",
+          "com.samsung.oh",
+          "com.samsung.android.oneconnect",
+          "com.samsung.android.spay",
+          "com.epsoftgroup.lasantabiblia"
+        ]
+      },
+      {
+        "ct": "Shopping",
+        "lt_pkg": [
+          "com.ebay.kleinanzeigen",
+          "com.flipkart.android",
+          "com.ebay.mobile",
+          "com.google.zxing.client.android",
+          "com.ril.ajio",
+          "com.mercadolibre",
+          "net.tsapps.appsales",
+          "com.appsfree.android",
+          "com.amazon.mShop.android.shopping",
+          "com.amazon.windowshop",
+          "com.aftership.AfterShip",
+          "com.myntra.android",
+          "com.olx.southasia",
+          "in.amazon.mShop.android.shopping",
+          "com.tourbillon.freeappsnow"
+        ]
+      },
+      {
+        "ct": "News & Magazines",
+        "lt_pkg": [
+          "flipboard.app",
+          "bbc.mobile.news.uk",
+          "bbc.mobile.news.ww",
+          "com.nytimes.android",
+          "com.devhd.feedly",
+          "com.google.android.apps.magazines",
+          "com.bionicapps.newsreaderpro"
+        ]
+      },
+      {
+        "ct": "Maps & Navigation",
+        "lt_pkg": [
+          "com.tranzmate",
+          "me.lyft.android"
+        ]
+      },
+      {
+        "ct": "Sports",
+        "lt_pkg": [
+          "com.scores365",
+          "com.espn.score_center",
+          "com.livescore",
+          "com.nbaimd.gametime.nba2011"
+        ]
+      },
+      {
+        "ct": "Art & Design",
+        "lt_pkg": [
+          "com.canva.editor",
+          "com.adobe.spark.post"
+        ]
+      },
+      {
+        "ct": "Business",
+        "lt_pkg": [
+          "com.samsung.knox.securefolder",
+          "com.indeed.android.jobsearch",
+          "com.box.android",
+          "tr.gov.turkiye.edevlet.kapisi",
+          "com.azure.authenticator"
+        ]
+      },
+      {
+        "ct": "Communication",
+        "lt_pkg": [
+          "com.blackberry.contacts",
+          "com.sec.android.app.sbrowser",
+          "com.skype.raider",
+          "com.vivo.browser",
+          "com.microsoft.emmx",
+          "com.asus.contacts",
+          "com.brave.browser",
+          "com.simpler.dialer",
+          "com.psiphon3.subscription",
+          "com.google.android.contacts",
+          "com.imo.android.imoim",
+          "com.facebook.orca",
+          "com.opera.touch",
+          "com.skype.insiders",
+          "com.google.android.apps.tachyon",
+          "com.google.android.gm",
+          "com.viber.voip",
+          "com.tempmail",
+          "com.discord",
+          "com.tencent.mm",
+          "de.web.mobile.android.mail",
+          "com.xda.labs.play",
+          "kik.android",
+          "com.yahoo.mobile.client.android.mail",
+          "com.google.android.apps.messaging",
+          "com.zing.zalo",
+          "com.android.chrome",
+          "com.kiwibrowser.browser",
+          "org.adblockplus.adblockplussbrowser",
+          "org.telegram.messenger",
+          "com.whatsapp",
+          "org.mozilla.firefox",
+          "com.snapchat.android",
+          "org.mozilla.firefox_beta",
+          "com.hsv.freeadblockerbrowser",
+          "com.imo.android.imoimbeta",
+          "com.cabmatch.help911.pro"
+        ]
+      },
+      {
+        "ct": "Social",
+        "lt_pkg": [
+          "com.zhiliaoapp.musically",
+          "com.twitter.android",
+          "com.laurencedawson.reddit_sync",
+          "com.reddit.frontpage",
+          "com.mewe",
+          "com.facebook.katana",
+          "com.google.android.apps.blogger",
+          "org.thunderdog.challegram",
+          "com.timehop",
+          "com.facebook.lite",
+          "com.google.android.apps.plus",
+          "com.instagram.android",
+          "com.quoord.tapatalkpro.activity"
+        ]
+      },
+      {
+        "ct": "Productivity",
+        "lt_pkg": [
+          "com.meltingsource.DocsViewer",
+          "com.jio.myjio",
+          "mega.privacy.android.app",
+          "org.withouthat.acalendarplus",
+          "com.mediafire.android",
+          "com.dropbox.android",
+          "com.adobe.reader",
+          "org.withouthat.acalendar",
+          "com.google.android.apps.docs.editors.docs",
+          "com.asus.calculator",
+          "uk.co.olilan.touchcalendar.trial",
+          "pl.solidexplorer2",
+          "com.htc.filemanager",
+          "com.microsoft.office.word",
+          "com.microsoft.office.excel",
+          "com.google.android.apps.docs",
+          "com.estmob.android.sendanywhere",
+          "com.rootify.emptyfoldercleaner",
+          "com.adobe.fas",
+          "com.blackberry.notes",
+          "com.microsoft.office.onenote",
+          "ru.mail.cloud",
+          "com.microsoft.skydrive",
+          "com.microsoft.office.powerpoint",
+          "com.pcloud.pcloud",
+          "com.samsung.android.galaxycontinuity",
+          "com.intsig.camscanner",
+          "com.candl.chronos",
+          "com.google.android.keep",
+          "com.touchtype.swiftkey",
+          "com.htc.android.mail",
+          "com.google.android.apps.docs.editors.sheets",
+          "com.socialnmobile.dictapps.notepad.color.note",
+          "com.revodroid.notes.notes",
+          "com.samsung.android.email.provider",
+          "com.intsig.lic.camscanner",
+          "com.mathsolver.calc",
+          "com.samsung.android.app.notes",
+          "cn.wps.moffice_eng",
+          "com.samsung.android.scloud",
+          "com.itbenefit.android.calendar",
+          "com.speedsoftware.rootexplorer",
+          "com.microsoft.office.outlook",
+          "com.htc.calendar",
+          "com.lastpass.lpandroid",
+          "com.x8bit.bitwarden",
+          "com.google.android.calendar",
+          "com.ttxapps.dropsync",
+          "com.ttxapps.drivesync",
+          "net.sjava.barcode"
+        ]
+      },
+      {
+        "ct": "Finance",
+        "lt_pkg": [
+          "com.usbank.mobilebanking",
+          "com.konylabs.capitalone",
+          "com.phonepe.app",
+          "com.google.android.apps.nbu.paisa.user",
+          "com.myairtelapp",
+          "com.google.android.apps.walletnfcrel",
+          "com.paypal.android.p2pmobile",
+          "net.one97.paytm",
+          "com.creditkarma.mobile",
+          "com.pnc.ecommerce.mobile"
+        ]
+      },
+      {
+        "ct": "Health & Fitness",
+        "lt_pkg": [
+          "com.sec.android.app.shealth",
+          "com.google.android.apps.fitness",
+          "com.xiaomi.hm.health"
+        ]
+      },
+      {
+        "ct": "Tools",
+        "lt_pkg": [
+          "com.asus.soundrecorder",
+          "jp.co.sharp.android.addressbook.app",
+          "com.tct.calculator",
+          "com.sec.android.app.myfiles",
+          "com.vincentlee.compass",
+          "com.google.android.apps.playconsole",
+          "com.piriform.ccleaner",
+          "com.google.android.apps.searchlite",
+          "org.swiftapps.swiftbackup",
+          "org.kustom.widget.pro",
+          "com.htc.android.worldclock",
+          "com.asus.userfeedback",
+          "com.piggy.myfiles",
+          "com.scientificCalculator",
+          "com.asus.deskclock",
+          "com.noxgroup.app.cleaner",
+          "com.tmobile.vvm.application",
+          "com.google.android.apps.translate",
+          "com.icecoldapps.screenshoteasy",
+          "com.google.android.deskclock",
+          "com.hmdglobal.camera2",
+          "com.joeykrim.rootcheck",
+          "com.samsung.android.lool",
+          "com.keramidas.TitaniumBackup",
+          "flar2.exkernelmanager",
+          "com.google.android.googlequicksearchbox",
+          "com.cloudmosa.puffinFree",
+          "com.ume.browser.international",
+          "stericson.busybox",
+          "stericson.busybox.donate",
+          "free.vpn.unblock.proxy.turbovpn",
+          "com.appstar.audiorecorder",
+          "com.xiaomi.midrop",
+          "com.sec.android.app.clockpackage",
+          "eu.thedarken.sdm",
+          "com.kodeglam.calendarwear",
+          "apps.r.compass",
+          "com.google.android.gms",
+          "com.jrdcom.filemanager",
+          "com.anu.main.myandroid",
+          "com.lenovo.FileBrowser2",
+          "fr.avianey.compass",
+          "com.tunnelbear.android",
+          "eu.thedarken.sdm.unlocker",
+          "com.vodafone.selfservis",
+          "com.halo.wifikey.wifilocating",
+          "com.oneplus.filemanager",
+          "com.symantec.cleansweep",
+          "com.miui.calculator",
+          "com.lenovo.anyshare.gps",
+          "com.hungrybolo.remotemouseandroid",
+          "com.sec.android.app.popupcalculator",
+          "com.oasisfeng.greenify",
+          "com.sec.android.app.voicenote",
+          "com.adguard.android.contentblocker",
+          "com.samsung.android.sidegesturepad",
+          "com.microsoft.bing",
+          "com.kosajun.easymemorycleaner",
+          "com.google.android.inputmethod.latin",
+          "com.protonvpn.android",
+          "com.asus.splendid",
+          "com.freevpnintouch",
+          "com.gamma.compass2",
+          "com.google.android.calculator",
+          "com.dv.adm",
+          "com.jrummyapps.rootchecker",
+          "com.adi.remote.phone",
+          "com.symantec.mobilesecurity",
+          "jackpal.androidterm",
+          "com.asus.mobilemanager",
+          "intelligems.torrdroid",
+          "com.google.android.dialer",
+          "cn.xender",
+          "com.oneplus.note",
+          "idm.internet.download.manager.plus",
+          "com.duokan.phone.remotecontroller",
+          "idm.internet.download.manager.adm.lite",
+          "my.android.calc",
+          "com.google.android.apps.paidtasks",
+          "ru.zdevs.zarchiver",
+          "ru.zdevs.zarchiver.pro",
+          "com.northghost.touchvpn",
+          "com.google.android.apps.nbu.files",
+          "com.rerware.android.MyBackupPro",
+          "com.andatsoft.myapk.fwa",
+          "com.pluscubed.matlog",
+          "com.thinkyeah.smartlock",
+          "com.pdfbuddies.pdfutilspro",
+          "com.mdiwebma.screenshot",
+          "com.pavelrekun.skit",
+          "com.tohsoft.app.locker.applock",
+          "uni.unseengallery.ke",
+          "com.apochstudios.unitconverterpro",
+          "com.simpleapp.barcode.scanner"
+        ]
+      },
+      {
+        "ct": "Travel & Local",
+        "lt_pkg": [
+          "com.google.android.street",
+          "com.google.android.apps.maps",
+          "com.app.abhibus",
+          "com.airasia.mobile"
+        ]
+      },
+      {
+        "ct": "Food & Drink",
+        "lt_pkg": [
+          "com.mcdonalds.mobileapp",
+          "com.sei.android"
+        ]
+      },
+      {
+        "ct": "Photography",
+        "lt_pkg": [
+          "com.kvadgroup.photostudio_pro",
+          "com.google.android.GoogleCamera",
+          "com.adobe.lrmobile",
+          "com.adobe.creativeapps.draw",
+          "com.google.android.apps.photos",
+          "com.motorola.camera",
+          "com.moblynx.galleryics",
+          "com.adobe.psmobile",
+          "slide.cameraZoom",
+          "com.amazon.clouddrive.photos",
+          "com.motorola.cameraone",
+          "com.moblynx.cameraicsplus",
+          "com.adobe.photoshopmix",
+          "com.youthhr.phonto",
+          "com.htc.camera2",
+          "com.niksoftware.snapseed",
+          "com.picsart.studio",
+          "com.memoria.photos.gallery",
+          "com.pixlr.express",
+          "photo.camera.hdcameras",
+          "com.oneplus.gallery",
+          "com.photobucket.android",
+          "com.lightx",
+          "com.simplemobiletools.gallery.pro",
+          "com.simplemobiletools.gallery",
+          "com.motorola.camera2",
+          "com.adobe.adobephotoshopfix",
+          "com.intermedia.hd.camera.pro",
+          "kr.co.ladybugs.fourto",
+          "net.sourceforge.opencamera",
+          "com.perracolabs.cp",
+          "com.advasoft.handyphoto",
+          "com.xnview.hypocam"
+        ]
+      },
+      {
+        "ct": "Weather",
+        "lt_pkg": [
+          "com.live.wea.widget.channel",
+          "de.wetteronline.wetterapppro",
+          "com.icoolme.android.weather",
+          "mobi.lockdown.weather",
+          "net.oneplus.weather",
+          "com.universetoday.moon.free",
+          "com.htc.Weather",
+          "com.accuweather.android",
+          "com.wea.climate.clock.widget",
+          "com.devexpert.weatheradfree",
+          "widget.dd.com.overdrop.free",
+          "com.droid27.transparentclockweather.premium"
+        ]
+      },
+      {
+        "ct": "Comics",
+        "lt_pkg": [
+          "com.tapastic"
+        ]
+      },
+      {
+        "ct": "Video Players & Editors",
+        "lt_pkg": [
+          "com.riffsy.FBMGIFApp",
+          "hu.tagsoft.ttorrent.lite",
+          "com.google.android.youtube",
+          "com.mxtech.videoplayer.pro",
+          "com.mxtech.videoplayer.beta",
+          "com.utorrent.client.pro",
+          "com.motorola.MotGallery2",
+          "com.androvidpro",
+          "video.player.videoplayer",
+          "videoplayer.mediaplayer.hdplayer",
+          "com.bittorrent.client",
+          "com.google.android.videos",
+          "com.mxtech.videoplayer.ad",
+          "com.utorrent.client",
+          "hu.tagsoft.ttorrent.noads",
+          "com.delphicoder.flud",
+          "com.eostek.asuszenflash",
+          "com.nimblesoft.equalizervideo.pay",
+          "mp3videoconverter.videotomp3.videotomp3converter"
+        ]
+      }
+    ],
+    "type": "XwlCFyuaZFZr/a4wRM2a+g=="
+  },
+  {
+    "lt_ct": [
+      {
+        "ct": "Action",
+        "lt_pkg": [
+          "net.froemling.bombsquad",
+          "com.tencent.ig",
+          "com.playgendary.tanks"
+        ]
+      },
+      {
+        "ct": "Board",
+        "lt_pkg": [
+          "com.Alienforcegames.ChessFusionFree",
+          "uk.co.aifactory.chessfree"
+        ]
+      },
+      {
+        "ct": "Strategy",
+        "lt_pkg": [
+          "com.mobile.legends"
+        ]
+      },
+      {
+        "ct": "Racing",
+        "lt_pkg": [
+          "com.ea.games.r3_row"
+        ]
+      }
+    ],
+    "type": "5+4ezV3iuJ8z6BoGkURqwg=="
+  }
+]

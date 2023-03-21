@@ -1,0 +1,165 @@
+[
+  {
+    "lt_ct": [
+      {
+        "ct": "Social",
+        "lt_pkg": [
+          "com.twitter.android",
+          "com.reddit.frontpage",
+          "com.facebook.katana",
+          "com.facebook.lite",
+          "com.google.android.apps.plus",
+          "com.instagram.android",
+          "com.tumblr"
+        ]
+      },
+      {
+        "ct": "Productivity",
+        "lt_pkg": [
+          "com.todoist",
+          "com.google.android.apps.docs",
+          "com.microsoft.skydrive",
+          "com.intsig.camscanner",
+          "com.evernote",
+          "com.google.android.keep",
+          "com.google.android.apps.googleassistant",
+          "com.speedsoftware.rootexplorer",
+          "com.microsoft.office.outlook",
+          "com.google.android.calendar"
+        ]
+      },
+      {
+        "ct": "Personalization",
+        "lt_pkg": [
+          "org.kustom.widget",
+          "com.google.android.apps.wallpaper",
+          "com.edzondm.linebit",
+          "com.backdrops.wallpapers",
+          "net.zedge.android"
+        ]
+      },
+      {
+        "ct": "Entertainment",
+        "lt_pkg": [
+          "tv.twitch.android.app",
+          "com.netflix.mediaclient"
+        ]
+      },
+      {
+        "ct": "Music & Audio",
+        "lt_pkg": [
+          "com.soundcloud.android",
+          "com.google.android.music",
+          "com.shazam.android",
+          "com.spotify.music",
+          "com.radio.fmradio",
+          "com.kabouzeid.gramophone",
+          "com.apple.android.music",
+          "com.musixmatch.android.lyrify"
+        ]
+      },
+      {
+        "ct": "Finance",
+        "lt_pkg": [
+          "com.paypal.android.p2pmobile"
+        ]
+      },
+      {
+        "ct": "Tools",
+        "lt_pkg": [
+          "com.google.android.apps.playconsole",
+          "com.google.android.apps.translate",
+          "com.google.android.deskclock",
+          "com.google.android.googlequicksearchbox",
+          "com.google.ar.lens",
+          "com.mi.android.globalFileexplorer",
+          "com.google.android.calculator",
+          "com.google.android.dialer",
+          "com.google.android.apps.nbu.files"
+        ]
+      },
+      {
+        "ct": "Travel & Local",
+        "lt_pkg": [
+          "com.google.android.apps.maps"
+        ]
+      },
+      {
+        "ct": "Photography",
+        "lt_pkg": [
+          "com.google.android.apps.photos",
+          "com.linecorp.b612.android",
+          "com.niksoftware.snapseed",
+          "com.picsart.studio",
+          "com.lightricks.facetune.free",
+          "com.venticake.retrica"
+        ]
+      },
+      {
+        "ct": "Lifestyle",
+        "lt_pkg": [
+          "com.pinterest"
+        ]
+      },
+      {
+        "ct": "Shopping",
+        "lt_pkg": [
+          "net.tsapps.appsales"
+        ]
+      },
+      {
+        "ct": "News & Magazines",
+        "lt_pkg": [
+          "flipboard.app",
+          "com.ideashower.readitlater.pro",
+          "au.com.shiftyjelly.pocketcasts",
+          "com.devhd.feedly"
+        ]
+      },
+      {
+        "ct": "Maps & Navigation",
+        "lt_pkg": [
+          "com.cabify.rider",
+          "com.waze",
+          "com.ubercab"
+        ]
+      },
+      {
+        "ct": "Video Players & Editors",
+        "lt_pkg": [
+          "com.google.android.youtube",
+          "com.utorrent.client.pro",
+          "com.google.android.apps.youtube.creator",
+          "com.utorrent.client"
+        ]
+      },
+      {
+        "ct": "Business",
+        "lt_pkg": [
+          "com.Slack",
+          "com.linkedin.android"
+        ]
+      },
+      {
+        "ct": "Communication",
+        "lt_pkg": [
+          "com.skype.raider",
+          "org.telegram.plus",
+          "com.google.android.contacts",
+          "com.facebook.orca",
+          "com.google.android.apps.tachyon",
+          "com.google.android.gm",
+          "com.viber.voip",
+          "com.discord",
+          "com.google.android.apps.messaging",
+          "com.android.chrome",
+          "org.telegram.messenger",
+          "com.whatsapp",
+          "org.mozilla.firefox",
+          "com.snapchat.android"
+        ]
+      }
+    ],
+    "type": "XwlCFyuaZFZr/a4wRM2a+g=="
+  }
+]
