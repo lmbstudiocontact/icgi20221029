@@ -1307,6 +1307,21 @@
         "com.debojyoti.coloros12_icpack",
         "oppo.color.os13.icon.pack.launcher.theme",
         "wallpapers.oppo.a94.oppo.a94.launcher.wallpaper.theme",
+        "com.redraw.keyboard.theme.redkeyboard",
+        "hd.uhd.live.wallpapers.topwallpapers",
+        "com.hdw.girlywallpapers",
+        "com.app.hider.master.vault.dialer.helper32",
+        "com.app.hider.master.locker",
+        "com.eco.wallpaper.background",
+        "com.cloneapp.parallelspace.dualspace",
+        "com.denite.watchface.watchr",
+        "org.blueiceshard.materialstyle",
+        "com.allstatus.meroofxstatus",
+        "com.jalan.control.center.vivo",
+        "com.khunsoe.bbktheme",
+        "com.redraw.keyboard.theme.newkeyboard20181",
+        "launcher.theme.samsung71",
+        "st.oppo.a1s.oppoa1s.oppo.a1s.wallpapers.theme",
         "com.abdulbasetapps.oldnokialauncher",
         "com.com.classic.launcheren",
         "com.com.classic.oldphonestyle",
@@ -1321,7 +1336,8 @@
         "com.heytap.themestore",
         "com.vivo.simplelauncher",
         "com.cocotbosok.nkinewlaner",
-        "com.ylans.shaders"
+        "com.ylans.shaders",
+        "com.wave.livewallpaper"
       ]
     },
     {
@@ -2267,6 +2283,19 @@
         "net.mbc.mbcnet",
         "com.screamboxtv",
         "com.nexttechgamesstudio.house.color.by.number.sandbox.coloring.adult.coloring.book",
+        "id.umpkindev.starfans",
+        "com.pashto.jokes",
+        "com.yowhatsplus2020.yowhats",
+        "com.piceffect.morelikesphoto",
+        "com.movefastcompany.bora",
+        "com.weieyu.yalla",
+        "com.qhqc.starvoice",
+        "com.socialnetwork.hayya",
+        "com.alchemiya",
+        "com.aconnectiontv",
+        "com.room408design.XboxDVRHub",
+        "kr.co.innoplus.kpopidol.WANNAONE",
+        "com.tube.minnan",
         "org.byuradioapp.android",
         "com.sec.android.app.samsungapps",
         "com.grakemods.moreportals_modaddon",
@@ -2280,7 +2309,10 @@
         "com.didilabs.kaavefali",
         "com.ringtones.androidringtone2019",
         "com.tuntv.iptv",
-        "com.shabakaty.cinemana"
+        "com.thanksgod.gaming.mod_ff_skin",
+        "com.videohunt.india",
+        "io.huwi.stable",
+        "com.funtech.funxd"
       ]
     },
     {
@@ -2812,10 +2844,21 @@
         "com.krishnasree.vyavasayam",
         "com.quotesmessages.quotesbymartinlutherking",
         "uz.meganet.uzmobile",
+        "om.gov.mara.maracal",
+        "com.labsiisoftware.speechcentral",
+        "com.alhuda.duasapp.duakijiye",
+        "dua.islaminsight.org",
+        "com.khaso.enam.kalimas.islam",
+        "com.QuranReading.ayatalkursiurdu",
+        "com.cyberdesignz.kalmaofislam",
+        "com.takbir.islam.quran.ahadees.ibadaat.dua",
+        "com.mqbapps.quraninpashto",
+        "com.dictionary.ps",
         "com.farlex.dizionario.italiano",
         "it.edigeo.diz.italiano.gabrielli",
         "com.cathyw.hyru",
-        "com.krishnasree.Mahabharatham"
+        "com.krishnasree.Mahabharatham",
+        "com.pashto.pashtonamaz"
       ]
     },
     {
@@ -3661,6 +3704,11 @@
         "com.bestringtonesapps.notificationsounds",
         "com.indpgamesandapps.naturesounds",
         "mb32u.music.player.free.download",
+        "media.player.video.musicplayer",
+        "musicplayer.online",
+        "com.outthinking.AudioExtractor",
+        "com.h20soft.videotomp3",
+        "com.nextmusic",
         "com.andromo.dev5592.app130677",
         "au.com.revheadz.revheadz",
         "com.toto.jcyj.mvmix",
@@ -3669,7 +3717,7 @@
         "com.android.VideoPlayer",
         "com.android.bbkmusic",
         "com.vivo.FMRadio",
-        "com.onmobile.boostmobile"
+        "com.ultimate.music.mp3.musicplayer"
       ]
     },
     {
@@ -3744,7 +3792,9 @@
         "cz.scamera.securitycamera",
         "com.colorsnap",
         "com.vnpt.onehome.app",
-        "codematics.roku.smart.rokutvremote.tvremote"
+        "codematics.roku.smart.rokutvremote.tvremote",
+        "com.zameen.zameenapp",
+        "com.pamsys.WebCam"
       ]
     },
     {
@@ -4294,6 +4344,17 @@
         "com.krishnasree.ChildhoodMemories",
         "com.altissia.ols",
         "com.vivek.cpp",
+        "com.datacomprojects.translatephoto",
+        "com.bapps.navograho",
+        "com.mejrabsoft.masnoonjanaza",
+        "com.six.kalimasofIslam.audiomp3",
+        "com.theappcentral.PiyarayRasoolKiPiyariDuain",
+        "com.quranreading.stepbystepsalat",
+        "mwyar.pashto.landnabavisirat",
+        "com.mwyar.pashtokhaistawainwe",
+        "mwyarmangal.online.ketabton",
+        "com.sof.revise",
+        "com.classtune.school_of_future",
         "it.fourbooks.app",
         "com.dealibri.deascuola",
         "com.additioapp.additio",
@@ -4302,7 +4363,8 @@
         "com.nuvek.scriptureplus",
         "com.jesusdigitalrd.jpcsim",
         "com.happydev4u.armenianfrenchtranslator",
-        "free_translator.hyen"
+        "free_translator.hyen",
+        "com.PakApps.NamazKaTarika"
       ]
     },
     {
@@ -4955,6 +5017,10 @@
         "com.tbnuk",
         "ott.pminternational",
         "com.thehomeremote.homeremote",
+        "com.dubizzle.dealerapp",
+        "com.rebbiz.mmcarsdb",
+        "id.hygensia.android",
+        "com.blogspot.ideahomeapps.ekadashi",
         "com.michiganlabs.myparish",
         "com.almojib.app",
         "net.alkafeel.mcb",
@@ -5740,9 +5806,16 @@
         "com.yesstyle.android",
         "com.zoodel.kz",
         "com.kuvacash.kuvalocal",
+        "br.com.gsgroup.zoombox.supermercadocazolli",
+        "com.beatgridmedia.panelsync.mediarewards",
+        "com.cartlow.android",
+        "com.sellbuyff.id",
+        "www.ourshopee.com",
         "com.bh.boost",
         "com.oriflame.oriflame",
-        "ru.crptech.mark"
+        "ru.crptech.mark",
+        "com.shopee.in",
+        "company.coutloot"
       ]
     },
     {
@@ -6141,6 +6214,9 @@
         "esselgroup.zeemedia.wionews",
         "com.sumarya",
         "com.newsplace.app",
+        "com.bauermedia.lro",
+        "com.pocketnews.lite",
+        "com.sangbadpratidin",
         "com.condenast.thenewyorker.android"
       ]
     },
@@ -6624,7 +6700,10 @@
         "com.eldconnectioneld.mobile",
         "ch.swift.willi",
         "gov.miamidade.MDTTracker",
-        "co.kubak.city"
+        "co.kubak.city",
+        "com.mapfactor.navigator_pro_truck",
+        "com.nng.igo.primong.igoworld",
+        "com.tomtom.gplay.navapp.nds"
       ]
     },
     {
@@ -7202,10 +7281,29 @@
         "com.vodafoneinnovus.coolio",
         "com.reputation.r4e.mobile.android",
         "com.beesoft.invoicepro.a",
+        "com.copart.transportation",
+        "com.clickworker.clickworkerapp",
+        "com.truelancer.app",
+        "com.o1",
+        "com.earnkaro",
+        "com.tuntun.resellapp",
+        "in.android.vcredit",
+        "com.mycashbook",
+        "com.cummins.filtration",
+        "com.al.ialert",
+        "com.doosan.heavy.partsbook",
+        "com.c24dealerapp",
+        "com.spectora.mobile",
+        "samsung.galaxy.grand.max.j7.s8.plus.galaxynote.j2.j2ace.nokia6.oppof3.a37.vivov5.theme.launcher",
+        "samsung.galaxy.on.max.s8.galaxys8.s7edge.s7plus.galaxys7.j2.j7.plus.j2ace.theme.launcher",
+        "com.imdb.pro.mobile.android",
         "com.dell.omm",
         "com.MYHR.myapplication",
         "supply.power.tsspdcl",
-        "in.product.salary"
+        "io.apc.starter",
+        "com.localqueen",
+        "in.okcredit.merchant",
+        "com.FreeRechargeApp"
       ]
     },
     {
@@ -7872,6 +7970,14 @@
         "com.motorola.mototalk",
         "com.i2vpn.i2vpn",
         "com.appsverse.avvpn",
+        "br.gov.in.doumobile",
+        "my.photo.picture.keyboard.keyboard.theme",
+        "com.pccw.clubsim",
+        "x.free.unlimited.global.call",
+        "com.abast.talkpro",
+        "com.wmspanel.larix_broadcaster",
+        "com.popa.video.status.download",
+        "com.is.core.app",
         "com.samsung.android.privateshare",
         "com.samsung.android.app.contacts",
         "com.samsung.android.messaging",
@@ -7880,7 +7986,9 @@
         "com.syntheticsoft.telecomm",
         "com.android.mms",
         "com.sappalodapps.callblocker",
-        "com.gbwhatsapp"
+        "com.touchtalent.bobbleapp",
+        "com.fmwhatsapp",
+        "com.bingo.livetalk"
       ]
     },
     {
@@ -8347,8 +8455,20 @@
         "yallashoot.shoot.yalla.com.yallashoot.newapp",
         "com.crics.cricket11",
         "nz.co.nuffie.android.crichq",
+        "com.mlive.wolverines.android",
+        "com.mlive.michbasketball.android",
+        "com.mlive.android.redwings",
+        "com.mlive.android.pistons",
+        "com.mlive.lions.android",
+        "com.nautilus.RealCricket3D",
+        "com.nautilus.RealCricketPremierLeague",
+        "com.nautilus.RealCricket3DLite",
+        "com.nextwave.wcc3",
+        "com.haegin.homerunclash",
+        "markergame.gymclub",
         "com.app.dream11Pro",
-        "com.billiards.shooting.ball.pool"
+        "com.billiards.shooting.ball.pool",
+        "com.nautilus.realcricket"
       ]
     },
     {
@@ -8738,11 +8858,18 @@
         "com.toluna.webservice",
         "io.chingari.app",
         "com.atomic.apps.facebook.statuses",
+        "com.app.hider.master.vault.dialer",
+        "com.polestar.super.clone",
+        "com.yowhatskith.ver",
+        "com.wa.gb.latest.pro.version.app.whats.status.saver.yo.video.chat",
+        "com.instagram_downloader.android",
         "com.instapro.android",
         "video.tiki",
         "com.anyNews.anynews",
         "com.kutumb.android",
-        "get.lokal.localnews"
+        "get.lokal.localnews",
+        "com.jogonoapp.famous.complete.namaz",
+        "com.thwart.four.global.vaicevidcall"
       ]
     },
     {
@@ -10051,13 +10178,40 @@
         "com.notejoy.mobile",
         "com.routinero.routinero",
         "com.megabyteapps.bixbyvision",
+        "com.ruraluy.app",
+        "com.pressmatrix.protecao",
+        "id.yongki.growtopiamarket",
+        "id.yongki.layananqta",
+        "com.hyperionics.avarLic",
+        "com.speechlogger.ttsreader",
+        "com.foodmonk.rekordapp",
+        "com.zlinksoft.accountmanager",
+        "com.al.leykart",
+        "com.servicemandi.fm",
+        "com.servicemandi.mechanic",
+        "com.al.digiserv",
+        "com.al.lcvserv",
+        "com.al.ediagnostics",
+        "com.yunosolutions.indiacalendar",
+        "suroj.pal.banglarbhumiparichay",
+        "com.mahadi.mynotesapp",
+        "com.angkormobi.notebook",
+        "com.alockiva.lockapps.applock.realfingerprint",
+        "com.pashto.keyboard.pashto.language.keyboard.app",
+        "com.urdu.keyboard.urdu.language.keyboard.app",
+        "com.encode.boostlike",
+        "com.qumai.linkfly",
+        "com.ideractive.page365",
+        "com.ibragunduz.applockpro",
         "xyz.mustafaali.devqstiles",
         "com.samsung.android.app.simplesharing",
         "com.sgk.eganna.in",
         "com.vivo.notes",
         "com.motorola.brapps",
         "ai.mint.keyboard",
-        "tidynotes.notes.notepad.notebook.note.checklist"
+        "tidynotes.notes.notepad.notebook.note.checklist",
+        "com.appobs.assamesecalendar",
+        "com.officedocument.word.docx.document.viewer"
       ]
     },
     {
@@ -11290,10 +11444,13 @@
         "it.phoenixspa.notify",
         "hu.dijnet.digicsekk",
         "vn.tnex.consumer",
+        "com.finart",
         "src.com.sacombank",
         "vn.com.sacombank.msign",
         "am.lsoft.mobilebanking.ashb",
-        "com.hdbfs.myportal"
+        "com.hdbfs.myportal",
+        "com.gb.gaadibazaar",
+        "com.snapmint.customerapp"
       ]
     },
     {
@@ -11872,7 +12029,9 @@
         "com.fitiv.fitivapplication",
         "com.oncreatez.bodymeasures",
         "com.heytap.health.international",
-        "net.sumitk.quotesmeditation"
+        "net.sumitk.quotesmeditation",
+        "com.fantasylab.bootybuilder",
+        "com.vickyjustiz"
       ]
     },
     {
@@ -14876,6 +15035,57 @@
         "com.esite_iq.shamstelecom",
         "com.coloros.pictorial",
         "com.privatezone.appvault",
+        "com.calagem_app.codigo.agro.dados.agro",
+        "br.com.orulo",
+        "com.vaioz.faceid",
+        "com.lockscreen.faceidpro",
+        "com.app.batterysaver",
+        "com.royalappcode.translation.voice.language.chat.interpreter",
+        "com.language.translate.all.voice.translator",
+        "camera.translator.realtime",
+        "com.ticktalk.cameratranslator",
+        "com.traductorweb",
+        "com.triplens.android",
+        "app.hackkcah.xyz",
+        "com.trendmicro.wifiprotection.us",
+        "co.clario.android",
+        "io.wifimap.zorro.vpnapp",
+        "id.yongki.allmediasaver",
+        "com.document.pdf.filereader",
+        "com.ai.bfly",
+        "com.scanner.barcode.qr.code.reader",
+        "com.mobileappsshop.barcode",
+        "com.al.itconnect",
+        "com.outscar.bd.bongcal",
+        "com.hld.anzenbokusu",
+        "hidephoto.hidevideo.keep.safe.privatealbum.supervault",
+        "com.domobile.photolocker",
+        "lahasoft.security.app.locker.applock",
+        "com.systweak.applocker",
+        "com.ibe.learn.namaz.urdu.step.by.step",
+        "com.lma.vdffb",
+        "com.macropinch.novapearl",
+        "fancyclean.antivirus.boost.applock",
+        "com.eco.applockfingerprint",
+        "com.eco.fastcharger",
+        "multi.parallel.dualspace.cloner",
+        "com.statussaver.gbversion.fencyfont.latestversion",
+        "com.screenmirroring.miracast.webvideo",
+        "com.photovideo.audio.deleted.restored",
+        "video.downloader.download.freevideodownloader",
+        "vymate.video.downloader.vmate.vimate.dmate",
+        "security.plus.applock.callblocker.lockscreen",
+        "com.urdu.keyboard.for.android",
+        "com.boloorian.android.kurdishkeyboard",
+        "com.frontrow.vlog",
+        "com.fragileheart.applock",
+        "com.scooper.pgceditor",
+        "com.harteg.crookcatcher",
+        "com.hld.screenmonitor",
+        "com.elvison.IntruderCheck",
+        "com.bloketech.lockwatch",
+        "hiddencamdetector.futureapps.com.hiddencamdetectoradsfree",
+        "com.acalculator.calcs",
         "com.samsung.android.calendar",
         "com.sec.android.app.fm",
         "com.android.vending",
@@ -14926,8 +15136,33 @@
         "com.video.fun.app",
         "com.dmktechnologies.telugucompass",
         "com.osfunapps.RemoteforSunDirect",
-        "com.telug.keyboard.for.android",
-        "com.voice.translator.android"
+        "air.com.ace2three.mobile.cash",
+        "com.allltranslator.efficienttool",
+        "com.cameratranslate.language",
+        "com.magic.vstyle",
+        "com.normalproxy.app",
+        "com.thanksgod.gaming.mod_ff_skin",
+        "com.vido.particle.ly.lyrical.status.maker",
+        "com.x.free.file.manager.app",
+        "hesoft.T2S",
+        "com.miui.gallery",
+        "com.miui.fm",
+        "com.tsang.alan.notepad",
+        "com.dialervault.dialerhidephoto",
+        "applock.applocker.lockapp.password.locker",
+        "com.all.translate.languages.text.voice.ocr",
+        "com.argonremote.batterynotifier",
+        "com.eco.flashalerts.callflash",
+        "com.excean.parallelspace",
+        "com.maker.master",
+        "com.rapid.videodownloader",
+        "com.scanittech.tool",
+        "com.smart.pashto.keyboard.younus",
+        "com.opera.max.oem",
+        "com.samsung.android.contacts",
+        "com.samsung.android.app.galaxyfinder",
+        "applock.lockapps.fingerprint.password.locker",
+        "com.miragestacks.thirdeye"
       ]
     },
     {
@@ -15531,9 +15766,10 @@
         "com.LA.MyLA311",
         "uk.co.readingbuses.greenline",
         "com.mapzonestudio.gps.navigation.live.map.voice.translator",
+        "com.tomtom.mydrive",
+        "com.greenleaf.android.translator.enes.c",
         "app.baly.passenger",
-        "org.trimet.mt.accounts",
-        "com.railmitra.www"
+        "org.trimet.mt.accounts"
       ]
     },
     {
@@ -16327,7 +16563,9 @@
         "air.Android_Temperature",
         "com.sixthsolution.weather360",
         "com.jesusdigitalrd.hh",
-        "com.vivo.weather"
+        "com.weather.forcast.accurate.weatherlive",
+        "com.vivo.weather",
+        "com.transsion.weathers"
       ]
     },
     {
@@ -16935,10 +17173,27 @@
         "com.samsungimaging.connectionmanager",
         "com.irisstudio.picturequotes",
         "com.soft.clickers.love.Frames",
+        "com.lyrebirdstudio.neon_art",
+        "com.lyrebirdstudio.cartoon",
+        "to.pho.visagelab_pro",
+        "com.lyrebirdstudio.art",
+        "com.lyrebirdstudio.cartoon.face",
+        "com.opalsapps.photoslideshowwithmusic",
+        "com.photovault.photoguard",
+        "com.app.aiimglarger",
+        "com.apowersoft.photoenhancer",
+        "com.wangxutech.picwish",
+        "com.pixamotion",
+        "br.com.zoetropic.free",
+        "me.crystaliq",
+        "com.bodoss.beforeafter",
+        "com.sk.logomaker",
         "com.sec.android.gallery3d",
         "com.sec.android.app.camera",
         "com.android.camera2",
-        "com.arabyfree.zaaaaakh"
+        "com.arabyfree.zaaaaakh",
+        "com.codeway.pixelup",
+        "com.lightx.storyz"
       ]
     },
     {
@@ -16972,7 +17227,8 @@
         "com.ringtonesfors8.galaxys8ringtones.ringtones2017",
         "com.ClassicNokiaRingtones.osdnahtcfa",
         "galaxys9ringtones.ringtonesfors9.notifications",
-        "smsringtones.besttones.notificationsounds"
+        "smsringtones.besttones.notificationsounds",
+        "com.faceid.scanid.scanface"
       ]
     },
     {
@@ -17139,8 +17395,7 @@
         "com.clinical.quicklabreference",
         "com.h2sync.android.h2syncapp",
         "com.myancare",
-        "com.rhythmman",
-        "eka.care"
+        "com.rhythmman"
       ]
     },
     {
@@ -17338,6 +17593,8 @@
         "it.techdt.mycars",
         "com.platelookup",
         "com.sprint.drive",
+        "com.vitalmod.vin_number_check",
+        "com.scania.driversguide",
         "com.kalvlad.car"
       ]
     },
@@ -17772,10 +18029,35 @@
         "com.videofx",
         "com.picslab.neon.editor",
         "com.ceino.shalomworld",
+        "com.video.movie.free.downloader.play.videodownloader",
+        "slideshow.videomaker.photovideo",
+        "pure.video.downloader.videodownloader",
+        "com.downloadfacebookvideos.savefbvideos",
+        "com.vtool.screenrecorder.screenrecording.videoeditor",
+        "tv.picpac.edu",
+        "com.r15.provideomaker",
+        "com.eco.reverse.reversevideo",
+        "com.wondershare.videap",
+        "com.mbit.beely.video.story.social.downloader.hdwallpapers.instagrid.video.maker.video.editor",
+        "com.videoshow.videomaker.videoeditor.slideshow",
+        "com.reelsvideodownapp.ansvideodown",
+        "com.vfxeditor.android",
+        "vidma.video.editor.videomaker",
+        "vidsoftlab.videoconverter.videotomp3converter",
+        "com.andromania.videotomp3",
+        "mega.video.converter",
+        "com.clogica.videoaudioconverter",
+        "com.opex.makemyvideostatus",
         "downloader.video.download.free",
         "com.junkfood.seal",
         "com.android.VideoPlayer",
-        "com.google.android.apps.youtube.mango"
+        "com.google.android.apps.youtube.mango",
+        "com.vanced.android.youtube",
+        "com.all.social.video.downloader",
+        "com.maxinfo.videomegaanabadle",
+        "com.video.editor.greattalent",
+        "com.video.tomp3",
+        "com.zjf.inssaver"
       ]
     }
   ],
@@ -18155,8 +18437,23 @@
         "com.RoysVoxelGameDev.VoxelResourceBuilding",
         "com.blockycars.online",
         "com.tencent.toaa",
+        "com.snake.io.slither.worms",
+        "io.voodoo.flyingarrow",
+        "com.noodlecake.farmpunks",
+        "com.umxstudio.kickking",
+        "com.critical.strike2",
+        "com.blayzegames.newfps",
+        "com.SevenBulls.CounterAttackShooter",
+        "com.kakarod.bighunter",
+        "se.itatake.gumslinger",
+        "com.noodlecake.altosodyssey",
         "com.RoysVoxelGameDev.VoxelsBreakdown",
-        "studio.osa.smashit"
+        "studio.osa.smashit",
+        "com.game.snakexenzia",
+        "com.ForgeGames.SpecialForcesGroup2",
+        "com.devolverdigital.myfriendpedro",
+        "com.markergame.powerflow",
+        "com.lark.snake.fire"
       ]
     },
     {
@@ -18366,6 +18663,7 @@
         "com.divmob.ageofheroes.braveheroes.battleheroes.epicheroeswar.epicheroes.en",
         "org.nanobit.hollywood",
         "com.glu.stardomkim",
+        "com.apps2us.slither.slink.io",
         "com.candyroom.clubcraft",
         "com.vcraftmodsstudio.toolsgamesmod"
       ]
@@ -18397,6 +18695,12 @@
         "babyphone.freebabygames.com.babyphone",
         "com.kids.Alphabet.number.piano.Game.Free",
         "com.kids.preschool.learning.games",
+        "com.sinyee.babybus.shopping",
+        "com.rvappstudios.kids.coloring.book.color.painting",
+        "com.PepiPlay.PepiHospital",
+        "com.sinyee.babybus.world",
+        "com.rvappstudios.kids.drawing.games.coloring.book.paint",
+        "com.gokids.colorsmasters",
         "com.GamesForKids.Mathgames.MultiplicationTables"
       ]
     },
@@ -18584,6 +18888,25 @@
         "com.king.farmheroessaga",
         "com.fruitheroes.legend",
         "com.king.candycrushsodasaga",
+        "com.match3d.matchtriple3d.tilemaster",
+        "com.foranj.farmtown",
+        "com.ids.little.farm.time.fun",
+        "com.foranj.farmparadise",
+        "com.foranj.farmtown3",
+        "com.foranj.farmisland",
+        "com.funplus.familyfarm",
+        "com.rohancreative.mergeheroes",
+        "com.playrix.fishdom_solitaire.gplay",
+        "com.whitedot.bfg",
+        "com.RBSSOFT.HyperMobile",
+        "com.pgpublish.android.airportscanner",
+        "io.voodoo.flyingarrow",
+        "com.interlinked.games.jumpup.man",
+        "com.rvappstudios.kids.coloring.book.color.painting",
+        "com.dp.hidden.objects",
+        "se.itatake.gumslinger",
+        "gs.hadi.projectx",
+        "com.bigcool.puzzle.candygenies",
         "com.android.contacts",
         "com.KazukGames.SmashPhone",
         "com.SevenGearsGames.CarCrashSimulatorRealCarDamageAccident3D",
@@ -18608,7 +18931,25 @@
         "com.diamondlife.slots.vegas.free",
         "com.tw.tycoon.casino",
         "com.winning.jackpot.slots.casino.mania.slotmachines.free",
-        "com.bgg.jump"
+        "com.bgg.jump",
+        "com.citybay.farming.citybuilding",
+        "com.hg.fishevolution.android",
+        "com.sunsetgames.bordersecurity",
+        "com.winzo.gold",
+        "com.lark.snake.fire",
+        "candymanor.homedesign.match3",
+        "com.dropdom.blockpuzzle.hwwgame",
+        "com.knights.bikesstunt.motomaster",
+        "com.miniit.brain",
+        "com.PixelXYZGames.IndianTractorSimulator",
+        "com.orange.kidspiano.music.songs",
+        "com.ffgames.racingincar2",
+        "com.lemel.hidden",
+        "com.aliha100.KingofSteering",
+        "com.nautilus.realcricket",
+        "com.ForgeGames.SpecialForcesGroup2",
+        "com.devolverdigital.myfriendpedro",
+        "com.alignit.chess"
       ]
     },
     {
@@ -18665,7 +19006,9 @@
         "eu.appsolutelyapps.quizpatente",
         "de.androidcrowd.logoquiz",
         "foodquiz.guessthefood",
-        "com.lzj.win.superbrain"
+        "com.lzj.win.superbrain",
+        "com.xmonetize.quizzland",
+        "com.brainbaazi"
       ]
     },
     {
@@ -18901,8 +19244,10 @@
         "air.br.com.chinchon.mobile",
         "com.quarzo.solitarios",
         "com.blyts.escoba",
+        "com.playrix.fishdom_solitaire.gplay",
         "com.lattanzio.eljodete",
-        "com.gsn.conquian"
+        "com.gsn.conquian",
+        "com.kvwywgzmcom.owdmsydsrv"
       ]
     },
     {
@@ -19089,7 +19434,23 @@
         "com.slots.best.android",
         "com.superluckycasino.megadiamond.slots.vegas.android.free",
         "com.superluckycasino.hotvegas.slots.vegas.android.free",
-        "com.bling.bitcoinfoodfight"
+        "com.bling.bitcoinfoodfight",
+        "com.mygamesisland.is.snake",
+        "com.bentostudio.ballsvsblocks",
+        "com.setsnail.orm",
+        "com.defcob.dragonvalley",
+        "com.ohmgames.chambouletout",
+        "com.nomonkeys.ballblast",
+        "com.Dani.Balls",
+        "io.voodoo.flyingarrow",
+        "com.winkelgames.juump",
+        "com.umxstudio.missilecommand",
+        "com.marorugames.battingHero",
+        "com.halfbrick.dantheman",
+        "com.waog.jsc",
+        "com.jayjoy.idletower",
+        "com.MarkerGames.HeroDepartment",
+        "com.teamtogames.pushballs"
       ]
     },
     {
@@ -19672,12 +20033,46 @@
         "com.rvappstudios.puzzle.game.find.difference.ftd",
         "com.lemellabs.differences",
         "com.puzzledom.differencefindtour",
+        "and.lihuhu.machingtriple",
+        "com.match3d.matchtriple3d.tilemaster",
+        "and.lihuhu.matchingmaster3d",
+        "and.lihuhu.matching3d",
+        "com.Shezo.Match3",
+        "com.playrix.fishdom_solitaire.gplay",
+        "com.webelinx.Rooms.Exits.EscapeRoom.FreeEscapeGames",
+        "com.hundong.chilun",
+        "com.stormiq.brain",
+        "com.totaleclipsegames.clkwrkbrain",
+        "com.studiorouleau.splitballs",
+        "io.voodoo.Tale",
+        "com.Arte.vandalsGame",
+        "com.gladgames.onelineonetouch",
+        "games.nadastudio.android.starman",
+        "com.bombayplay.Dice",
+        "com.bombayplay.DailyWord",
+        "com.bombayplay.Crosswordly",
+        "com.find.hidden.object.difference.clue",
+        "com.midva.HiddenObjectLivingRoom",
+        "com.find.out.hidden.objects",
+        "com.everywear.game5",
+        "com.my.mansion.puzzle.match.design.home",
+        "com.game.fallingpuzzle",
+        "blockpuzzle.jewel.puzzlegames",
+        "com.mindmill.block.puzzle.games",
+        "markergame.beautyorganizer",
+        "com.markergame.yourcity",
         "com.dreamgames.royalmatch",
         "com.taptapgames.unpuzzle",
         "com.gramgames.mergedragons",
         "com.tripledot.woodoku",
         "com.miniit.spotit",
-        "net.peakgames.amy"
+        "net.peakgames.amy",
+        "com.miniit.brain",
+        "flex.ring.game",
+        "com.bombayplay.spot.match.math.puzzle",
+        "com.lemel.hidden",
+        "com.dropdom.blockpuzzle.hwwgame",
+        "candymanor.homedesign.match3"
       ]
     },
     {
@@ -19904,8 +20299,20 @@
         "com.zengardenapps.yatzy",
         "techmasterplus.sudokumasteradfree",
         "rc4812.androidsudoku",
+        "and.dinlygo.tilepair3d",
+        "and.lihuhu.tiletriple3d",
+        "and.lihuhu.MTBall",
+        "and.lihuhu.matchpair3d",
+        "and.lihuhu.mahjong3d",
+        "com.rottzgames.findobject",
+        "com.umxstudio.ludo",
+        "chessfriends.online.chess",
+        "chess.friends.game.play",
+        "com.kingsofgames.chessuniverse",
         "in.ludo.supremegold",
-        "com.yalla.yallaparchisi"
+        "com.yalla.yallaparchisi",
+        "and.lihuhu.findmatch",
+        "com.alignit.chess"
       ]
     },
     {
@@ -19955,6 +20362,7 @@
         "clubillion.social.slots.casino.friends.free.android",
         "casino.video.poker.classic.android",
         "casino.video.poker.winning.android",
+        "com.winrgames.bigtime",
         "com.cash.slot.spin.android",
         "com.superluckycasino.epicjackpot.slots.vegas.android.free",
         "com.actiongaming.originalvideopoker",
@@ -20233,6 +20641,16 @@
         "de.maksu.max.cs16timer",
         "com.cocoplay.fashion.style",
         "com.style.fashion.game.suitsme",
+        "com.playstack.idleaquarium",
+        "com.codigames.idle.tv.empire.tycoon",
+        "com.PixelXYZ.Offroadindiantrucksimulator2020",
+        "com.PixelXYZ.Extremeoffroadbussimulator",
+        "com.PixelXYZ.BusSimulation2019",
+        "com.PixelXYZ.OffroadIndianTruckSimulator",
+        "com.PixelXYZ.ForestCarParking3D",
+        "com.PixelXYZ.CoachBusSimulatorParking",
+        "hotsiberians.idle.anomalies.research.station.building.tycoon.simulator",
+        "com.MarkerStudios.SummerCampOlympics",
         "com.KreizLand.DestroyerMobile",
         "com.Matt.car.crash.simulator.CarCrashSimulator",
         "com.SevenGearsGames.CarCrashSimulatorRealCarDamageAccident3D",
@@ -20241,7 +20659,10 @@
         "com.trainandcargames.grenadeweaponsimulator3d",
         "com.visnalize.win7simu",
         "com.craft.good.vip.build.builder",
-        "com.craftsman.go"
+        "com.craftsman.go",
+        "com.knights.bikesstunt.motomaster",
+        "com.PixelXYZGames.IndianTractorSimulator",
+        "com.citybay.farming.citybuilding"
       ]
     },
     {
@@ -20297,7 +20718,19 @@
         "com.zengardenapps.yatzy",
         "ru.skillcap.dominoes",
         "com.rvappstudios.puzzle.game.find.difference.ftd",
-        "com.je.supersus"
+        "com.fingersoft.hillclimb",
+        "com.aliha100.climbingsanddune3d1",
+        "com.nautilus.RealCricket3D",
+        "com.nextwave.wcc3",
+        "com.axlebolt.standoff2",
+        "chessfriends.online.chess",
+        "com.turbolabz.instantchess.android.googleplay",
+        "com.kingsofgames.chessuniverse",
+        "com.je.supersus",
+        "com.aliha100.KingofSteering",
+        "com.nautilus.realcricket",
+        "com.ForgeGames.SpecialForcesGroup2",
+        "com.alignit.chess"
       ]
     },
     {
@@ -20343,7 +20776,8 @@
         "com.prpr.musedash",
         "com.WhiteTigerStd.MinusBattle",
         "games.mousetrap.rtbpremium",
-        "com.amanotes.jumping.man"
+        "com.amanotes.jumping.man",
+        "com.orange.kidspiano.music.songs"
       ]
     },
     {
@@ -20490,6 +20924,8 @@
         "com.leme.coe",
         "com.tap4fun.odin.kingdomguard",
         "com.tap4fun.ape.gplay",
+        "com.smart.car.parking.simulator",
+        "com.brokendiamond.advance.car.parking.driving.school",
         "com.camelgames.superking",
         "com.ubisoft.clash.of.war.strategy.rpg.pvp.raid",
         "com.je.supersus",
@@ -20630,6 +21066,11 @@
         "kemco.magitec.yakusai",
         "com.cocoplay.fashion.style",
         "air.com.games2win.internationalfashionstylist",
+        "com.jimaapps.tricky.stuntbike.racing.trails.games",
+        "com.gameswing.impossiblecarstunts.monstertrucks.cardriving.simulator",
+        "com.mustardgames.ultimate.car.stunt.impossibletracks",
+        "com.sneakypanda.pandapower2",
+        "com.ltgames.android.DS3",
         "tr.com.apps.fashion.battle"
       ]
     },
@@ -20799,7 +21240,16 @@
         "com.gameloft.android.ANMP.GloftCAHM",
         "com.Matt.car.Driftcar",
         "com.RoysVoxelGameDev.Marbleballsrace",
-        "studio.osa.marblerun3d"
+        "studio.osa.marblerun3d",
+        "com.kn.bike.race.free.games",
+        "com.ht.mini.car.raceway.endless.drive",
+        "com.dagtirmanma.oyunu",
+        "com.aliha100.climbingsanddune3d1",
+        "leagueofmonkeys.torqueburnout",
+        "com.markergame.levelupnumbers",
+        "com.ffgames.racingincar2",
+        "com.aliha100.KingofSteering",
+        "com.knights.bikesstunt.motomaster"
       ]
     },
     {
@@ -20919,6 +21369,29 @@
         "com.puzzledom.differencefindtour",
         "air.com.games2win.internationalfashionstylist",
         "com.amanotes.jumping.man",
+        "and.lihuhu.machingtriple",
+        "and.lihuhu.mahjong3d",
+        "com.funplus.familyfarm",
+        "com.mygamesisland.is.snake",
+        "com.snake.io.slither.worms",
+        "com.whitedot.bfg",
+        "com.playstack.idleaquarium",
+        "com.mustardgames.ultimate.car.stunt.impossibletracks",
+        "com.webelinx.Rooms.Exits.EscapeRoom.FreeEscapeGames",
+        "com.stormiq.brain",
+        "com.ohmgames.chambouletout",
+        "io.voodoo.Tale",
+        "com.rvappstudios.kids.coloring.book.color.painting",
+        "com.smart.car.parking.simulator",
+        "com.ht.mini.car.raceway.endless.drive",
+        "com.find.hidden.object.difference.clue",
+        "com.aliha100.climbingsanddune3d1",
+        "com.nextwave.wcc3",
+        "com.halfbrick.dantheman",
+        "com.everywear.game5",
+        "chess.friends.game.play",
+        "blockpuzzle.new1010.jewelgames.puzzlegames",
+        "com.mindmill.block.puzzle.games",
         "com.SevenGearsGames.CarCrashSimulatorRealCarDamageAccident3D",
         "com.lr_soft.windows98simulator",
         "com.superluckycasino.epicjackpot.slots.vegas.android.free",
@@ -20938,7 +21411,22 @@
         "com.diamondlife.slots.vegas.free",
         "com.tw.tycoon.casino",
         "com.winning.jackpot.slots.casino.mania.slotmachines.free",
-        "com.miniit.spotit"
+        "com.miniit.spotit",
+        "com.PixelXYZGames.IndianTractorSimulator",
+        "com.orange.kidspiano.music.songs",
+        "com.aliha100.KingofSteering",
+        "com.dropdom.blockpuzzle.hwwgame",
+        "com.citybay.farming.citybuilding",
+        "com.knights.bikesstunt.motomaster",
+        "com.miniit.brain",
+        "com.ffgames.racingincar2",
+        "com.lemel.hidden",
+        "com.nautilus.realcricket",
+        "com.ForgeGames.SpecialForcesGroup2",
+        "com.devolverdigital.myfriendpedro",
+        "com.lark.snake.fire",
+        "candymanor.homedesign.match3",
+        "com.alignit.chess"
       ]
     },
     {
@@ -21367,8 +21855,19 @@
         "yallashoot.shoot.yalla.com.yallashoot.newapp",
         "com.crics.cricket11",
         "nz.co.nuffie.android.crichq",
+        "com.mlive.wolverines.android",
+        "com.mlive.michbasketball.android",
+        "com.mlive.android.redwings",
+        "com.mlive.android.pistons",
+        "com.mlive.lions.android",
+        "com.nautilus.RealCricketPremierLeague",
+        "com.nautilus.RealCricket3DLite",
+        "com.nextwave.wcc3",
+        "com.haegin.homerunclash",
+        "markergame.gymclub",
         "com.app.dream11Pro",
-        "com.billiards.shooting.ball.pool"
+        "com.billiards.shooting.ball.pool",
+        "com.nautilus.realcricket"
       ]
     }
   ],
