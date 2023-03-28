@@ -1360,7 +1360,12 @@
         "com.aurhe.ap15",
         "space.wall7Fon",
         "com.helectronsoft.free.live.wallpaper.parallax.background",
-        "com.maxelus.shadowgalaxylivewallpaper"
+        "com.maxelus.shadowgalaxylivewallpaper",
+        "com.samsung.android.aremoji",
+        "com.lge.gamelauncher",
+        "com.coloros.onekeylockscreen",
+        "com.samsung.android.themestore",
+        "com.android.bbk.lockscreen3"
       ]
     },
     {
@@ -2360,7 +2365,8 @@
         "com.luckycoin.earn.realcash.app",
         "com.yomobigroup.chat",
         "com.shabakaty.cinemana",
-        "com.moneybyvideo.android"
+        "com.moneybyvideo.android",
+        "com.nemo.vidmate"
       ]
     },
     {
@@ -3828,6 +3834,20 @@
         "com.lge.music",
         "com.lge.clock",
         "com.lge.fmradio",
+        "com.lge.hifirecorder",
+        "com.coloros.video",
+        "com.android.fmradio",
+        "com.coloros.musiclink",
+        "com.coloros.soundrecorder",
+        "com.heytap.music",
+        "cn.zte.recorder",
+        "com.zte.videoplayer",
+        "com.oppo.music",
+        "com.transsion.soundrecorder",
+        "com.transsion.fmradio",
+        "com.android.soundrecorder",
+        "com.evenwell.fmradio",
+        "com.android.music",
         "com.android.bbksoundrecorder",
         "com.caf.fmradio",
         "com.funbase.xradio",
@@ -4495,7 +4515,8 @@
         "com.jesusdigitalrd.jpcsim",
         "com.happydev4u.armenianfrenchtranslator",
         "free_translator.hyen",
-        "com.PakApps.NamazKaTarika"
+        "com.PakApps.NamazKaTarika",
+        "com.diotek.sec.lookup.dictionary"
       ]
     },
     {
@@ -5180,7 +5201,8 @@
         "com.givvyradios",
         "com.givvyvideos",
         "com.samsung.android.bixby.agent",
-        "com.lge.lgworld"
+        "com.lge.lgworld",
+        "com.pinsight.v1"
       ]
     },
     {
@@ -8192,6 +8214,7 @@
         "com.beint.zangi",
         "com.gbwhatsapp",
         "com.miui.enbbs",
+        "com.vivo.email",
         "com.android.email"
       ]
     },
@@ -8678,7 +8701,8 @@
         "com.badminton.free",
         "com.app.dream11Pro",
         "com.billiards.shooting.ball.pool",
-        "com.nautilus.realcricket"
+        "com.nautilus.realcricket",
+        "com.dream11.fantasy.cricket.football.kabaddi"
       ]
     },
     {
@@ -10461,8 +10485,33 @@
         "com.misricalendar.hijrical",
         "com.xiaomi.midrop",
         "com.lge.qmemoplus",
-        "com.android.filemanager",
-        "com.transsion.notebook"
+        "com.samsung.android.app.reminder",
+        "com.android.gallery3d",
+        "com.coremobility.app.vnotes",
+        "com.lge.camera",
+        "com.coloros.gallery3d",
+        "com.oplus.camera",
+        "com.coloros.alarmclock",
+        "com.bbk.calendar",
+        "com.android.notes",
+        "com.oppo.camera",
+        "com.transsion.camera",
+        "com.android.calendar",
+        "com.transsion.calendar",
+        "com.hmdglobal.camera2lite",
+        "com.mediatek.camera",
+        "com.transsion.notebook",
+        "com.coloros.phonemanager",
+        "com.coloros.calculator",
+        "com.coloros.filemanager",
+        "com.heytap.cloud",
+        "com.redteamobile.roaming",
+        "com.android.providers.downloads.ui",
+        "zte.com.cn.filer",
+        "zte.com.cn.usermanual",
+        "com.vivo.email",
+        "com.oppo.usercenter",
+        "com.coloros.aftersalesservice"
       ]
     },
     {
@@ -11710,8 +11759,7 @@
         "com.spin.app.latest",
         "id.aladinbank.mobile",
         "id.co.adira.adiraku",
-        "com.posindonesia.giropos",
-        "com.mipay.wallet.in"
+        "com.posindonesia.giropos"
       ]
     },
     {
@@ -15528,20 +15576,48 @@
         "com.lge.qmemoplus",
         "com.lge.updatecenter",
         "com.sprint.ecid",
-        "com.zte.privacyzone",
+        "com.coloros.phonemanager",
+        "com.coloros.video",
+        "com.coloros.calculator",
+        "com.coloros.compass2",
+        "com.coloros.filemanager",
+        "com.coloros.soundrecorder",
+        "com.heytap.cloud",
+        "com.coloros.onekeylockscreen",
+        "cn.zte.recorder",
+        "com.android.providers.downloads.ui",
+        "com.zte.videoplayer",
+        "zte.com.cn.filer",
+        "com.android.bbkcalculator",
+        "com.vivo.compass",
+        "com.coloros.operationtips",
+        "com.transsion.deskclock",
+        "com.transsion.soundrecorder",
+        "com.android.soundrecorder",
+        "com.miui.compass",
+        "com.samsung.android.themestore",
+        "com.android.bbk.lockscreen3",
+        "com.android.calculator2",
+        "com.mediatek.filemanager",
         "com.android.bbksoundrecorder",
         "com.android.filemanager",
         "com.samsung.max.go",
-        "com.heytap.market",
-        "com.sec.android.usermanual",
         "com.transsion.compass",
-        "com.transsion.notebook",
-        "com.mipay.wallet.in",
-        "com.transsion.wezone",
-        "com.srin.fakfak",
-        "com.transsion.insync",
-        "com.android.email",
-        "com.transsion.dtsaudio"
+        "com.coloros.gallery3d",
+        "com.oplus.camera",
+        "com.oplus.vip",
+        "com.coloros.alarmclock",
+        "com.redteamobile.roaming",
+        "com.opos.cs",
+        "zte.com.cn.usermanual",
+        "com.android.BBKClock",
+        "com.android.notes",
+        "com.oppo.camera",
+        "com.oppo.usercenter",
+        "com.coloros.aftersalesservice",
+        "com.heytap.lab",
+        "com.samsung.app.samsungmemberstub",
+        "com.samsung.android.spaymini"
       ]
     },
     {
@@ -16952,7 +17028,8 @@
         "com.jesusdigitalrd.hh",
         "com.weather.forcast.accurate.weatherlive",
         "com.vivo.weather",
-        "com.transsion.weathers"
+        "com.transsion.weathers",
+        "com.coloros.weather2"
       ]
     },
     {
@@ -17596,7 +17673,8 @@
         "com.accarunit.hd.camera.pro",
         "com.magictiger.ai.picma",
         "com.android.gallery3d",
-        "com.lge.camera"
+        "com.lge.camera",
+        "com.coloros.gallery3d"
       ]
     },
     {
@@ -18474,7 +18552,15 @@
         "com.video.editor.greattalent",
         "com.video.tomp3",
         "com.zjf.inssaver",
-        "com.downloadvideofacebook.videodownloader"
+        "com.downloadvideofacebook.videodownloader",
+        "com.coloros.video",
+        "com.zte.videoplayer",
+        "com.oplus.camera",
+        "com.coloros.musiclink",
+        "com.coloros.soundrecorder",
+        "com.heytap.music",
+        "cn.zte.recorder",
+        "com.oppo.music"
       ]
     }
   ],
@@ -21067,8 +21153,7 @@
         "com.gamesofa.android.luxytexasholdem",
         "com.huoys.royaldomino",
         "com.lucky.domino.id",
-        "com.redkoda.chinesepokermultiplayernew",
-        "com.poka88"
+        "com.redkoda.chinesepokermultiplayernew"
       ]
     },
     {
@@ -22633,7 +22718,8 @@
         "com.badminton.free",
         "com.app.dream11Pro",
         "com.billiards.shooting.ball.pool",
-        "com.nautilus.realcricket"
+        "com.nautilus.realcricket",
+        "com.dream11.fantasy.cricket.football.kabaddi"
       ]
     }
   ],
