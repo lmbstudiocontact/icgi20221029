@@ -1256,7 +1256,14 @@
         "com.lwsipl.ioslauncher",
         "com.FreeRingtonesApps.GalaxyS7.Ringtones",
         "com.babyfish.bests7rts",
-        "diy.gold.silk.theme"
+        "diy.gold.silk.theme",
+        "com.duma102.scifi.wallpaper",
+        "com.duma101.fantasy.wallpaper",
+        "clor.anime.wallpaper",
+        "com.az.wallpapera",
+        "colo.anime.wallpaper",
+        "com.az.wallpaperv",
+        "com.az.launchernoki"
       ]
     },
     {
@@ -3515,6 +3522,8 @@
         "com.samsung.speaker",
         "com.samsung.roomspeaker3",
         "com.trfa.galaxysrt",
+        "com.lyrics.az",
+        "com.ph.azlyrics",
         "com.andromo.dev5592.app130677"
       ]
     },
@@ -7581,7 +7590,9 @@
         "com.samsung.android.privateshare",
         "com.samsung.android.app.contacts",
         "com.samsung.android.messaging",
-        "com.sec.android.app.sbrowser.lite"
+        "com.sec.android.app.sbrowser.lite",
+        "com.android.dialer",
+        "com.syntheticsoft.telecomm"
       ]
     },
     {
@@ -14440,7 +14451,9 @@
         "com.android.vending",
         "com.android.settings",
         "com.samsung.android.dialer",
-        "com.android.stk"
+        "com.android.stk",
+        "com.android.documentsui",
+        "com.android.dialer"
       ]
     },
     {
@@ -16419,7 +16432,8 @@
         "ilabs.CartoonCamera",
         "photo.video.private.photogallery",
         "com.sec.android.gallery3d",
-        "com.sec.android.app.camera"
+        "com.sec.android.app.camera",
+        "com.android.camera2"
       ]
     },
     {
