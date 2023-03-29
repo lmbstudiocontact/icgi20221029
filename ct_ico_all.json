@@ -3270,7 +3270,10 @@
         "quran.taj.tajquranapp",
         "com.alqurankareemurdu",
         "com.najitec.urduquran",
-        "com.iroshni.asanquran"
+        "com.iroshni.asanquran",
+        "com.drikp.core",
+        "com.vitotechnology.sky.tonight.map.star.walk",
+        "com.mobincube.tohafaloqool"
       ]
     },
     {
@@ -4367,7 +4370,14 @@
         "free.mediaplayer.mp3.audio.music",
         "com.MSoft.cloudradioPro",
         "am.imusic.mobile",
-        "com.lagumelayulama.mp3.starduck"
+        "com.lagumelayulama.mp3.starduck",
+        "com.delal.faqedmosawi",
+        "com.ltmathus",
+        "com.moslem1alwal",
+        "net.maythamaltammar.quranmp3",
+        "com.hihonor.android.fmradio",
+        "com.hihonor.soundrecorder",
+        "ipod.music.player"
       ]
     },
     {
@@ -5147,7 +5157,12 @@
         "quran.taj.tajquran15line",
         "com.atq.quranemajeedapp.org.urdu",
         "com.netacad.PacketTracerM",
-        "com.xyzdev.tutorialadobepremierepro.videocourses"
+        "com.xyzdev.tutorialadobepremierepro.videocourses",
+        "benazir.incomel.support",
+        "com.krishna.bhagvadgita",
+        "com.asellawesareaitaq2000",
+        "com.bio6bio",
+        "com.cccexamstudy.Iraqclass15pdf"
       ]
     },
     {
@@ -5909,7 +5924,9 @@
         "com.quanticapps.athan",
         "com.thelabayk.app",
         "com.kt.android.showtouch",
-        "com.islam360.beta"
+        "com.islam360.beta",
+        "com.nakshatra.finder",
+        "com.tailorapp.mhpartner"
       ]
     },
     {
@@ -8409,7 +8426,8 @@
         "smartcitypk.smartcity.pk.smartcity",
         "com.t2s.mytakeaway",
         "com.loading.groot",
-        "com.wolt.courierapp"
+        "com.wolt.courierapp",
+        "pk.gov.nadra.pakid"
       ]
     },
     {
@@ -9177,7 +9195,9 @@
         "com.ace.freevpn",
         "com.pitb.rasta",
         "com.pitb.policekhidmatmarkaz",
-        "com.mtelo.ktAPP"
+        "com.mtelo.ktAPP",
+        "com.hihonor.email",
+        "com.coloros.browser"
       ]
     },
     {
@@ -10133,7 +10153,8 @@
         "com.mobile.android.eris",
         "com.kismia.app",
         "com.pitb.qeematpunjab",
-        "id.co.babe"
+        "id.co.babe",
+        "com.PakistaniMatrimony"
       ]
     },
     {
@@ -11638,7 +11659,11 @@
         "pk.gov.pitb.npsc",
         "com.pitb.domicilepunjab",
         "sightidea.com.setlocale",
-        "com.pak.datafinder.simdetails"
+        "com.pak.datafinder.simdetails",
+        "com.hihonor.calendar",
+        "com.hihonor.camera",
+        "com.hihonor.notepad",
+        "com.hihonor.photos"
       ]
     },
     {
@@ -17325,7 +17350,16 @@
         "com.example.savefromNew",
         "com.samsung.android.keyscafe",
         "com.skt.skaf.A000Z00040",
-        "com.feddev.scanner"
+        "com.feddev.scanner",
+        "com.hihonor.deskclock",
+        "com.hihonor.filemanager",
+        "com.hihonor.notepad",
+        "com.hihonor.calculator",
+        "com.hihonor.compass",
+        "com.hihonor.soundrecorder",
+        "com.hihonor.systemmanager",
+        "com.hihonor.tips",
+        "com.sec.adl.secburninprofiler"
       ]
     },
     {
@@ -18782,7 +18816,8 @@
         "com.perfectly.tool.apps.weather",
         "com.perfectly.lightweather.advanced.weather",
         "weather.forecast.storm.radar",
-        "com.realtimeforecast.weather"
+        "com.realtimeforecast.weather",
+        "com.hihonor.android.totemweather"
       ]
     },
     {
