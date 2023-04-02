@@ -6140,7 +6140,8 @@
         "com.clubdance",
         "com.desert.strom.mobile.app.rriplaygo",
         "audioeditor.musiceditor.soundeditor.songeditor",
-        "maa.slowed_reverb.vaporwave_music_maker"
+        "maa.slowed_reverb.vaporwave_music_maker",
+        "com.music.download.downloadtube.music.player"
       ]
     },
     {
@@ -7366,7 +7367,10 @@
         "hu.ekreta.guardian",
         "simption.primeattendance",
         "com.latestfact.factzilla",
-        "com.okramuf.musikteori"
+        "com.okramuf.musikteori",
+        "com.slatescience.Matific",
+        "com.ixl.ixlmath",
+        "com.fusionprojects.edmodo"
       ]
     },
     {
@@ -15381,7 +15385,13 @@
         "com.applus.notepad.note",
         "com.naturalsoft.personalweb",
         "com.the.archers.note.pad.notebook.notepad",
-        "note.notesapp.notebook.notepad.stickynotes.colornote"
+        "note.notesapp.notebook.notepad.stickynotes.colornote",
+        "com.visualmathstudio.fractioncalculator",
+        "org.chromium.webapk.a315098618b3ada09_v2",
+        "org.chromium.webapk.a383311097f8cb68c_v2",
+        "org.chromium.webapk.a5c06713c7ee8443b_v2",
+        "org.chromium.webapk.ab3920fce7d5d921d_v2",
+        "org.chromium.webapk.afd060ae1483dd2ad_v2"
       ]
     },
     {
@@ -17668,7 +17678,8 @@
         "gymworkout.workout.buildmuscle.exercise",
         "com.mbti.cocos.pro",
         "com.fps.gyorgytea",
-        "com.menabs.sixpackworkout"
+        "com.menabs.sixpackworkout",
+        "com.homefit.yoga.health"
       ]
     },
     {
@@ -22485,7 +22496,13 @@
         "it.android.demi.elettronica",
         "wordtextcounter.details.main",
         "com.ghosal.realvoice",
-        "com.stcodesapp.text2speech"
+        "com.stcodesapp.text2speech",
+        "com.i.video.recorder",
+        "org.chromium.webapk.a315098618b3ada09_v2",
+        "org.chromium.webapk.a383311097f8cb68c_v2",
+        "org.chromium.webapk.a5c06713c7ee8443b_v2",
+        "org.chromium.webapk.ab3920fce7d5d921d_v2",
+        "org.chromium.webapk.afd060ae1483dd2ad_v2"
       ]
     },
     {
@@ -23770,7 +23787,8 @@
         "com.everyplate.android",
         "com.factor75.factor75",
         "com.greenchef.GreenChef",
-        "com.como.prod925720220708"
+        "com.como.prod925720220708",
+        "com.riatech.cakerecipes"
       ]
     },
     {
@@ -25098,7 +25116,9 @@
         "com.vicman.newprofilepic",
         "com.camera.mi9",
         "to.blend.mobile_app",
-        "com.air.camera.photo.editor.beauty"
+        "com.air.camera.photo.editor.beauty",
+        "com.arbelsolutions.BVRUltimate",
+        "fourthopt.aiocam"
       ]
     },
     {
@@ -26340,7 +26360,8 @@
         "com.lembark.watch.applock",
         "com.huawei.himovie",
         "generalplus.com.GPCamDemo",
-        "videodownloader.fbvideodownloader.facebookvideodownloader.videodownloaderforfacebook"
+        "videodownloader.fbvideodownloader.facebookvideodownloader.videodownloaderforfacebook",
+        "com.ivideon.client"
       ]
     }
   ],
@@ -27274,7 +27295,8 @@
         "com.extremedevelopers.forceofwarships",
         "com.generamobile.deathrace",
         "com.squareenixmontreal.hitmansniper2",
-        "com.rockvillegames.battlefield"
+        "com.rockvillegames.battlefield",
+        "com.candyrufusgames.survivalcraft"
       ]
     },
     {
@@ -27660,7 +27682,8 @@
         "com.sjyy.hair",
         "com.szgd.killvirus",
         "com.LightOnDevs.OpenStunt",
-        "com.giantfish.survive.thelong.drive"
+        "com.giantfish.survive.thelong.drive",
+        "com.fsilva.marcelo.lostminer"
       ]
     },
     {
@@ -29775,7 +29798,14 @@
         "com.alpg.bingo",
         "com.candylegend.manordesign",
         "com.tongitspro.play",
-        "com.uken.bingo_infinity"
+        "com.uken.bingo_infinity",
+        "free.card.solitaire.klondike.pl",
+        "com.jewelgames.puzzle.tetris.pl",
+        "com.threejoy.roomparkour.pl",
+        "com.save.acsavedog",
+        "com.coolgc.penguinfriends",
+        "com.match.loop.ps",
+        "com.sjyy.savedoge"
       ]
     },
     {
@@ -30245,7 +30275,8 @@
         "com.monthurs.solitaire.challenge",
         "com.duole.klondike",
         "com.sngict.rummy.gin",
-        "com.tongitspro.play"
+        "com.tongitspro.play",
+        "com.oengines.tonkmultiplayer"
       ]
     },
     {
@@ -30718,7 +30749,8 @@
         "com.atypicalgames.sgsr",
         "com.wbr.worldofbattleship",
         "com.tgk.epic.juice.run.parkour",
-        "com.nextstep.fruitburstline"
+        "com.nextstep.fruitburstline",
+        "com.neutronized.dropwizard"
       ]
     },
     {
@@ -31953,7 +31985,9 @@
         "com.HoleSenear.beijinghutoujing.gp",
         "com.cltd.sticklegion",
         "com.candylegend.manordesign",
-        "com.cheese.word.lucky.win"
+        "com.cheese.word.lucky.win",
+        "dk.tactile.beebrilliantblast",
+        "com.poptopapps.slidecats"
       ]
     },
     {
@@ -32301,7 +32335,11 @@
         "com.shologuti.baghchal.damroo.damru.bead16.boardgame.sixteensoldier",
         "com.ludo.ludoapp",
         "com.butterboxgames.carrom",
-        "com.gamersworld.ludo.land"
+        "com.gamersworld.ludo.land",
+        "com.artcomdev.ludooffline",
+        "com.tonielrosoft.classicludofree",
+        "air.com.playcus.bingokingdom",
+        "com.hippogames.ludosaga"
       ]
     },
     {
@@ -32453,7 +32491,8 @@
         "com.games.poker.teenpatti",
         "com.sohooltd.sohoopoker.pro",
         "com.alpg.bingo",
-        "com.uken.bingo_infinity"
+        "com.uken.bingo_infinity",
+        "com.casinofrenzy.romagames"
       ]
     },
     {
@@ -33386,7 +33425,9 @@
         "com.Ovilex.BusSimulator2023",
         "com.apptov.carmech",
         "com.mageeks.trainsimulatorprousa",
-        "com.tojgames.Driver_Life.car.simulator.racing.driving.extreme.parking.multiplayer"
+        "com.tojgames.Driver_Life.car.simulator.racing.driving.extreme.parking.multiplayer",
+        "com.dnagames.rescuepets",
+        "com.craft.box.clever.sword.dragon"
       ]
     },
     {
@@ -33702,7 +33743,8 @@
         "com.butterboxgames.carrom",
         "com.zuuks.truck.simulator.ultimate",
         "leyi.westgame",
-        "com.tongitspro.play"
+        "com.tongitspro.play",
+        "com.ludo.king"
       ]
     },
     {
@@ -34356,7 +34398,8 @@
         "com.fungames.flightpilot",
         "com.napoleongames.sevenmages",
         "com.tgk.idle.gas.station.junkyard.sim",
-        "de.booknapp.malapp"
+        "de.booknapp.malapp",
+        "com.mindblocks.blocks_light"
       ]
     },
     {
@@ -36430,7 +36473,9 @@
         "com.alpg.bingo",
         "com.candylegend.manordesign",
         "com.tongitspro.play",
-        "com.uken.bingo_infinity"
+        "com.uken.bingo_infinity",
+        "com.fsilva.marcelo.lostminer",
+        "com.tonielrosoft.classicludofree"
       ]
     },
     {
