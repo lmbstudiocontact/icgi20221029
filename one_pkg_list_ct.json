@@ -16376,6 +16376,11 @@
     "Travel & Local"
   ]
 },{
+  "pkg": "com.eventmanager.task.calendar",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.zeptolab.ctrm.free.google",
   "lt_type": [
     "Puzzle"
@@ -64545,6 +64550,13 @@
     "Music & Audio"
   ]
 },{
+  "pkg": "com.healingjjam.attiland",
+  "lt_type": [
+    "Casual",
+    "Puzzle",
+    "Single player"
+  ]
+},{
   "pkg": "com.cisco.webex.meetings",
   "lt_type": [
     "Business"
@@ -74174,6 +74186,11 @@
     "Productivity"
   ]
 },{
+  "pkg": "com.tomatos.appclient",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "com.uniqlo.tw.catalogue",
   "lt_type": [
     "Shopping"
@@ -78404,6 +78421,13 @@
     "Lifestyle"
   ]
 },{
+  "pkg": "com.appxplore.masketeers",
+  "lt_type": [
+    "Casual",
+    "Role Playing",
+    "Single player"
+  ]
+},{
   "pkg": "com.binbirbit.ulasim.istanbul",
   "lt_type": [
     "Maps & Navigation"
@@ -81064,6 +81088,11 @@
   ]
 },{
   "pkg": "mega.tv2.paraguay",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
+  "pkg": "com.betteranimev3",
   "lt_type": [
     "Entertainment"
   ]
@@ -141109,6 +141138,11 @@
     "Business"
   ]
 },{
+  "pkg": "com.brasilparalelo.athena",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "com.appindustry.everywherelauncher",
   "lt_type": [
     "Personalization"
@@ -152688,6 +152722,11 @@
     "Finance"
   ]
 },{
+  "pkg": "com.belasartesalacarte",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "jp.Appsys.PanecalST",
   "lt_type": [
     "Productivity"
@@ -157656,6 +157695,11 @@
   "pkg": "com.tapuniverse.animefilter",
   "lt_type": [
     "Art & Design"
+  ]
+},{
+  "pkg": "br.com.petlove.petlove",
+  "lt_type": [
+    "Shopping"
   ]
 },{
   "pkg": "com.accountancy.solution.ncert",
