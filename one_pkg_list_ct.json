@@ -674,6 +674,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.blizz.wtmp.snap.intruder.lockwatch",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "nl.youfone.voicemail",
   "lt_type": [
     "Communication"
@@ -806,6 +811,11 @@
   "pkg": "com.lavalimestudios.EatTacToe",
   "lt_type": [
     "Puzzle"
+  ]
+},{
+  "pkg": "com.emagssob.maubinh",
+  "lt_type": [
+    "Card"
   ]
 },{
   "pkg": "com.liquidum.hexlock",
@@ -1146,6 +1156,11 @@
     "Arcade"
   ]
 },{
+  "pkg": "com.belal.alarqawi.shakhsiaqawiah",
+  "lt_type": [
+    "Social"
+  ]
+},{
   "pkg": "com.foranj.farmtown3",
   "lt_type": [
     "Casual"
@@ -1181,6 +1196,11 @@
     "Video Players & Editors"
   ]
 },{
+  "pkg": "com.open.supercat.app",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.alfamediaweb.reumapp",
   "lt_type": [
     "Medical"
@@ -1189,6 +1209,11 @@
   "pkg": "zombie.survival.online.craft",
   "lt_type": [
     "Action"
+  ]
+},{
+  "pkg": "com.sagosago.Friends.googleplay",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "com.btpn.dc",
@@ -1249,6 +1274,11 @@
   "pkg": "com.home.entertainment.gossip",
   "lt_type": [
     "Entertainment"
+  ]
+},{
+  "pkg": "com.gmg.gradient3d.icon.theme.pack",
+  "lt_type": [
+    "Personalization"
   ]
 },{
   "pkg": "com.pons.onlinedictionary",
@@ -1319,6 +1349,11 @@
     "Medical"
   ]
 },{
+  "pkg": "com.winners.institute",
+  "lt_type": [
+    "Education"
+  ]
+},{
   "pkg": "com.audials.paid",
   "lt_type": [
     "Music & Audio"
@@ -1362,6 +1397,11 @@
   "pkg": "com.franco.agenda",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "com.lakshyamathematicsteachingcentre.rakeshyadavreasoningbookoffline",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "com.jatapp.bibleforyoucatholic",
@@ -1465,6 +1505,7 @@
   "lt_type": [
     "Action",
     "Casual",
+    "Simulation",
     "Single player"
   ]
 },{
@@ -2428,6 +2469,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "com.barodatz",
+  "lt_type": [
+    "Finance"
+  ]
+},{
   "pkg": "com.thndrgames.bitcoinbounce",
   "lt_type": [
     "Arcade"
@@ -2864,6 +2910,14 @@
   "pkg": "bakos.com.doubledice",
   "lt_type": [
     "Casino"
+  ]
+},{
+  "pkg": "com.apodev.addition.free",
+  "lt_type": [
+    "Educational",
+    "Casual",
+    "Multiplayer",
+    "Single player"
   ]
 },{
   "pkg": "pt.jamorant.cuteten",
@@ -3767,6 +3821,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.pioneer.alternativeremote",
+  "lt_type": [
+    "Music & Audio"
+  ]
+},{
   "pkg": "com.c51",
   "lt_type": [
     "Shopping"
@@ -4336,6 +4395,13 @@
     "Music & Audio"
   ]
 },{
+  "pkg": "com.minigame.carracing",
+  "lt_type": [
+    "Casual",
+    "Racing",
+    "Single player"
+  ]
+},{
   "pkg": "com.heebo.iscreen",
   "lt_type": [
     "Entertainment"
@@ -4670,6 +4736,13 @@
   "pkg": "com.mobilerise.weather.clock.free",
   "lt_type": [
     "Weather"
+  ]
+},{
+  "pkg": "com.dvloper.slendrinacellarfree",
+  "lt_type": [
+    "Action",
+    "Casual",
+    "Single player"
   ]
 },{
   "pkg": "acr.browser.lightning",
@@ -5613,6 +5686,11 @@
     "Social"
   ]
 },{
+  "pkg": "com.emagssob.capsasusun",
+  "lt_type": [
+    "Card"
+  ]
+},{
   "pkg": "com.whos.teamdevcallingme",
   "lt_type": [
     "Social"
@@ -6042,6 +6120,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.battery.cmter.chargeanimbatries",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.desmos.calculator",
   "lt_type": [
     "Education"
@@ -6213,6 +6296,11 @@
   "pkg": "com.pinkpointer.sudoku",
   "lt_type": [
     "Puzzle"
+  ]
+},{
+  "pkg": "com.formula1.event",
+  "lt_type": [
+    "Sports"
   ]
 },{
   "pkg": "com.es.mod",
@@ -7143,6 +7231,11 @@
     "Casual"
   ]
 },{
+  "pkg": "uzdeveloper.telegram.messengeruzbek",
+  "lt_type": [
+    "Communication"
+  ]
+},{
   "pkg": "com.famousbluemedia.yokee",
   "lt_type": [
     "Music & Audio"
@@ -7188,6 +7281,12 @@
   "pkg": "com.maitop.toddlerpiano",
   "lt_type": [
     "Educational"
+  ]
+},{
+  "pkg": "com.boombitgames.Dartsy",
+  "lt_type": [
+    "Sports",
+    "Multiplayer"
   ]
 },{
   "pkg": "com.techtool.wifiqrcodepasswordscanner",
@@ -7548,6 +7647,11 @@
     "Sports"
   ]
 },{
+  "pkg": "com.muradhoshen.android13",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.ahaworld.ahaworld",
   "lt_type": [
     "Educational"
@@ -7581,6 +7685,11 @@
   "pkg": "caller.phone.id.fakecall",
   "lt_type": [
     "Communication"
+  ]
+},{
+  "pkg": "com.muradhoshen.android12",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.frandroid.app",
@@ -7911,9 +8020,19 @@
     "Auto & Vehicles"
   ]
 },{
+  "pkg": "id.lurusdeveloper.iqrolengkapdengansuara",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.moblynx.clockjbplus",
   "lt_type": [
     "Personalization"
+  ]
+},{
+  "pkg": "com.doaalkl.alhagat",
+  "lt_type": [
+    "Lifestyle"
   ]
 },{
   "pkg": "com.bubadu.bubbuschool",
@@ -8621,6 +8740,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.sabgames.ramazonuz",
+  "lt_type": [
+    "Lifestyle"
+  ]
+},{
   "pkg": "com.hunterdevelopers.iqTest",
   "lt_type": [
     "Entertainment"
@@ -8779,6 +8903,11 @@
   "pkg": "idu.com.radio.radyoturk",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "com.aswajacenter.maulidalbarzanji",
+  "lt_type": [
+    "Books & Reference"
   ]
 },{
   "pkg": "com.andromo.dev883951.app1029310",
@@ -9102,6 +9231,11 @@
     "Lifestyle"
   ]
 },{
+  "pkg": "com.pioneer.india.directsales",
+  "lt_type": [
+    "Shopping"
+  ]
+},{
   "pkg": "com.coolmobilesolution",
   "lt_type": [
     "Business"
@@ -9178,6 +9312,11 @@
   "pkg": "com.rtve.clan",
   "lt_type": [
     "Entertainment"
+  ]
+},{
+  "pkg": "com.wowthemes.wowthrdstereotypestheme.one",
+  "lt_type": [
+    "Personalization"
   ]
 },{
   "pkg": "com.kitlakecore.dailyquote",
@@ -9258,6 +9397,11 @@
   "pkg": "sv.telefonica.mimovistar",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "jlzn.com.android.compass",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "my.com.myboost",
@@ -9869,6 +10013,11 @@
     "Board"
   ]
 },{
+  "pkg": "com.belal.alarqawi.shashehapp",
+  "lt_type": [
+    "Photography"
+  ]
+},{
   "pkg": "com.filmticket.s",
   "lt_type": [
     "Music & Audio"
@@ -10356,6 +10505,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.pdfmerge.imagetopdf.pdfmaker",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "it.roadhouse.app",
   "lt_type": [
     "Food & Drink"
@@ -10496,6 +10650,11 @@
   "pkg": "com.codewaystudios.facedance",
   "lt_type": [
     "Entertainment"
+  ]
+},{
+  "pkg": "com.sportsbuzz11.fantasy",
+  "lt_type": [
+    "Sports"
   ]
 },{
   "pkg": "com.goldenfrog.vyprvpn.app",
@@ -10856,6 +11015,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "com.surveys.corteva",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
   "pkg": "bitsykolayers.piereligio.dst",
   "lt_type": [
     "Personalization"
@@ -11090,6 +11254,11 @@
   "pkg": "com.miantan.myoface",
   "lt_type": [
     "Entertainment"
+  ]
+},{
+  "pkg": "com.corteva.rootsapplication",
+  "lt_type": [
+    "Productivity"
   ]
 },{
   "pkg": "com.hike.speedludo",
@@ -11417,6 +11586,11 @@
     "Education"
   ]
 },{
+  "pkg": "jp.pioneer.avsoft.android.controlapp",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "com.tellurionmobile.realmcraft",
   "lt_type": [
     "Adventure"
@@ -11585,6 +11759,11 @@
   "pkg": "com.progoti.tallykhata",
   "lt_type": [
     "Business"
+  ]
+},{
+  "pkg": "com.shahcement.tawfiq",
+  "lt_type": [
+    "Lifestyle"
   ]
 },{
   "pkg": "com.adam.aslfms",
@@ -11845,6 +12024,13 @@
   "lt_type": [
     "Casual",
     "Role Playing",
+    "Single player"
+  ]
+},{
+  "pkg": "com.gigago.flying.unicorn.horse",
+  "lt_type": [
+    "Action",
+    "Casual",
     "Single player"
   ]
 },{
@@ -12472,6 +12658,11 @@
     "Casual"
   ]
 },{
+  "pkg": "fun.studioringtones.xfilesringtones",
+  "lt_type": [
+    "Music & Audio"
+  ]
+},{
   "pkg": "com.stargb.gbgbappwhatsgbsaver.gbappgbversionlatestwhats",
   "lt_type": [
     "Entertainment"
@@ -12966,6 +13157,11 @@
     "Single player"
   ]
 },{
+  "pkg": "com.iom2am1.ommgd",
+  "lt_type": [
+    "Education"
+  ]
+},{
   "pkg": "dev.rokitskiy.miband6_watchface",
   "lt_type": [
     "Tools"
@@ -13173,6 +13369,13 @@
   "pkg": "com.construction_site_auditing",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "com.hyperbeard.catopia",
+  "lt_type": [
+    "Casual",
+    "Simulation",
+    "Single player"
   ]
 },{
   "pkg": "com.chocspo.chocspoapp",
@@ -13517,6 +13720,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "com.skipads.floating.io.free",
+  "lt_type": [
+    "Video Players & Editors"
+  ]
+},{
   "pkg": "com.dmktechnologies.bengalicompass",
   "lt_type": [
     "Tools"
@@ -13656,6 +13864,11 @@
     "Lifestyle",
     "Simulation",
     "Single player"
+  ]
+},{
+  "pkg": "io.quotex",
+  "lt_type": [
+    "Finance"
   ]
 },{
   "pkg": "com.miui.notes",
@@ -14825,6 +15038,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "com.area730.tiger.family.sim",
+  "lt_type": [
+    "Simulation"
+  ]
+},{
   "pkg": "tw.org.kmuh.app.android.netreg",
   "lt_type": [
     "Medical"
@@ -15118,6 +15336,11 @@
   "pkg": "com.pixlud.beautypluscam",
   "lt_type": [
     "Photography"
+  ]
+},{
+  "pkg": "com.shinypet.simulatorx.shinypetx.mytips",
+  "lt_type": [
+    "Adventure"
   ]
 },{
   "pkg": "com.att.mobile.android.vvm",
@@ -15542,6 +15765,11 @@
     "Casual",
     "Puzzle",
     "Single player"
+  ]
+},{
+  "pkg": "com.freepic.editoreffect.imageeditor.ct",
+  "lt_type": [
+    "Photography"
   ]
 },{
   "pkg": "com.mm.android.lchg.glow",
@@ -16434,6 +16662,11 @@
     "Education"
   ]
 },{
+  "pkg": "com.emagssob.tienlen",
+  "lt_type": [
+    "Card"
+  ]
+},{
   "pkg": "com.hk.ugc",
   "lt_type": [
     "Social"
@@ -16487,6 +16720,11 @@
   "pkg": "com.gameloft.android.ANMP.GloftM4HM",
   "lt_type": [
     "Action"
+  ]
+},{
+  "pkg": "com.wisdomlogix.background.remover.change.bg",
+  "lt_type": [
+    "Photography"
   ]
 },{
   "pkg": "hu.ekreta.student",
@@ -16796,6 +17034,11 @@
   "pkg": "mahjong.games.mahjong.classic.free",
   "lt_type": [
     "Puzzle"
+  ]
+},{
+  "pkg": "com.touchin.perfectmoney",
+  "lt_type": [
+    "Finance"
   ]
 },{
   "pkg": "com.ubtsupport.streamline3admin",
@@ -18064,6 +18307,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "com.lovebirthday.heartstikers.emojigif.whatsapp",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "com.dlink.mydlinkmyhome",
   "lt_type": [
     "Productivity"
@@ -18077,6 +18325,11 @@
   "pkg": "com.jndapp.linex.white.iconpack",
   "lt_type": [
     "Personalization"
+  ]
+},{
+  "pkg": "instagram.downloader.download.videos.photos",
+  "lt_type": [
+    "Productivity"
   ]
 },{
   "pkg": "com.junegaming.devilparty",
@@ -18238,6 +18491,13 @@
   "lt_type": [
     "Entertainment",
     "Tools"
+  ]
+},{
+  "pkg": "com.ramp.bike.impossible.bike.stunt.game",
+  "lt_type": [
+    "Casual",
+    "Racing",
+    "Single player"
   ]
 },{
   "pkg": "com.jagex.runescape.android",
@@ -18485,6 +18745,11 @@
     "Simulation"
   ]
 },{
+  "pkg": "com.tforp.markettrends",
+  "lt_type": [
+    "Finance"
+  ]
+},{
   "pkg": "sk.tesco.groceries",
   "lt_type": [
     "Shopping"
@@ -18644,6 +18909,11 @@
   "pkg": "com.harry.wallpie",
   "lt_type": [
     "Personalization"
+  ]
+},{
+  "pkg": "com.playonegames.WolfOnline2New",
+  "lt_type": [
+    "Adventure"
   ]
 },{
   "pkg": "com.adultswim.videoapp.android",
@@ -18862,6 +19132,11 @@
   "pkg": "hu.mol.plugee.driver",
   "lt_type": [
     "Auto & Vehicles"
+  ]
+},{
+  "pkg": "com.emagssob.tienlenlite",
+  "lt_type": [
+    "Card"
   ]
 },{
   "pkg": "com.drive2",
@@ -19486,6 +19761,13 @@
   "pkg": "videosgraciosos.vistoenforocoches",
   "lt_type": [
     "Entertainment"
+  ]
+},{
+  "pkg": "com.abstractart.music_racer",
+  "lt_type": [
+    "Arcade",
+    "Music",
+    "Single player"
   ]
 },{
   "pkg": "power.hd.videoplayer",
@@ -20147,6 +20429,11 @@
   "pkg": "com.cool.memes",
   "lt_type": [
     "Personalization"
+  ]
+},{
+  "pkg": "com.mediabay",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "splid.teamturtle.com.splid",
@@ -21161,6 +21448,11 @@
     "Puzzle"
   ]
 },{
+  "pkg": "cn.com.vau",
+  "lt_type": [
+    "Finance"
+  ]
+},{
   "pkg": "com.audiosdroid.soundfontpiano",
   "lt_type": [
     "Music & Audio"
@@ -21447,6 +21739,11 @@
     "Productivity"
   ]
 },{
+  "pkg": "com.centuryproclub.oneloyalty",
+  "lt_type": [
+    "Business"
+  ]
+},{
   "pkg": "air.net.andg.heartcamera",
   "lt_type": [
     "Photography"
@@ -21555,6 +21852,11 @@
   "pkg": "com.speedoc.patient",
   "lt_type": [
     "Medical"
+  ]
+},{
+  "pkg": "com.onermusic.RadioHuaweiY72018",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "com.outfit7.talkingsantagingerfree",
@@ -21753,6 +22055,11 @@
   "pkg": "com.gsoftteam.hangman",
   "lt_type": [
     "Word"
+  ]
+},{
+  "pkg": "com.gionee.filemanager",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.FreeLance.ParentVUE",
@@ -23592,6 +23899,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.gachapluss.plusgachcaracters",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "live.weather.vitality.local.channel.forecast",
   "lt_type": [
     "Weather"
@@ -23863,6 +24175,13 @@
     "Personalization"
   ]
 },{
+  "pkg": "com.tbegames.and.best_moto_race",
+  "lt_type": [
+    "Multiplayer",
+    "Racing",
+    "Single player"
+  ]
+},{
   "pkg": "com.galihapp.lagubestmalaysia90",
   "lt_type": [
     "Music & Audio"
@@ -24059,6 +24378,11 @@
     "Entertainment"
   ]
 },{
+  "pkg": "com.tronlinkpro.wallet",
+  "lt_type": [
+    "Finance"
+  ]
+},{
   "pkg": "com.mms.resume.usa",
   "lt_type": [
     "Business"
@@ -24077,6 +24401,17 @@
   "pkg": "com.vilvahstore",
   "lt_type": [
     "Shopping"
+  ]
+},{
+  "pkg": "com.rectvplus",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
+  "pkg": "org.chromium.webapk.af0a790b2a5ce2a4b_v2",
+  "lt_type": [
+    "Productivity",
+    "Tools"
   ]
 },{
   "pkg": "com.hybrid.stopwatch",
@@ -24580,6 +24915,13 @@
   "pkg": "com.mobileappsshop.barcode",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.YovoGames.babyCare2",
+  "lt_type": [
+    "Casual",
+    "Simulation",
+    "Single player"
   ]
 },{
   "pkg": "com.colorchangerapp.changecilorinphotos",
@@ -26428,6 +26770,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.kiya.mahaplus",
+  "lt_type": [
+    "Finance"
+  ]
+},{
   "pkg": "media.video.player",
   "lt_type": [
     "Video Players & Editors"
@@ -27046,6 +27393,14 @@
     "Trivia"
   ]
 },{
+  "pkg": "com.turborocketgames.catsim",
+  "lt_type": [
+    "Casual",
+    "Simulation",
+    "Multiplayer",
+    "Single player"
+  ]
+},{
   "pkg": "com.metamoji.mazecen",
   "lt_type": [
     "Productivity"
@@ -27644,6 +27999,11 @@
     "Lifestyle"
   ]
 },{
+  "pkg": "com.williamhill.us.nj.sports",
+  "lt_type": [
+    "Sports"
+  ]
+},{
   "pkg": "com.clov3rlabs.movistar_gol.android",
   "lt_type": [
     "Sports"
@@ -27742,6 +28102,11 @@
   "pkg": "com.djinnworks.sb17",
   "lt_type": [
     "Sports"
+  ]
+},{
+  "pkg": "com.dronelink.dronelink",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "ru.perm.trubnikov.gps2sms",
@@ -28647,6 +29012,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.felinkotech.superenglishandshonabible",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.ascrypt.shdbestliverybussid",
   "lt_type": [
     "Personalization"
@@ -29060,6 +29430,11 @@
     "Maps & Navigation"
   ]
 },{
+  "pkg": "com.weeklyplannerapp.weeklyplanner",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
   "pkg": "jp.dmapnavi.navi02",
   "lt_type": [
     "Maps & Navigation"
@@ -29113,6 +29488,11 @@
   "pkg": "com.inductorcalculator",
   "lt_type": [
     "Education"
+  ]
+},{
+  "pkg": "com.write.notebooks",
+  "lt_type": [
+    "Productivity"
   ]
 },{
   "pkg": "com.jndapp.lotus.iconpack",
@@ -29594,6 +29974,11 @@
     "Productivity"
   ]
 },{
+  "pkg": "com.maher4web.hisn",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.waveform.signalstream",
   "lt_type": [
     "Tools"
@@ -29666,6 +30051,11 @@
   "pkg": "com.giannis.randomizer",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.litefinance.cabinet",
+  "lt_type": [
+    "Finance"
   ]
 },{
   "pkg": "com.vn.game.vuabienca",
@@ -30171,6 +30561,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.chuongdever.led_board",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.joinhonor.careprovider",
   "lt_type": [
     "Tools"
@@ -30451,6 +30846,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.gimbull.dinosaur.wallpapers",
+  "lt_type": [
+    "Personalization"
+  ]
+},{
   "pkg": "com.gbgames.heroshooter",
   "lt_type": [
     "Arcade"
@@ -30565,6 +30965,11 @@
   "lt_type": [
     "Puzzle",
     "Single player"
+  ]
+},{
+  "pkg": "com.mitz.application.sagirahmadtrickyaptitudemathinhindi",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "cl.ionix.enex.mipago",
@@ -30693,6 +31098,11 @@
   "pkg": "com.gappstudio.docxread.docxreader",
   "lt_type": [
     "Business"
+  ]
+},{
+  "pkg": "com.lightricks.videoboost",
+  "lt_type": [
+    "Video Players & Editors"
   ]
 },{
   "pkg": "com.pgappsbd.all_quran_orthosho",
@@ -30927,6 +31337,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "asecurity.phone.junk.cleaner.antivirus",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
   "pkg": "com.ronie.rashi2017",
   "lt_type": [
     "Lifestyle"
@@ -31146,6 +31561,11 @@
     "Casual",
     "Multiplayer",
     "Single player"
+  ]
+},{
+  "pkg": "com.ngajiapp.murottal.saud.shuraim.quran.mp3.offline",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "jp.ne.sk_mine.android.game.battle_of_285",
@@ -32105,6 +32525,11 @@
     "Productivity"
   ]
 },{
+  "pkg": "com.kumpulan.suarahantu",
+  "lt_type": [
+    "Music & Audio"
+  ]
+},{
   "pkg": "retail.grameenphone.com.gpretail",
   "lt_type": [
     "Business"
@@ -32225,6 +32650,11 @@
   "pkg": "jp.co.airfront.android.a2chMate",
   "lt_type": [
     "Social"
+  ]
+},{
+  "pkg": "com.focodesign.focovideo",
+  "lt_type": [
+    "Video Players & Editors"
   ]
 },{
   "pkg": "com.hdSportsBikeWallpaper.bestmotorcyclewallpaper.bikewallpaper",
@@ -32401,6 +32831,11 @@
     "Single player"
   ]
 },{
+  "pkg": "com.mobile.cbiepassbook",
+  "lt_type": [
+    "Finance"
+  ]
+},{
   "pkg": "com.mi.health",
   "lt_type": [
     "Health & Fitness"
@@ -32553,6 +32988,11 @@
   "pkg": "com.monthurs.solitaire.classic.card",
   "lt_type": [
     "Card"
+  ]
+},{
+  "pkg": "mobi.charmer.magovideo",
+  "lt_type": [
+    "Video Players & Editors"
   ]
 },{
   "pkg": "com.komik.free",
@@ -34185,6 +34625,11 @@
     "Entertainment"
   ]
 },{
+  "pkg": "com.all.game.play.zupee.i",
+  "lt_type": [
+    "Sports"
+  ]
+},{
   "pkg": "com.sfr.android.moncompte",
   "lt_type": [
     "Tools"
@@ -34220,6 +34665,11 @@
   "lt_type": [
     "Casual",
     "Role Playing"
+  ]
+},{
+  "pkg": "com.lyrebirdstudio.videoeditor",
+  "lt_type": [
+    "Video Players & Editors"
   ]
 },{
   "pkg": "com.robobobo.apps.aws",
@@ -34417,6 +34867,11 @@
   "pkg": "com.dhemezh.lagunatal2022offline",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "com.infinityapps007.compasssensorforandroid",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.kapp.ifont",
@@ -35272,6 +35727,11 @@
   "pkg": "com.nekki.shadowfight2.paid",
   "lt_type": [
     "Action"
+  ]
+},{
+  "pkg": "com.belal.alarqawi.ishqwdmooapp",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "upper.duper.widget.glowing.full",
@@ -36243,6 +36703,11 @@
   "pkg": "com.boss.ccnaportablecommand",
   "lt_type": [
     "Education"
+  ]
+},{
+  "pkg": "com.App.Thwaap",
+  "lt_type": [
+    "Lifestyle"
   ]
 },{
   "pkg": "com.gameloft.android.ANMP.GloftNOHM",
@@ -38008,6 +38473,11 @@
     "Entertainment"
   ]
 },{
+  "pkg": "com.radefffactory.apptiles",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.martinvillar.android.quranindonesiapro",
   "lt_type": [
     "Books & Reference"
@@ -38495,6 +38965,11 @@
     "Action",
     "Casual",
     "Single player"
+  ]
+},{
+  "pkg": "rooh.apps.naaz.com.quran.text.translation.audio",
+  "lt_type": [
+    "Lifestyle"
   ]
 },{
   "pkg": "castwebbrowsertotv.castwebvideo.webvideocaster",
@@ -39481,6 +39956,11 @@
     "Productivity"
   ]
 },{
+  "pkg": "com.minilab.CommonMistakesInEnglish",
+  "lt_type": [
+    "Education"
+  ]
+},{
   "pkg": "launcher.ios.iphones",
   "lt_type": [
     "Personalization"
@@ -39713,6 +40193,11 @@
   "pkg": "org.arkist.cnote",
   "lt_type": [
     "Books & Reference"
+  ]
+},{
+  "pkg": "com.weeklyplannerapp.weekplan",
+  "lt_type": [
+    "Business"
   ]
 },{
   "pkg": "com.run.pro",
@@ -40375,6 +40860,11 @@
     "Books & Reference"
   ]
 },{
+  "pkg": "jp.co.a_tm.android.plus_snow_sky",
+  "lt_type": [
+    "Photography"
+  ]
+},{
   "pkg": "tvdream.player",
   "lt_type": [
     "Entertainment"
@@ -40663,6 +41153,11 @@
   "pkg": "com.citrus.citruspay",
   "lt_type": [
     "Finance"
+  ]
+},{
+  "pkg": "com.direct_pay.owomi",
+  "lt_type": [
+    "Shopping"
   ]
 },{
   "pkg": "com.frostwire.android",
@@ -40969,6 +41464,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "camera.utyhd.bea.store",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
   "pkg": "com.carrotapp",
   "lt_type": [
     "Business"
@@ -41071,6 +41571,11 @@
     "Casual",
     "Puzzle",
     "Single player"
+  ]
+},{
+  "pkg": "com.gaffer.three.four.cphneloinfotion",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.BlackGames.MathRiddles",
@@ -41234,6 +41739,11 @@
     "Education"
   ]
 },{
+  "pkg": "com.hatsani.allsimupdateoffer",
+  "lt_type": [
+    "Lifestyle"
+  ]
+},{
   "pkg": "com.novagecko.ohmygiffree",
   "lt_type": [
     "Entertainment"
@@ -41297,6 +41807,11 @@
   "pkg": "com.BuddyMattEnt.ChainReaction",
   "lt_type": [
     "Board"
+  ]
+},{
+  "pkg": "com.sagosago.Camping.googleplay",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "com.dricodes.fontgenerator",
@@ -41718,6 +42233,11 @@
     "Arcade"
   ]
 },{
+  "pkg": "com.iroshni.urduquran16lines",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "it.ideasolutions.amerigo",
   "lt_type": [
     "Productivity"
@@ -41948,6 +42468,11 @@
     "Entertainment"
   ]
 },{
+  "pkg": "com.razadev.qasidahburdah",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "vn.org.atvgo",
   "lt_type": [
     "Entertainment"
@@ -41986,6 +42511,11 @@
   "pkg": "com.lockscreen.faceidpro",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.gionee.gallery",
+  "lt_type": [
+    "Productivity"
   ]
 },{
   "pkg": "com.ranida.phslam",
@@ -42919,6 +43449,11 @@
   "pkg": "com.mightytext.tablet",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "com.boedec.hoel.speaker.cleaner.remove.water",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "ramazon.uz",
@@ -43987,6 +44522,11 @@
     "Weather"
   ]
 },{
+  "pkg": "com.open.startant.app",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.generalcomp.genbolt",
   "lt_type": [
     "Tools"
@@ -44017,6 +44557,11 @@
     "Music & Audio"
   ]
 },{
+  "pkg": "com.perdiem.gale",
+  "lt_type": [
+    "Medical"
+  ]
+},{
   "pkg": "com.manzy.flashnotification2",
   "lt_type": [
     "Tools"
@@ -44031,6 +44576,11 @@
   "lt_type": [
     "Casual",
     "Single player"
+  ]
+},{
+  "pkg": "com.monamourje.taimetoi.maviesms",
+  "lt_type": [
+    "Communication"
   ]
 },{
   "pkg": "and.lihuhu.tiletriple3d",
@@ -45767,6 +46317,11 @@
     "Art & Design"
   ]
 },{
+  "pkg": "com.cutestudio.edge.lighting.colors",
+  "lt_type": [
+    "Personalization"
+  ]
+},{
   "pkg": "com.launcher.smart.halloween.darknight.theme",
   "lt_type": [
     "Personalization"
@@ -46153,6 +46708,11 @@
     "Communication"
   ]
 },{
+  "pkg": "com.appleby.writer",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
   "pkg": "com.skyward.mobileaccess",
   "lt_type": [
     "Education"
@@ -46392,6 +46952,11 @@
   "pkg": "com.prayit.laguanak",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "free.language.translate.translator",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.mugitek.dbus",
@@ -46778,6 +47343,11 @@
   "pkg": "mobileapp.ctemplar.com.ctemplarapp.production",
   "lt_type": [
     "Communication"
+  ]
+},{
+  "pkg": "org.sabgames.kattauz",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "com.onmobio.lcdlight",
@@ -47245,6 +47815,11 @@
     "Single player"
   ]
 },{
+  "pkg": "com.sufiantech.fancynickname",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "com.palash.charging.animation.show",
   "lt_type": [
     "Personalization"
@@ -47263,6 +47838,11 @@
   "pkg": "com.leedroid.shortcutter",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.melon.peopleplay.groundgamesticky1.mytips",
+  "lt_type": [
+    "Adventure"
   ]
 },{
   "pkg": "com.viamichelin.android.viamichelinmobile",
@@ -48265,6 +48845,11 @@
     "Finance"
   ]
 },{
+  "pkg": "com.newwaystmtayebmahmud.recycleview",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.dressup.avatar.vlinder.doll.gacha",
   "lt_type": [
     "Lifestyle",
@@ -48715,6 +49300,11 @@
     "Business"
   ]
 },{
+  "pkg": "com.selimreza.bukharihadis",
+  "lt_type": [
+    "Education"
+  ]
+},{
   "pkg": "im.zico.fancy",
   "lt_type": [
     "Social"
@@ -48803,6 +49393,11 @@
   "pkg": "com.makingfun.mageandminions",
   "lt_type": [
     "Role Playing"
+  ]
+},{
+  "pkg": "com.kbh7470.mppolice",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "com.path",
@@ -49244,6 +49839,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.betsafe.co.sportsbook.android",
+  "lt_type": [
+    "Sports"
+  ]
+},{
   "pkg": "hashtag.photo.igfollowers",
   "lt_type": [
     "Tools"
@@ -49299,6 +49899,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.live.dv.pro_3d_earth",
+  "lt_type": [
+    "Personalization"
+  ]
+},{
   "pkg": "com.eyewind.colorfit.family",
   "lt_type": [
     "Casual"
@@ -49317,6 +49922,11 @@
   "pkg": "xrecorder.videoeditor.screenrecorder",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.asixv.domus.scrnthmescall",
+  "lt_type": [
+    "Productivity"
   ]
 },{
   "pkg": "com.ojassoft.astrosage",
@@ -49783,6 +50393,11 @@
   "pkg": "com.sketchometry",
   "lt_type": [
     "Education"
+  ]
+},{
+  "pkg": "tg.togocom.tmoney",
+  "lt_type": [
+    "Finance"
   ]
 },{
   "pkg": "com.azwstudios.theholybible.kjv",
@@ -50843,6 +51458,11 @@
     "Entertainment"
   ]
 },{
+  "pkg": "com.aryuthere.visionplus",
+  "lt_type": [
+    "Photography"
+  ]
+},{
   "pkg": "com.flashlight_GL4",
   "lt_type": [
     "Tools"
@@ -50990,6 +51610,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.amalia.dj_cewek_viral_tik_tok_2021_Offline",
+  "lt_type": [
+    "Music & Audio"
+  ]
+},{
   "pkg": "com.ventel.android.radardroid2",
   "lt_type": [
     "Travel & Local"
@@ -51012,7 +51637,9 @@
 },{
   "pkg": "com.tetrox.bowl",
   "lt_type": [
-    "Sports"
+    "Sports",
+    "Multiplayer",
+    "Single player"
   ]
 },{
   "pkg": "br.omb.englishlisteningquizz",
@@ -51821,6 +52448,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "com.alldocument.allfile.office.editor",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
   "pkg": "com.jayus4D.dangdutadella2",
   "lt_type": [
     "Music & Audio"
@@ -52469,6 +53101,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.dev.nothingbutwalls.app",
+  "lt_type": [
+    "Personalization"
+  ]
+},{
   "pkg": "com.sunfire.ledscroller.ledbanner",
   "lt_type": [
     "Tools"
@@ -52537,6 +53174,11 @@
   "pkg": "pt.cp.mobiapp",
   "lt_type": [
     "Maps & Navigation"
+  ]
+},{
+  "pkg": "com.tlc.etisalat.flooz.agent.ga",
+  "lt_type": [
+    "Finance"
   ]
 },{
   "pkg": "com.mygoodtonesinc.loudrts",
@@ -52739,6 +53381,11 @@
     "Education"
   ]
 },{
+  "pkg": "com.senspark.android.southernthirteen",
+  "lt_type": [
+    "Card"
+  ]
+},{
   "pkg": "com.wwe.universe",
   "lt_type": [
     "Entertainment"
@@ -52859,6 +53506,11 @@
     "Education"
   ]
 },{
+  "pkg": "com.vimeocreate.videoeditor.moviemaker",
+  "lt_type": [
+    "Video Players & Editors"
+  ]
+},{
   "pkg": "xbean.image.picture.translate.ocr",
   "lt_type": [
     "Tools"
@@ -52907,6 +53559,11 @@
   "pkg": "com.rayg.aguns",
   "lt_type": [
     "Entertainment"
+  ]
+},{
+  "pkg": "uz.pdp.ussdpro",
+  "lt_type": [
+    "Communication"
   ]
 },{
   "pkg": "com.smart.consumer.app",
@@ -53084,6 +53741,11 @@
   "pkg": "com.wegmans.wegmansapp",
   "lt_type": [
     "Shopping"
+  ]
+},{
+  "pkg": "com.manki.hdplayer.xvx.videoplayer",
+  "lt_type": [
+    "Video Players & Editors"
   ]
 },{
   "pkg": "com.XTechStudios.snakeIO",
@@ -54237,6 +54899,11 @@
     "Music & Audio"
   ]
 },{
+  "pkg": "com.nadiyatul.quran.islamic.ebook",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.dualspace.multispace.android",
   "lt_type": [
     "Personalization"
@@ -54938,6 +55605,11 @@
     "Music & Audio"
   ]
 },{
+  "pkg": "com.huawei.hisuite",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "net.relaxio.babysleep",
   "lt_type": [
     "Health & Fitness"
@@ -55247,6 +55919,11 @@
   "pkg": "com.nianticlabs.pokemongo",
   "lt_type": [
     "Adventure"
+  ]
+},{
+  "pkg": "com.appszonestudios.Bassboosterpro",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "com.musicmediadev.mp3alleditor",
@@ -55837,6 +56514,11 @@
     "Board"
   ]
 },{
+  "pkg": "de.gstmb.podcasts",
+  "lt_type": [
+    "News & Magazines"
+  ]
+},{
   "pkg": "com.zazzle",
   "lt_type": [
     "Shopping"
@@ -55973,6 +56655,13 @@
   "pkg": "com.maxlab.digitalclocksbatterysavewallpaper",
   "lt_type": [
     "Personalization"
+  ]
+},{
+  "pkg": "com.FDGEntertainment.SuperCatBros.gp",
+  "lt_type": [
+    "Action",
+    "Casual",
+    "Single player"
   ]
 },{
   "pkg": "com.nexa.fbvideodownloader",
@@ -59128,6 +59817,11 @@
     "Food & Drink"
   ]
 },{
+  "pkg": "com.New.Nancy_songs_2020",
+  "lt_type": [
+    "Music & Audio"
+  ]
+},{
   "pkg": "de.apptiv.business.android.aldi_us",
   "lt_type": [
     "Shopping"
@@ -59583,6 +60277,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.hyperfutura.minepioneer",
+  "lt_type": [
+    "Arcade"
+  ]
+},{
   "pkg": "com.pavahainc.raineffect",
   "lt_type": [
     "Photography"
@@ -59919,6 +60618,11 @@
     "Entertainment"
   ]
 },{
+  "pkg": "com.mobilesoft.algeriaweather",
+  "lt_type": [
+    "Weather"
+  ]
+},{
   "pkg": "com.mealime",
   "lt_type": [
     "Food & Drink"
@@ -60092,6 +60796,11 @@
   "pkg": "com.airplantsimulator.pilottankecitygpb",
   "lt_type": [
     "Simulation"
+  ]
+},{
+  "pkg": "org.cloudchat.messengernew",
+  "lt_type": [
+    "Social"
   ]
 },{
   "pkg": "com.springapplications.speedometer",
@@ -60528,6 +61237,11 @@
   "pkg": "com.annayahappstudio.voicescreenlock.voicelock",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.nickname.free.stylish.name.ffname",
+  "lt_type": [
+    "Art & Design"
   ]
 },{
   "pkg": "com.beesquare.almostahero",
@@ -61023,6 +61737,11 @@
     "Single player"
   ]
 },{
+  "pkg": "com.appybuilder.nemlawia2014.ApprendreleFrancais",
+  "lt_type": [
+    "Education"
+  ]
+},{
   "pkg": "com.bismillah.amaljariyah",
   "lt_type": [
     "Education"
@@ -61207,6 +61926,11 @@
     "Single player"
   ]
 },{
+  "pkg": "tn.My.Dev.Up.com.tm",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "ru.nsu.ccfit.zuev.osu",
   "lt_type": [
     "Music"
@@ -61225,6 +61949,11 @@
   "pkg": "poll.pay.cash",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "com.gizmo.sad.ringtones",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "com.citibanamex.banamexmobile",
@@ -61820,6 +62549,11 @@
     "Racing"
   ]
 },{
+  "pkg": "com.rhaladriel.privatenote",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
   "pkg": "com.free.phone.touch.call",
   "lt_type": [
     "Communication"
@@ -61848,6 +62582,11 @@
   "pkg": "livio.pack.lang.en_US",
   "lt_type": [
     "Books & Reference"
+  ]
+},{
+  "pkg": "live.four.chat.bibli.vidcallrndm",
+  "lt_type": [
+    "Social"
   ]
 },{
   "pkg": "com.square_enix.android_googleplay.FF4AY_GP",
@@ -62633,6 +63372,11 @@
     "Business"
   ]
 },{
+  "pkg": "com.spacetoon.vod",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "kjv.bible.kingjamesbible",
   "lt_type": [
     "Books & Reference"
@@ -62661,6 +63405,11 @@
   "pkg": "com.asgatech.extra",
   "lt_type": [
     "Shopping"
+  ]
+},{
+  "pkg": "com.arabaudiobooks.rakka.mahssoud_masshour_wa_mamsous",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "com.taprun.fruitfrenzyline.meta",
@@ -62878,6 +63627,11 @@
   "pkg": "com.sh.smart.caller",
   "lt_type": [
     "Communication"
+  ]
+},{
+  "pkg": "com.tunai.uang.kredit.rupiah.pinjaman",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "it.redbitgames.stonesandsails",
@@ -64045,6 +64799,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "com.newsbooks.home",
+  "lt_type": [
+    "Video Players & Editors"
+  ]
+},{
   "pkg": "com.ludoparty.star",
   "lt_type": [
     "Casual",
@@ -64057,6 +64816,13 @@
     "Music & Audio",
     "Tools",
     "Video Players & Editors"
+  ]
+},{
+  "pkg": "com.EducaGames.DinoTim",
+  "lt_type": [
+    "Educational",
+    "Casual",
+    "Single player"
   ]
 },{
   "pkg": "com.andcreate.app.trafficmonitor",
@@ -64092,6 +64858,11 @@
   "pkg": "ace.jun.simplecontrol",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.ws.ewehymnal",
+  "lt_type": [
+    "Books & Reference"
   ]
 },{
   "pkg": "mytown.police",
@@ -65270,6 +66041,11 @@
     "Shopping"
   ]
 },{
+  "pkg": "com.magma.miyyiyawmiyyi",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "com.oppo.music",
   "lt_type": [
     "Music & Audio",
@@ -65429,6 +66205,11 @@
   "pkg": "com.revolgenx.anilib",
   "lt_type": [
     "Entertainment"
+  ]
+},{
+  "pkg": "com.aweelyouum.fielkaber",
+  "lt_type": [
+    "Lifestyle"
   ]
 },{
   "pkg": "com.darkevo.iconpack",
@@ -66233,6 +67014,11 @@
     "Arcade"
   ]
 },{
+  "pkg": "com.humor.talking.tyrannosaurus",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "com.morechili.mergeelf",
   "lt_type": [
     "Puzzle",
@@ -66947,6 +67733,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.okartsoft.englishwords",
+  "lt_type": [
+    "Education"
+  ]
+},{
   "pkg": "org.nixgame.compasspro",
   "lt_type": [
     "Maps & Navigation"
@@ -67196,6 +67987,11 @@
     "Maps & Navigation"
   ]
 },{
+  "pkg": "yacine.tv.guidelink",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "com.paypal.android.p2pmobile",
   "lt_type": [
     "Lifestyle",
@@ -67216,6 +68012,11 @@
   "pkg": "e.books.reading.apps",
   "lt_type": [
     "Books & Reference"
+  ]
+},{
+  "pkg": "com.funbit.android",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "com.guimi_studios.congasapp",
@@ -67251,6 +68052,11 @@
   "pkg": "fr.thema.wear.watch.cvoid",
   "lt_type": [
     "Personalization"
+  ]
+},{
+  "pkg": "com.nag.crazy.goat.simulator",
+  "lt_type": [
+    "Puzzle"
   ]
 },{
   "pkg": "ch.srf.meteo",
@@ -67760,6 +68566,13 @@
     "Communication"
   ]
 },{
+  "pkg": "com.CubeSoftware.BattleOfWarships",
+  "lt_type": [
+    "Action",
+    "Multiplayer",
+    "Single player"
+  ]
+},{
   "pkg": "com.hay1.tintuc",
   "lt_type": [
     "Entertainment"
@@ -67773,6 +68586,11 @@
   "pkg": "org.ppsspp.ppsspp",
   "lt_type": [
     "Action"
+  ]
+},{
+  "pkg": "com.tfgco.games.sports.free.tennis.clash",
+  "lt_type": [
+    "Sports"
   ]
 },{
   "pkg": "com.rainbowtrain.push",
@@ -68491,6 +69309,11 @@
     "Strategy"
   ]
 },{
+  "pkg": "com.tapinator.crazy.goat.reloaded",
+  "lt_type": [
+    "Action"
+  ]
+},{
   "pkg": "org.eobdfacile.android",
   "lt_type": [
     "Auto & Vehicles"
@@ -68875,6 +69698,11 @@
     "Video Players & Editors"
   ]
 },{
+  "pkg": "jp.co.a_tm.android.plus_karasuageha",
+  "lt_type": [
+    "Personalization"
+  ]
+},{
   "pkg": "com.rstgames.blotsmania",
   "lt_type": [
     "Arcade"
@@ -69110,6 +69938,11 @@
   "pkg": "in.AajTak.headlines",
   "lt_type": [
     "News & Magazines"
+  ]
+},{
+  "pkg": "com.pioneer.carrozzeriaconnect",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "br.com.bffc.bobs.app",
@@ -69598,6 +70431,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "in.landreport",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
   "pkg": "com.funnmedia.waterminder",
   "lt_type": [
     "Health & Fitness"
@@ -69662,6 +70500,11 @@
   "pkg": "com.falcon.dx3.jackal.arcade.shooter",
   "lt_type": [
     "Arcade"
+  ]
+},{
+  "pkg": "com.recroomvr4.recroom.recroomgamey1.mytips",
+  "lt_type": [
+    "Adventure"
   ]
 },{
   "pkg": "com.music.hero.free.music.new",
@@ -69929,6 +70772,11 @@
   "pkg": "com.medhaapps.wififm",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.belal.alarqawi.mosiqaakhwatiapp",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "com.tectumgames.unblock",
@@ -71445,6 +72293,13 @@
     "Casual"
   ]
 },{
+  "pkg": "com.zm.watersort",
+  "lt_type": [
+    "Casual",
+    "Puzzle",
+    "Single player"
+  ]
+},{
   "pkg": "tunnel.entclass.vpn",
   "lt_type": [
     "Tools"
@@ -71917,6 +72772,11 @@
     "Action",
     "Casual",
     "Single player"
+  ]
+},{
+  "pkg": "meanlabs.comicat",
+  "lt_type": [
+    "Comics"
   ]
 },{
   "pkg": "com.labexception.turboracer3d",
@@ -72495,6 +73355,11 @@
     "Communication"
   ]
 },{
+  "pkg": "tj.dc.next1",
+  "lt_type": [
+    "Finance"
+  ]
+},{
   "pkg": "com.playstack.svtc",
   "lt_type": [
     "Action",
@@ -72702,6 +73567,11 @@
   ]
 },{
   "pkg": "com.arthadigitech.terjemahkitabrisalahahlussunnahwaljamaah",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
+  "pkg": "com.selimreza.alhadis",
   "lt_type": [
     "Books & Reference"
   ]
@@ -73340,6 +74210,11 @@
   "pkg": "com.weegoon.thiefpuzzle4",
   "lt_type": [
     "Puzzle"
+  ]
+},{
+  "pkg": "com.fantasyakhada.akhada",
+  "lt_type": [
+    "Sports"
   ]
 },{
   "pkg": "com.lge.android.aircon_monitoring",
@@ -74015,6 +74890,11 @@
     "Photography"
   ]
 },{
+  "pkg": "com.ebooklibrary.colourcodedquran",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.magdalm.wifimasterpassword",
   "lt_type": [
     "Tools"
@@ -74138,6 +75018,11 @@
   "pkg": "com.lma.callrecorder",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.FoxieGames.MyWildPetOnlineAnimal",
+  "lt_type": [
+    "Casual"
   ]
 },{
   "pkg": "com.lamoda.lite",
@@ -74411,6 +75296,12 @@
   "pkg": "smartapps38.pdf.compressor.compress.file.pdf",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "org.chromium.webapk.a70f91d97a7536f82_v2",
+  "lt_type": [
+    "Productivity",
+    "Tools"
   ]
 },{
   "pkg": "com.geralddeveloper.caththelizardgamesforcat",
@@ -74739,6 +75630,11 @@
     "Education"
   ]
 },{
+  "pkg": "com.belal.alarqawi.khalfiatiphoneapp",
+  "lt_type": [
+    "Personalization"
+  ]
+},{
   "pkg": "com.lgu",
   "lt_type": [
     "Music & Audio"
@@ -74978,6 +75874,11 @@
   "pkg": "com.Gold_Finger.V.X.tinyforfacebookfree",
   "lt_type": [
     "Social"
+  ]
+},{
+  "pkg": "com.runmifit.android",
+  "lt_type": [
+    "Health & Fitness"
   ]
 },{
   "pkg": "com.genie9.intelli",
@@ -75344,6 +76245,11 @@
   "pkg": "com.desjardins.mobile",
   "lt_type": [
     "Finance"
+  ]
+},{
+  "pkg": "com.resonancevista.sing",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "com.hihonor.soundrecorder",
@@ -76046,6 +76952,11 @@
     "Business"
   ]
 },{
+  "pkg": "com.yourname.pub.camera",
+  "lt_type": [
+    "Art & Design"
+  ]
+},{
   "pkg": "bbc.mobile.sport.ww",
   "lt_type": [
     "Sports"
@@ -76336,6 +77247,11 @@
   "pkg": "com.juventus.app.android",
   "lt_type": [
     "Sports"
+  ]
+},{
+  "pkg": "com.vd.englishgrammar",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "it.fabbricadigitale.android.videomediaset",
@@ -76838,6 +77754,11 @@
   "pkg": "com.bayt",
   "lt_type": [
     "Business"
+  ]
+},{
+  "pkg": "com.entertaininglogixapps.qr.code.reader.barcode.scanner",
+  "lt_type": [
+    "Weather"
   ]
 },{
   "pkg": "apps.appctt",
@@ -77367,6 +78288,11 @@
   "pkg": "com.barisefe.uknewspapers",
   "lt_type": [
     "News & Magazines"
+  ]
+},{
+  "pkg": "com.mp.police",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "air.HitstickRebirthAPK",
@@ -77997,6 +78923,11 @@
     "Education"
   ]
 },{
+  "pkg": "com.camera.galaxyx",
+  "lt_type": [
+    "Photography"
+  ]
+},{
   "pkg": "com.aspiro.tidal",
   "lt_type": [
     "Music & Audio"
@@ -78221,6 +79152,11 @@
     "Shopping"
   ]
 },{
+  "pkg": "com.amalpro.salat_al_istikhara",
+  "lt_type": [
+    "Education"
+  ]
+},{
   "pkg": "com.tetrisb.pdgcameo",
   "lt_type": [
     "Casual"
@@ -78434,6 +79370,11 @@
     "Single player"
   ]
 },{
+  "pkg": "com.xp.noteplus",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.geovistacu.mobile",
   "lt_type": [
     "Finance"
@@ -78447,6 +79388,11 @@
   "pkg": "com.LigthMoonTN6",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "com.hdhighdefinitionvideohd.allformathdplayer",
+  "lt_type": [
+    "Video Players & Editors"
   ]
 },{
   "pkg": "pt.bes.pp.edenred",
@@ -78533,12 +79479,22 @@
     "Casual"
   ]
 },{
+  "pkg": "com.teslacoilsw.launcherclientproxy",
+  "lt_type": [
+    "Personalization"
+  ]
+},{
   "pkg": "chargerbooster.charger.faster.booster",
   "lt_type": [
     "Tools"
   ]
 },{
   "pkg": "io.enpass.app",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
+  "pkg": "com.huawei.calendar",
   "lt_type": [
     "Productivity"
   ]
@@ -79208,6 +80164,11 @@
   "pkg": "com.fparena.app",
   "lt_type": [
     "Health & Fitness"
+  ]
+},{
+  "pkg": "com.catstart.android",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.gl.police.car.driving.pursuit.racing.game.drifting.driving.simulator",
@@ -80300,6 +81261,11 @@
     "Photography"
   ]
 },{
+  "pkg": "com.media.voicerecorder.ultimate",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.springwalk.mediaconverter",
   "lt_type": [
     "Music & Audio"
@@ -80665,6 +81631,11 @@
     "Travel & Local"
   ]
 },{
+  "pkg": "kr.plusbeta.storecamera",
+  "lt_type": [
+    "Photography"
+  ]
+},{
   "pkg": "com.artline.bright.flashlight",
   "lt_type": [
     "Productivity"
@@ -81000,6 +81971,11 @@
   ]
 },{
   "pkg": "com.eco.note",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
+  "pkg": "com.vapps.mobileappstore",
   "lt_type": [
     "Productivity"
   ]
@@ -81857,6 +82833,11 @@
     "Music & Audio"
   ]
 },{
+  "pkg": "com.biggestanimefan.anime.wallpaper",
+  "lt_type": [
+    "Personalization"
+  ]
+},{
   "pkg": "com.WildWorks.AnimalJamBooks",
   "lt_type": [
     "Educational"
@@ -81865,6 +82846,13 @@
   "pkg": "com.sortitapps.movies",
   "lt_type": [
     "Lifestyle"
+  ]
+},{
+  "pkg": "com.dreamhomematch.casual.free",
+  "lt_type": [
+    "Casual",
+    "Puzzle",
+    "Single player"
   ]
 },{
   "pkg": "com.paperlit.android.il.fotografo",
@@ -82202,6 +83190,11 @@
     "Entertainment"
   ]
 },{
+  "pkg": "ru.yandex.shell",
+  "lt_type": [
+    "Personalization"
+  ]
+},{
   "pkg": "com.arrow.wallpapers.wallipop",
   "lt_type": [
     "Personalization"
@@ -82355,6 +83348,11 @@
   "pkg": "com.spotify.lite",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "nl.budgetthuis.app",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.raon.aremotefreegalaxy",
@@ -82971,6 +83969,11 @@
     "Business"
   ]
 },{
+  "pkg": "uz.music.sheralii",
+  "lt_type": [
+    "Music & Audio"
+  ]
+},{
   "pkg": "com.global.foodpanda.android",
   "lt_type": [
     "Food & Drink"
@@ -83334,6 +84337,11 @@
     "Education"
   ]
 },{
+  "pkg": "com.eortes2",
+  "lt_type": [
+    "Social"
+  ]
+},{
   "pkg": "gov.gib.GibTvdMobil.temassizmobil",
   "lt_type": [
     "Business"
@@ -83597,6 +84605,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.ebooklibrary.HafeziQuranSharif",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.twodoor.carcarrier",
   "lt_type": [
     "Casual",
@@ -83772,6 +84785,11 @@
   "pkg": "com.jakarta.baca",
   "lt_type": [
     "News & Magazines"
+  ]
+},{
+  "pkg": "com.wildfoot.crocodile.chase",
+  "lt_type": [
+    "Action"
   ]
 },{
   "pkg": "com.media.kannadanews.kannadanews",
@@ -84000,6 +85018,11 @@
   "pkg": "com.zvalybobs.dolphinbubbleshooter",
   "lt_type": [
     "Puzzle"
+  ]
+},{
+  "pkg": "com.scholarly.utme",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "com.dreamarks.laya.pl",
@@ -85128,6 +86151,11 @@
     "Business"
   ]
 },{
+  "pkg": "cc.mannam.gideon.bible.ndebele.v1",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.psa.mym.myopel",
   "lt_type": [
     "Auto & Vehicles"
@@ -85620,6 +86648,11 @@
     "Tools"
   ]
 },{
+  "pkg": "nl.umeter.app",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "ru.beboo.reload",
   "lt_type": [
     "Dating"
@@ -85995,6 +87028,11 @@
     "Books & Reference"
   ]
 },{
+  "pkg": "com.smarttools.xbrowser.videodownloader",
+  "lt_type": [
+    "Video Players & Editors"
+  ]
+},{
   "pkg": "dictionary.synonyms",
   "lt_type": [
     "Books & Reference"
@@ -86003,6 +87041,11 @@
   "pkg": "com.vanris.fiqihimamsyafii",
   "lt_type": [
     "Books & Reference"
+  ]
+},{
+  "pkg": "com.belal.alarqawi.wadiapp",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "amazon.shop.barcode.scanner",
@@ -88509,6 +89552,12 @@
     "Shopping"
   ]
 },{
+  "pkg": "org.chromium.webapk.a5e64352a21497d40_v2",
+  "lt_type": [
+    "Productivity",
+    "Tools"
+  ]
+},{
   "pkg": "com.rfi.sams.android",
   "lt_type": [
     "Shopping"
@@ -90251,6 +91300,11 @@
     "Weather"
   ]
 },{
+  "pkg": "com.studioabir2.compass",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.nitrado.nitradoservermanager",
   "lt_type": [
     "Tools"
@@ -90284,6 +91338,11 @@
   "pkg": "com.concentriclivers.calendar",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "com.swiftappskom.pantheronline",
+  "lt_type": [
+    "Simulation"
   ]
 },{
   "pkg": "com.tinybuildgames.killitwithfire",
@@ -90540,6 +91599,11 @@
     "Educational"
   ]
 },{
+  "pkg": "apex.friendsgame.xrummy",
+  "lt_type": [
+    "Card"
+  ]
+},{
   "pkg": "com.joaomgcd.barcode",
   "lt_type": [
     "Personalization"
@@ -90649,6 +91713,11 @@
     "Education"
   ]
 },{
+  "pkg": "com.xinqu.mncsdjw",
+  "lt_type": [
+    "Casual"
+  ]
+},{
   "pkg": "com.taptap.global",
   "lt_type": [
     "Tools"
@@ -90707,6 +91776,11 @@
   "pkg": "kay.alan.beard.photo.editor",
   "lt_type": [
     "Photography"
+  ]
+},{
+  "pkg": "com.easycleaner.cleaner",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.kakao.taxi",
@@ -91422,6 +92496,11 @@
     "Single player"
   ]
 },{
+  "pkg": "com.jonasbernardo.developer.planejamento_semanal",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
   "pkg": "deckers.thibault.aves",
   "lt_type": [
     "Photography"
@@ -91452,6 +92531,11 @@
     "Casual",
     "Simulation",
     "Single player"
+  ]
+},{
+  "pkg": "an.RussianTajTranslate",
+  "lt_type": [
+    "Books & Reference"
   ]
 },{
   "pkg": "com.miniinthebox.android",
@@ -92151,6 +93235,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.adjiofficial.rumusexcellengkapofflineterbaru",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.zerologicgames.match22",
   "lt_type": [
     "Puzzle"
@@ -92159,6 +93248,11 @@
   "pkg": "fr.carboatmedia.lacentrale",
   "lt_type": [
     "Lifestyle"
+  ]
+},{
+  "pkg": "com.cortevaindia.amr",
+  "lt_type": [
+    "Productivity"
   ]
 },{
   "pkg": "com.kfc.us.mobile",
@@ -93077,6 +94171,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.doaala.erd",
+  "lt_type": [
+    "Lifestyle"
+  ]
+},{
   "pkg": "com.abvio.meter.run5k",
   "lt_type": [
     "Health & Fitness"
@@ -93401,6 +94500,11 @@
     "Single player"
   ]
 },{
+  "pkg": "com.horiondigital.senditoo",
+  "lt_type": [
+    "Communication"
+  ]
+},{
   "pkg": "com.chopperkhan.BashTeacher",
   "lt_type": [
     "Casual"
@@ -93530,7 +94634,8 @@
 },{
   "pkg": "com.emagssob.big2",
   "lt_type": [
-    "Casual"
+    "Casual",
+    "Card"
   ]
 },{
   "pkg": "recover.deleted.messages.messagesrestore",
@@ -93630,6 +94735,11 @@
   "pkg": "com.mykronoz.app.universal",
   "lt_type": [
     "Health & Fitness"
+  ]
+},{
+  "pkg": "nl.rotterdam.meldr",
+  "lt_type": [
+    "Communication"
   ]
 },{
   "pkg": "com.moovii",
@@ -94017,6 +95127,13 @@
     "Books & Reference"
   ]
 },{
+  "pkg": "com.aristocracy.commando.secret.shooting.game.gun.strike.shooter",
+  "lt_type": [
+    "Action",
+    "Casual",
+    "Single player"
+  ]
+},{
   "pkg": "com.rovio.angrybirdsfriends",
   "lt_type": [
     "Arcade",
@@ -94141,6 +95258,11 @@
   "pkg": "video.crop.create",
   "lt_type": [
     "Video Players & Editors"
+  ]
+},{
+  "pkg": "id.cazh.cards.android",
+  "lt_type": [
+    "Finance"
   ]
 },{
   "pkg": "com.agus.calendar.id",
@@ -94386,6 +95508,11 @@
   "pkg": "org.trecet.nowhere.tweet2gif.plus",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "biotic.eastercall.bunnycall.callSimulator.easterbunny.fake.call.bunnySimulatorcall",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "style_7.brandanalogclock_7",
@@ -94702,6 +95829,11 @@
   "pkg": "com.gmstdiostrtrck.truckdriving3droadspeddd",
   "lt_type": [
     "Simulation"
+  ]
+},{
+  "pkg": "pidilite.com.udaan",
+  "lt_type": [
+    "Business"
   ]
 },{
   "pkg": "com.palash.shoot.dynamic.island",
@@ -95176,6 +96308,11 @@
   "pkg": "com.aicore.spectrolizer",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "com.smartopen.shield.app",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "ddt.material.icon.pack",
@@ -95754,6 +96891,11 @@
     "Action",
     "Casual",
     "Single player"
+  ]
+},{
+  "pkg": "com.okbet.ph",
+  "lt_type": [
+    "Sports"
   ]
 },{
   "pkg": "com.marslab.browserz",
@@ -96383,6 +97525,11 @@
     "Social"
   ]
 },{
+  "pkg": "com.liteforex.forexsignals",
+  "lt_type": [
+    "Finance"
+  ]
+},{
   "pkg": "com.sammas.terminalandroid",
   "lt_type": [
     "Tools"
@@ -96859,6 +98006,11 @@
   "pkg": "net.firstcause.quran_arabic",
   "lt_type": [
     "Books & Reference"
+  ]
+},{
+  "pkg": "com.lufit.code",
+  "lt_type": [
+    "Health & Fitness"
   ]
 },{
   "pkg": "app.hobbysoft.mouseripple",
@@ -97656,6 +98808,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.thmobile.transparentwallpaper",
+  "lt_type": [
+    "Personalization"
+  ]
+},{
   "pkg": "com.instagram.android",
   "lt_type": [
     "Communication",
@@ -98128,6 +99285,12 @@
     "Personalization"
   ]
 },{
+  "pkg": "com.skymoons.kittenmatch",
+  "lt_type": [
+    "Puzzle",
+    "Single player"
+  ]
+},{
   "pkg": "gogolook.callgogolook2",
   "lt_type": [
     "Communication"
@@ -98264,6 +99427,13 @@
     "News & Magazines"
   ]
 },{
+  "pkg": "com.bigcool.puzzle.designdiary",
+  "lt_type": [
+    "Casual",
+    "Puzzle",
+    "Single player"
+  ]
+},{
   "pkg": "com.sap.mdc.loblaw.nativ",
   "lt_type": [
     "Shopping"
@@ -98312,6 +99482,11 @@
   "pkg": "jp.co.shueisha.mangaplus",
   "lt_type": [
     "Comics"
+  ]
+},{
+  "pkg": "com.Ledooo.ARMeasure",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.ketchapp.fruitmaster",
@@ -98756,6 +99931,11 @@
     "Tools"
   ]
 },{
+  "pkg": "nl.belsimpel.advisor",
+  "lt_type": [
+    "Shopping"
+  ]
+},{
   "pkg": "com.ketchapp.ballz",
   "lt_type": [
     "Puzzle"
@@ -98794,6 +99974,11 @@
   "pkg": "prayers.times.qibladirection.salat.time",
   "lt_type": [
     "Lifestyle"
+  ]
+},{
+  "pkg": "notification.bar.changer",
+  "lt_type": [
+    "Personalization"
   ]
 },{
   "pkg": "it.mobilesoft.cartoonnetwork",
@@ -99879,6 +101064,11 @@
     "Music & Audio"
   ]
 },{
+  "pkg": "air.com.miracle.nooraniqaidahindi1",
+  "lt_type": [
+    "Education"
+  ]
+},{
   "pkg": "appinventor.ai_ic_edgarladinom.HydroEolm_Canales",
   "lt_type": [
     "Education"
@@ -100142,6 +101332,11 @@
   "pkg": "com.kfc.bahrain",
   "lt_type": [
     "Food & Drink"
+  ]
+},{
+  "pkg": "com.sagosago.Apartment.Trial.googleplay",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "nikeno.Tenki",
@@ -101427,6 +102622,11 @@
   "pkg": "ru.irk.ang.balsan.shortcutled",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.editura.edu.pregatitoare.calatorie",
+  "lt_type": [
+    "Educational"
   ]
 },{
   "pkg": "ru.zenmoney.androidsub",
@@ -103227,6 +104427,11 @@
     "Art & Design"
   ]
 },{
+  "pkg": "com.plusplusinstructions",
+  "lt_type": [
+    "Education"
+  ]
+},{
   "pkg": "com.kddi.android.auofficenumber",
   "lt_type": [
     "Communication"
@@ -103502,6 +104707,11 @@
     "Tools"
   ]
 },{
+  "pkg": "jp.co.a_tm.android.plus_ameno_sakura",
+  "lt_type": [
+    "Personalization"
+  ]
+},{
   "pkg": "com.briox.riversip.android.tech.science",
   "lt_type": [
     "News & Magazines"
@@ -103599,6 +104809,11 @@
   "pkg": "com.spears.civilopedia",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.emeint.android.mwallet.smartwallet",
+  "lt_type": [
+    "Finance"
   ]
 },{
   "pkg": "tr.com.hsbc.hsbcturkey",
@@ -103738,6 +104953,11 @@
   "pkg": "com.mg.android",
   "lt_type": [
     "Weather"
+  ]
+},{
+  "pkg": "com.modoohut.dialer.theme.miui.light",
+  "lt_type": [
+    "Personalization"
   ]
 },{
   "pkg": "com.bang_olufsen.OneApp",
@@ -103997,6 +105217,11 @@
     "Beauty"
   ]
 },{
+  "pkg": "com.tej.nmms_quiz",
+  "lt_type": [
+    "Education"
+  ]
+},{
   "pkg": "com.foolsandgeniuses.unrd",
   "lt_type": [
     "Adventure",
@@ -104032,6 +105257,11 @@
   "pkg": "com.labanship",
   "lt_type": [
     "Shopping"
+  ]
+},{
+  "pkg": "com.avatreai.lensaai.dawnai1.mytips",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "com.shirobakama.wallpaper",
@@ -104832,6 +106062,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "com.selimreza.arbilanguage",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.RetrostyleGames.LastPirate.deadthieves",
   "lt_type": [
     "Action",
@@ -104964,6 +106199,13 @@
   "pkg": "com.skisosoft.fes",
   "lt_type": [
     "Simulation"
+  ]
+},{
+  "pkg": "com.dim.chainsaw",
+  "lt_type": [
+    "Casual",
+    "Simulation",
+    "Single player"
   ]
 },{
   "pkg": "com.olhardigital.aplicativo",
@@ -105345,6 +106587,11 @@
   ]
 },{
   "pkg": "com.abvio.meter.walk",
+  "lt_type": [
+    "Health & Fitness"
+  ]
+},{
+  "pkg": "com.arabicaudiobooks.ilajmarad.ilaj_kol_amrad_bilquran",
   "lt_type": [
     "Health & Fitness"
   ]
@@ -106830,6 +108077,11 @@
     "Productivity"
   ]
 },{
+  "pkg": "jp.co.a_tm.android.plus_umino_nakamatachi",
+  "lt_type": [
+    "Art & Design"
+  ]
+},{
   "pkg": "com.gulanapps.themeslauncher.wallpaper.galaxys10",
   "lt_type": [
     "Personalization"
@@ -107535,6 +108787,11 @@
     "Photography"
   ]
 },{
+  "pkg": "com.verbole.dcad.lecturesyllabique",
+  "lt_type": [
+    "Education"
+  ]
+},{
   "pkg": "org.peakfinder.area.alps",
   "lt_type": [
     "Travel & Local"
@@ -108197,6 +109454,11 @@
   "pkg": "com.natewren.linesdarkfree",
   "lt_type": [
     "Personalization"
+  ]
+},{
+  "pkg": "earn.free.bitcoin",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "com.hikapps.adl",
@@ -109732,6 +110994,11 @@
     "Entertainment"
   ]
 },{
+  "pkg": "com.kktechtube.kktechdata",
+  "lt_type": [
+    "Business"
+  ]
+},{
   "pkg": "com.pinkpointer.wordsearch",
   "lt_type": [
     "Word"
@@ -110272,6 +111539,11 @@
   "pkg": "com.digital.bsnl.selfcare",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "com.lescapadou.ttsfrench",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "com.landon.litegoogle.catchsanta",
@@ -110839,6 +112111,11 @@
   "lt_type": [
     "Simulation",
     "Single player"
+  ]
+},{
+  "pkg": "com.langital.app",
+  "lt_type": [
+    "Shopping"
   ]
 },{
   "pkg": "com.free.unblock.melon.vpn",
@@ -111871,6 +113148,11 @@
     "Casual",
     "Puzzle",
     "Single player"
+  ]
+},{
+  "pkg": "com.delitoon",
+  "lt_type": [
+    "Comics"
   ]
 },{
   "pkg": "it.seat.smartcity.torino",
@@ -112960,6 +114242,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "com.glutenfreegames.ultimateoceansimulator",
+  "lt_type": [
+    "Role Playing"
+  ]
+},{
   "pkg": "com.kakao.story",
   "lt_type": [
     "Social"
@@ -112993,6 +114280,13 @@
   "pkg": "com.kalerkantho",
   "lt_type": [
     "News & Magazines"
+  ]
+},{
+  "pkg": "com.studiopango.halloween",
+  "lt_type": [
+    "Casual",
+    "Puzzle",
+    "Single player"
   ]
 },{
   "pkg": "com.readpdf.pdfreader.pdfviewer",
@@ -113689,6 +114983,11 @@
   "pkg": "pl.mbank",
   "lt_type": [
     "Finance"
+  ]
+},{
+  "pkg": "com.tricore.screen.shot.capture",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.tripledot.triple.tile.match.pair.game.three.master.object",
@@ -114537,6 +115836,13 @@
     "Puzzle"
   ]
 },{
+  "pkg": "kz.newt.paint",
+  "lt_type": [
+    "Educational",
+    "Casual",
+    "Single player"
+  ]
+},{
   "pkg": "com.brainking.animacastproduction",
   "lt_type": [
     "Puzzle",
@@ -114553,6 +115859,11 @@
   "pkg": "share.zender.appshare",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.andromo.dev701988.app896459",
+  "lt_type": [
+    "Lifestyle"
   ]
 },{
   "pkg": "com.lili.prop.cwxjl",
@@ -114782,6 +116093,11 @@
   "pkg": "ideadesigns.theme.flazing",
   "lt_type": [
     "Personalization"
+  ]
+},{
+  "pkg": "com.musclehack.targetedHypertrophyTraining",
+  "lt_type": [
+    "Health & Fitness"
   ]
 },{
   "pkg": "com.hihonor.camera",
@@ -115151,6 +116467,11 @@
     "News & Magazines"
   ]
 },{
+  "pkg": "io.ionic.starter67676",
+  "lt_type": [
+    "Travel & Local"
+  ]
+},{
   "pkg": "org.schiphol",
   "lt_type": [
     "Travel & Local"
@@ -115436,6 +116757,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "com.prettyboa.secondphone",
+  "lt_type": [
+    "Communication"
+  ]
+},{
   "pkg": "bubble.shooter.shooting.shoot.game",
   "lt_type": [
     "Puzzle"
@@ -115681,6 +117007,11 @@
   ]
 },{
   "pkg": "com.americanexpress.android.acctsvcs.hk",
+  "lt_type": [
+    "Finance"
+  ]
+},{
+  "pkg": "com.ftm.sniper",
   "lt_type": [
     "Finance"
   ]
@@ -116776,6 +118107,11 @@
     "Productivity"
   ]
 },{
+  "pkg": "com.islamialibrary.islamicapp",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.joyleap.belmaindoa",
   "lt_type": [
     "Educational"
@@ -117190,6 +118526,11 @@
   "pkg": "com.speakerbooster.soundbooster",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "com.Hof.Video.Frames.Editor.for.TikTok",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "com.mxtech.ffmpeg.x86",
@@ -118521,6 +119862,11 @@
     "Education"
   ]
 },{
+  "pkg": "in.todaysusage",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.appon.cookingstar",
   "lt_type": [
     "Casual",
@@ -118607,6 +119953,11 @@
   "pkg": "com.studysmarter",
   "lt_type": [
     "Education"
+  ]
+},{
+  "pkg": "com.kwai.mercury",
+  "lt_type": [
+    "Video Players & Editors"
   ]
 },{
   "pkg": "ballpool.billiard.pool.game",
@@ -118951,6 +120302,11 @@
     "Multiplayer"
   ]
 },{
+  "pkg": "com.crissb.bokabokadanceviral",
+  "lt_type": [
+    "Music & Audio"
+  ]
+},{
   "pkg": "com.photoeditorcollection.babystoryphotoeditor",
   "lt_type": [
     "Photography"
@@ -119152,6 +120508,11 @@
   "pkg": "com.leke.trafficdrivingandroid",
   "lt_type": [
     "Racing"
+  ]
+},{
+  "pkg": "util.update.android",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.greensaucegames.talesoftheorienttherisingsun",
@@ -119425,6 +120786,11 @@
     "Maps & Navigation"
   ]
 },{
+  "pkg": "ru.ruquon.agecalculator",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.argonremote.proximitysensor",
   "lt_type": [
     "Tools"
@@ -119601,6 +120967,11 @@
     "Books & Reference"
   ]
 },{
+  "pkg": "com.area730.crocodile.family.sim",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "air.com.RustyLake.CubeEscapeParadox",
   "lt_type": [
     "Adventure"
@@ -119644,6 +121015,11 @@
   "pkg": "com.tripledot.woodoku",
   "lt_type": [
     "Puzzle"
+  ]
+},{
+  "pkg": "com.triple.verstappen",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "com.arcsys.tictactoe",
@@ -120529,6 +121905,11 @@
     "Finance"
   ]
 },{
+  "pkg": "world.mnetplus",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "it.vodafone.my190",
   "lt_type": [
     "Tools"
@@ -120832,6 +122213,11 @@
     "Single player"
   ]
 },{
+  "pkg": "com.vippet.color.hairsaloon.petgames",
+  "lt_type": [
+    "Casual"
+  ]
+},{
   "pkg": "com.vyroai.AiBlurEditor",
   "lt_type": [
     "Photography"
@@ -121001,6 +122387,11 @@
   "pkg": "sinet.startup.inDriver",
   "lt_type": [
     "Maps & Navigation"
+  ]
+},{
+  "pkg": "com.huawei.email",
+  "lt_type": [
+    "Communication"
   ]
 },{
   "pkg": "com.target.ui",
@@ -121555,6 +122946,11 @@
     "Libraries & Demo"
   ]
 },{
+  "pkg": "jp.co.a_tm.android.plus_hot_snowman_latte",
+  "lt_type": [
+    "Personalization"
+  ]
+},{
   "pkg": "com.jio.jiogameslite",
   "lt_type": [
     "Casual"
@@ -121756,6 +123152,14 @@
   "pkg": "com.docreader.readerdocument",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "com.byv.TheSpearman",
+  "lt_type": [
+    "Action",
+    "Casual",
+    "Multiplayer",
+    "Single player"
   ]
 },{
   "pkg": "org.mobilegpstracker.client",
@@ -122055,6 +123459,11 @@
   "pkg": "com.prozis.store",
   "lt_type": [
     "Shopping"
+  ]
+},{
+  "pkg": "com.area730.puma.family.sim",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "com.panoramik.mightyparty",
@@ -122581,6 +123990,11 @@
   "pkg": "teampro.wifi.wpsconnect",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.playgames.wingame",
+  "lt_type": [
+    "Books & Reference"
   ]
 },{
   "pkg": "bubble.shooter.exxtreme",
@@ -123533,6 +124947,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "nl.asolutions.tropaz",
+  "lt_type": [
+    "Medical"
+  ]
+},{
   "pkg": "com.microsoft.planner",
   "lt_type": [
     "Productivity"
@@ -123823,6 +125242,11 @@
     "Single player"
   ]
 },{
+  "pkg": "com.twintyhourringtonerawan.app",
+  "lt_type": [
+    "Music & Audio"
+  ]
+},{
   "pkg": "com.mycookbox.android",
   "lt_type": [
     "Lifestyle"
@@ -123912,6 +125336,17 @@
   "pkg": "com.r15.provideomaker",
   "lt_type": [
     "Video Players & Editors"
+  ]
+},{
+  "pkg": "tiktok.tiktokvideodownloader.savetiktokvideo.nowatermark",
+  "lt_type": [
+    "Tools"
+  ]
+},{
+  "pkg": "com.epicgames.fortnite",
+  "lt_type": [
+    "Action",
+    "Multiplayer"
   ]
 },{
   "pkg": "live.analog.clock.smartwatch.clockwallpaper",
@@ -124055,6 +125490,11 @@
   "pkg": "com.forsbit.spider",
   "lt_type": [
     "Card"
+  ]
+},{
+  "pkg": "com.huawei.wallet",
+  "lt_type": [
+    "Finance"
   ]
 },{
   "pkg": "fr.playsoft.teleloisirs",
@@ -124868,6 +126308,11 @@
     "Education"
   ]
 },{
+  "pkg": "com.sergeyotro.ringtoneslicer",
+  "lt_type": [
+    "Music & Audio"
+  ]
+},{
   "pkg": "com.wild.animals.transport.simulator",
   "lt_type": [
     "Casual",
@@ -124878,6 +126323,11 @@
   "pkg": "com.softwapptech.todaytask",
   "lt_type": [
     "Lifestyle"
+  ]
+},{
+  "pkg": "com.republicgame.riders.republicy1.mytips",
+  "lt_type": [
+    "Books & Reference"
   ]
 },{
   "pkg": "com.sunglab.bigbanghd",
@@ -125162,6 +126612,11 @@
   "pkg": "net.alkafeel.arabic",
   "lt_type": [
     "Lifestyle"
+  ]
+},{
+  "pkg": "one.video.saver.valour.dwnldrstry",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "com.revanen.athkar",
@@ -125581,6 +127036,11 @@
     "Lifestyle"
   ]
 },{
+  "pkg": "st.samsung.galaxy.s11.samsungs11.theme.wallpapers",
+  "lt_type": [
+    "Personalization"
+  ]
+},{
   "pkg": "com.powerd.cleaner",
   "lt_type": [
     "Tools"
@@ -125935,6 +127395,11 @@
     "Health & Fitness"
   ]
 },{
+  "pkg": "com.obenappvoicegps",
+  "lt_type": [
+    "Maps & Navigation"
+  ]
+},{
   "pkg": "com.launcher.smart.seashell.theme",
   "lt_type": [
     "Personalization"
@@ -126071,6 +127536,11 @@
   "pkg": "nightradio.sunvox",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "com.dataeast.kadastr",
+  "lt_type": [
+    "Books & Reference"
   ]
 },{
   "pkg": "com.runtastic.android.results.lite",
@@ -126651,6 +128121,11 @@
     "Tools"
   ]
 },{
+  "pkg": "gallery.app",
+  "lt_type": [
+    "Photography"
+  ]
+},{
   "pkg": "eu.gingermobile",
   "lt_type": [
     "Maps & Navigation"
@@ -127043,6 +128518,11 @@
   "pkg": "com.appeteria.battery100alarm",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "com.hinkhoj.questionbank",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "com.openxcell.drberg",
@@ -127804,6 +129284,11 @@
     "Action"
   ]
 },{
+  "pkg": "org.fcbh.eweibe.n2.n",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.BlackBasher.PCTycoon",
   "lt_type": [
     "Simulation"
@@ -128333,6 +129818,12 @@
     "Trivia"
   ]
 },{
+  "pkg": "com.motionvolt.fliprunner",
+  "lt_type": [
+    "Sports",
+    "Casual"
+  ]
+},{
   "pkg": "com.ubercab.fleet",
   "lt_type": [
     "Maps & Navigation"
@@ -128403,6 +129894,11 @@
   "pkg": "com.fraom.FlatDroid",
   "lt_type": [
     "Personalization"
+  ]
+},{
+  "pkg": "com.playerzpot.www.playerzpot",
+  "lt_type": [
+    "Sports"
   ]
 },{
   "pkg": "com.francais.archigenie.grammaire_en_dialogues",
@@ -128609,6 +130105,11 @@
   "pkg": "com.goodsmatch3d.find.puzzle",
   "lt_type": [
     "Casual"
+  ]
+},{
+  "pkg": "com.arumcomm.playservicesinfo",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.niagatha.petamapextreme",
@@ -129530,6 +131031,13 @@
     "Entertainment"
   ]
 },{
+  "pkg": "com.gionee.video",
+  "lt_type": [
+    "Music & Audio",
+    "Tools",
+    "Video Players & Editors"
+  ]
+},{
   "pkg": "com.c24dealerapp",
   "lt_type": [
     "Business"
@@ -129538,6 +131046,11 @@
   "pkg": "com.EYGAMES.SecimOyunu",
   "lt_type": [
     "Simulation"
+  ]
+},{
+  "pkg": "pl.netigen.newmetaldetector",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "pt.medis.androidApp",
@@ -129890,6 +131403,11 @@
   "pkg": "mp3.music.download.player.music.search",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "com.angkorworld.memo",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.mishuto.pingtest",
@@ -130362,6 +131880,11 @@
   "pkg": "com.bencyo.rifiuti",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "net.shreejicreation.flashlight",
+  "lt_type": [
+    "Lifestyle"
   ]
 },{
   "pkg": "com.weedle.led_remotes",
@@ -131253,6 +132776,11 @@
     "Tools"
   ]
 },{
+  "pkg": "audio.equalizer.volume.booster",
+  "lt_type": [
+    "Music & Audio"
+  ]
+},{
   "pkg": "com.lockscreen.smartclockapp",
   "lt_type": [
     "Personalization"
@@ -131715,6 +133243,11 @@
     "Social"
   ]
 },{
+  "pkg": "com.zenthek.autozen",
+  "lt_type": [
+    "Auto & Vehicles"
+  ]
+},{
   "pkg": "jp.co.rakuten.pay",
   "lt_type": [
     "Finance"
@@ -132137,6 +133670,13 @@
     "Personalization"
   ]
 },{
+  "pkg": "com.as.real.car.drivingschool.simulator",
+  "lt_type": [
+    "Casual",
+    "Simulation",
+    "Single player"
+  ]
+},{
   "pkg": "com.helectronsoft.free.live.wallpaper.parallax.background",
   "lt_type": [
     "Personalization"
@@ -132377,6 +133917,11 @@
   "pkg": "com.tg.helicopterhill2016rescue",
   "lt_type": [
     "Simulation"
+  ]
+},{
+  "pkg": "com.telangana.twallet",
+  "lt_type": [
+    "Finance"
   ]
 },{
   "pkg": "gs.magenta.geenstijl",
@@ -133311,6 +134856,11 @@
     "Music & Audio"
   ]
 },{
+  "pkg": "com.solodou.app",
+  "lt_type": [
+    "Education"
+  ]
+},{
   "pkg": "com.dogbytegames.zombiesafari",
   "lt_type": [
     "Action",
@@ -133625,6 +135175,11 @@
     "Card",
     "Multiplayer",
     "Single player"
+  ]
+},{
+  "pkg": "com.ai.cleaner.booster.android",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.wickr.pro",
@@ -134124,6 +135679,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.WhatsApp4Plus",
+  "lt_type": [
+    "Social"
+  ]
+},{
   "pkg": "com.redfoxpro.iqcars",
   "lt_type": [
     "Auto & Vehicles"
@@ -134283,6 +135843,11 @@
   "pkg": "com.brawlbussid.bussidbangladeshbusmod",
   "lt_type": [
     "Auto & Vehicles"
+  ]
+},{
+  "pkg": "com.cortevanucleus.app",
+  "lt_type": [
+    "Business"
   ]
 },{
   "pkg": "or.id.pan.simpan.simpan",
@@ -134662,6 +136227,11 @@
   "pkg": "com.ibood.app",
   "lt_type": [
     "Shopping"
+  ]
+},{
+  "pkg": "com.binance.custody",
+  "lt_type": [
+    "Finance"
   ]
 },{
   "pkg": "com.opalastudios.superpadsdrum",
@@ -135108,6 +136678,11 @@
   "pkg": "com.com.n3310.nlauncher",
   "lt_type": [
     "Personalization"
+  ]
+},{
+  "pkg": "com.flylitchi.litchi.vue",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.joshy21.vera.calendarplus.widgets",
@@ -135884,6 +137459,11 @@
     "Puzzle"
   ]
 },{
+  "pkg": "org.fairview.mychart",
+  "lt_type": [
+    "Medical"
+  ]
+},{
   "pkg": "com.mkarpenko.worldbox",
   "lt_type": [
     "Simulation"
@@ -136395,6 +137975,13 @@
   "pkg": "com.bandlab.bandlab",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "com.koenigz.KittenCatSimulator",
+  "lt_type": [
+    "Casual",
+    "Simulation",
+    "Single player"
   ]
 },{
   "pkg": "com.tiltingpoint.sbadventures",
@@ -136951,6 +138538,11 @@
   "pkg": "com.wizkid.appfer77haba",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "com.humor.talking.mammuthu",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "com.cleaner.modern_booster",
@@ -137544,6 +139136,11 @@
     "Food & Drink"
   ]
 },{
+  "pkg": "app.ndtv.matahari",
+  "lt_type": [
+    "Shopping"
+  ]
+},{
   "pkg": "com.brokendiamond.advance.car.parking.driving.school",
   "lt_type": [
     "Strategy"
@@ -137898,6 +139495,11 @@
   "pkg": "com.Locos.MBS",
   "lt_type": [
     "Simulation"
+  ]
+},{
+  "pkg": "com.darko3.iconpack",
+  "lt_type": [
+    "Personalization"
   ]
 },{
   "pkg": "net.vcqwpu.emluw",
@@ -138305,6 +139907,11 @@
   "pkg": "com.woome.blissu",
   "lt_type": [
     "Social"
+  ]
+},{
+  "pkg": "dz.ooredoo.ibiza",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "com.kotahayashi.t2qr",
@@ -139348,6 +140955,11 @@
     "Social"
   ]
 },{
+  "pkg": "com.humor.talking.sarcosuchus",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "cn.gavinliu.snapmod",
   "lt_type": [
     "Tools"
@@ -140279,6 +141891,11 @@
     "Tools"
   ]
 },{
+  "pkg": "dz.algerietelecom.rd.e_paiement",
+  "lt_type": [
+    "Communication"
+  ]
+},{
   "pkg": "com.notdoppler.renegaderacing",
   "lt_type": [
     "Casual",
@@ -140788,6 +142405,12 @@
     "Music & Audio"
   ]
 },{
+  "pkg": "com.huawei.notepad",
+  "lt_type": [
+    "Productivity",
+    "Tools"
+  ]
+},{
   "pkg": "air.it.patente.quizapp",
   "lt_type": [
     "Education"
@@ -140895,6 +142518,11 @@
   "pkg": "de.telekom.smarthomeb2c",
   "lt_type": [
     "Lifestyle"
+  ]
+},{
+  "pkg": "com.ekik.tacticalnavigation",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.yahoo.mobile.client.android.TWStock",
@@ -141055,6 +142683,11 @@
   ]
 },{
   "pkg": "video.player.videoplayer",
+  "lt_type": [
+    "Video Players & Editors"
+  ]
+},{
+  "pkg": "com.aryuthere.visionplus2",
   "lt_type": [
     "Video Players & Editors"
   ]
@@ -141657,6 +143290,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "cheapdata.nig",
+  "lt_type": [
+    "Communication"
+  ]
+},{
   "pkg": "com.simplexsolutionsinc.vpn_unlimited",
   "lt_type": [
     "Productivity"
@@ -142191,6 +143829,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "com.Monz.ShakeOff",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "io.raindrop.raindropio",
   "lt_type": [
     "Productivity"
@@ -142439,6 +144082,13 @@
     "Maps & Navigation"
   ]
 },{
+  "pkg": "com.YovoGames.police",
+  "lt_type": [
+    "Casual",
+    "Simulation",
+    "Single player"
+  ]
+},{
   "pkg": "com.mobiledirection.proximitysensorreset",
   "lt_type": [
     "Tools"
@@ -142619,6 +144269,13 @@
     "Music & Audio"
   ]
 },{
+  "pkg": "de.lotum.whatsinthefoto.fr",
+  "lt_type": [
+    "Word",
+    "Casual",
+    "Single player"
+  ]
+},{
   "pkg": "jp.co.family.familymart_app",
   "lt_type": [
     "Lifestyle"
@@ -142706,6 +144363,11 @@
   "pkg": "id.hygensia.android",
   "lt_type": [
     "Lifestyle"
+  ]
+},{
+  "pkg": "com.desygner.logos",
+  "lt_type": [
+    "Photography"
   ]
 },{
   "pkg": "me.harrygonzalez.simcardinfo",
@@ -142916,6 +144578,11 @@
   "pkg": "com.reddoorz.app",
   "lt_type": [
     "Travel & Local"
+  ]
+},{
+  "pkg": "com.gallery.photo.gallerypro",
+  "lt_type": [
+    "Productivity"
   ]
 },{
   "pkg": "com.ktv.weedfactory",
@@ -143309,6 +144976,14 @@
     "Strategy"
   ]
 },{
+  "pkg": "com.mobirix.SnakeGame",
+  "lt_type": [
+    "Casual",
+    "Board",
+    "Multiplayer",
+    "Single player"
+  ]
+},{
   "pkg": "com.igg.android.lordsmobile",
   "lt_type": [
     "Strategy"
@@ -143601,6 +145276,11 @@
   "pkg": "com.mbh.azkari",
   "lt_type": [
     "Lifestyle"
+  ]
+},{
+  "pkg": "cz.pria.esports.flsk",
+  "lt_type": [
+    "Sports"
   ]
 },{
   "pkg": "com.randierinc.alldocument.viwer.reader",
@@ -144010,6 +145690,11 @@
     "Productivity"
   ]
 },{
+  "pkg": "com.vizmanga.android",
+  "lt_type": [
+    "Comics"
+  ]
+},{
   "pkg": "andr.AthensTransportation",
   "lt_type": [
     "Maps & Navigation"
@@ -144202,6 +145887,11 @@
     "Finance"
   ]
 },{
+  "pkg": "com.chaks.ayatkursi",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.polysoftstudios.bff.bfffriendshiptest",
   "lt_type": [
     "Entertainment"
@@ -144238,6 +145928,11 @@
   "pkg": "io.amuse.android",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "com.thaerkali.finance",
+  "lt_type": [
+    "Finance"
   ]
 },{
   "pkg": "com.funambol.zefiro",
@@ -144283,6 +145978,11 @@
   "pkg": "com.media.music.mp3.musicplayer",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "dinosaurios.losmejoresdocumentalesdedinosaurios",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "id.adrena.hr.app",
@@ -144455,6 +146155,11 @@
     "Simulation"
   ]
 },{
+  "pkg": "com.hmh3",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "com.cursos_croplifela",
   "lt_type": [
     "Education"
@@ -144580,6 +146285,11 @@
   "pkg": "com.americasbestpics",
   "lt_type": [
     "Social"
+  ]
+},{
+  "pkg": "com.selimreza.currentaffairs",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "com.marcdonaldson.scrabblesolver",
@@ -144967,6 +146677,11 @@
   ]
 },{
   "pkg": "com.ducky.launcher3",
+  "lt_type": [
+    "Personalization"
+  ]
+},{
+  "pkg": "com.volunteerx360.samsung.samsungs21plus.wallpaper2021.launcher2021.themes2021.galaxys21plus.samsungplus.icon2021.galaxyplus",
   "lt_type": [
     "Personalization"
   ]
@@ -145995,6 +147710,11 @@
     "Action"
   ]
 },{
+  "pkg": "com.quicks.apps.auto.update",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "net.hyeongkyu.android.incheonBus",
   "lt_type": [
     "Maps & Navigation"
@@ -146570,6 +148290,11 @@
   "pkg": "com.avn.officereader",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "com.mangaslayer.manganew",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "com.nimblebit.legotower",
@@ -148079,6 +149804,11 @@
     "Board"
   ]
 },{
+  "pkg": "com.tamilnewslivetv.tamilnewspaper",
+  "lt_type": [
+    "News & Magazines"
+  ]
+},{
   "pkg": "com.airbeat.device.inspector",
   "lt_type": [
     "Photography"
@@ -148172,6 +149902,11 @@
   "pkg": "com.moogames.liedetector",
   "lt_type": [
     "Simulation"
+  ]
+},{
+  "pkg": "com.dukascopy.swissbank",
+  "lt_type": [
+    "Finance"
   ]
 },{
   "pkg": "com.coindcx.btc",
@@ -148574,6 +150309,11 @@
     "Casual",
     "Puzzle",
     "Single player"
+  ]
+},{
+  "pkg": "com.lakshyamathematics.sdyadavmath",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "com.mahalaxmi.marathi.pro",
@@ -149159,6 +150899,11 @@
     "Business"
   ]
 },{
+  "pkg": "com.transcore.android.iowadot",
+  "lt_type": [
+    "Travel & Local"
+  ]
+},{
   "pkg": "com.moblynx.camerakk",
   "lt_type": [
     "Photography"
@@ -149509,6 +151254,11 @@
     "Puzzle"
   ]
 },{
+  "pkg": "com.turborocketgames.eaglesim",
+  "lt_type": [
+    "Simulation"
+  ]
+},{
   "pkg": "ru.gkproduction.fnwfroggy",
   "lt_type": [
     "Action",
@@ -149731,6 +151481,11 @@
   "pkg": "com.rightmove.android",
   "lt_type": [
     "Lifestyle"
+  ]
+},{
+  "pkg": "gr.jukebooks",
+  "lt_type": [
+    "Books & Reference"
   ]
 },{
   "pkg": "com.bigcake.android.bubbledaily",
@@ -150462,6 +152217,11 @@
     "Shopping"
   ]
 },{
+  "pkg": "com.selimreza.alquran",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "bubble.level.ruler.app",
   "lt_type": [
     "Tools"
@@ -151162,6 +152922,11 @@
     "Books & Reference"
   ]
 },{
+  "pkg": "videoconvert.convert.videoconvert",
+  "lt_type": [
+    "Video Players & Editors"
+  ]
+},{
   "pkg": "piano.magic.tiles.challenge.music.free",
   "lt_type": [
     "Arcade",
@@ -151629,6 +153394,11 @@
     "Puzzle"
   ]
 },{
+  "pkg": "pl.mr03.noteplus",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
   "pkg": "com.turner.boomerang",
   "lt_type": [
     "Casual",
@@ -151685,9 +153455,21 @@
     "Entertainment"
   ]
 },{
+  "pkg": "com.driving.car2021.city",
+  "lt_type": [
+    "Casual",
+    "Racing",
+    "Single player"
+  ]
+},{
   "pkg": "com.sxl.sage",
   "lt_type": [
     "Finance"
+  ]
+},{
+  "pkg": "ru.ideast.ru101",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "com.crazylabs.diy.make.up",
@@ -152132,6 +153914,11 @@
   "pkg": "com.shopapplt.smartfile.manage.cloud",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.iBibleApps.BibleEwe",
+  "lt_type": [
+    "Books & Reference"
   ]
 },{
   "pkg": "com.progdigy.cdisplay.free",
@@ -152589,6 +154376,11 @@
   "pkg": "com.rksoft.autoazanalarm",
   "lt_type": [
     "Lifestyle"
+  ]
+},{
+  "pkg": "com.betaseriesnative",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "com.zhiliaoapp.musically.go",
@@ -153271,6 +155063,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.dronedeploy.beta",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "botnoke.ac_remote.for_trane",
   "lt_type": [
     "Tools"
@@ -153578,6 +155375,11 @@
   "pkg": "com.autotrader",
   "lt_type": [
     "Lifestyle"
+  ]
+},{
+  "pkg": "ru.bukharsky.radio.huawei",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "com.secureapps.antitheft",
@@ -154020,6 +155822,11 @@
   "pkg": "music.bassbooster.equalizer",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "com.tradetu.trendingapps.vehicleregistrationdetails",
+  "lt_type": [
+    "Auto & Vehicles"
   ]
 },{
   "pkg": "uk.co.dedmondson.timer.classiclite",
@@ -154603,6 +156410,11 @@
   "pkg": "pt.ama.mapadocidadao",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.quangdz.voice.recorderpro",
+  "lt_type": [
+    "Lifestyle"
   ]
 },{
   "pkg": "com.iexceed.appzillon.ippbMB",
@@ -155285,6 +157097,11 @@
     "Weather"
   ]
 },{
+  "pkg": "com.app.WindCreek.CasinoVerse",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "com.ordenaris.bait",
   "lt_type": [
     "Tools"
@@ -155565,6 +157382,11 @@
   "pkg": "com.dpd.yourdpd",
   "lt_type": [
     "Lifestyle"
+  ]
+},{
+  "pkg": "com.coolwind.weather",
+  "lt_type": [
+    "Weather"
   ]
 },{
   "pkg": "com.UnicornFakeVideoCall",
@@ -155852,6 +157674,11 @@
   "pkg": "com.uniqlo.it.catalogue",
   "lt_type": [
     "Shopping"
+  ]
+},{
+  "pkg": "com.akitastudio.huruf",
+  "lt_type": [
+    "Educational"
   ]
 },{
   "pkg": "com.codebutler.shrug",
@@ -156633,6 +158460,11 @@
     "Education"
   ]
 },{
+  "pkg": "com.tvRemote.NxtDigital",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "com.kyucon.gf",
   "lt_type": [
     "Casual",
@@ -156674,6 +158506,11 @@
   "pkg": "com.evamall.evacustomer",
   "lt_type": [
     "Shopping"
+  ]
+},{
+  "pkg": "com.turborocketgames.phoenixsim",
+  "lt_type": [
+    "Simulation"
   ]
 },{
   "pkg": "com.phone.number.tracker.mobile.locator.callerid",
@@ -156805,6 +158642,11 @@
     "Single player"
   ]
 },{
+  "pkg": "com.africa.smartcash",
+  "lt_type": [
+    "Finance"
+  ]
+},{
   "pkg": "com.sinyee.babybus.recommendapp.global",
   "lt_type": [
     "Casual",
@@ -156836,6 +158678,11 @@
   "pkg": "com.marketwatch",
   "lt_type": [
     "Finance"
+  ]
+},{
+  "pkg": "jp.co.a_tm.android.plus_kumachan_to_tsumiki",
+  "lt_type": [
+    "Personalization"
   ]
 },{
   "pkg": "id.yongki.growtopiamarket",
@@ -157005,6 +158852,11 @@
   "pkg": "kr.sira.level",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "pl.rs.sip.softphone",
+  "lt_type": [
+    "Communication"
   ]
 },{
   "pkg": "zombie.survival.craft.z",
@@ -157243,6 +159095,11 @@
     "Education"
   ]
 },{
+  "pkg": "com.anisadev.lagu_letto_band.lengkap_offline",
+  "lt_type": [
+    "Music & Audio"
+  ]
+},{
   "pkg": "com.ninjanumber.nnapp",
   "lt_type": [
     "Business"
@@ -157374,6 +159231,13 @@
   "pkg": "com.softhis.tui",
   "lt_type": [
     "Travel & Local"
+  ]
+},{
+  "pkg": "wood.blockpuzzle.game.jewel.classic",
+  "lt_type": [
+    "Casual",
+    "Puzzle",
+    "Single player"
   ]
 },{
   "pkg": "com.a0soft.gphone.acc.free",
@@ -157588,6 +159452,11 @@
     "Puzzle"
   ]
 },{
+  "pkg": "com.bocatoca.tocagame.bocalifey1.mytips",
+  "lt_type": [
+    "Arcade"
+  ]
+},{
   "pkg": "astral.teffexf",
   "lt_type": [
     "Music & Audio"
@@ -157686,6 +159555,11 @@
   "pkg": "com.esprit.espritapp",
   "lt_type": [
     "Shopping"
+  ]
+},{
+  "pkg": "vn.vnpt.motcuadateh",
+  "lt_type": [
+    "Social"
   ]
 },{
   "pkg": "com.starz.starzplay.android",
@@ -158418,6 +160292,11 @@
     "Education"
   ]
 },{
+  "pkg": "com.gspl.mcrypto",
+  "lt_type": [
+    "Lifestyle"
+  ]
+},{
   "pkg": "com.lguplus.homeiot",
   "lt_type": [
     "Lifestyle"
@@ -158661,6 +160540,11 @@
   "pkg": "com.terasoftware.nfc",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.glegends.roller.coaster.train.games",
+  "lt_type": [
+    "Strategy"
   ]
 },{
   "pkg": "com.appplanex.pingmasternetworktools",
@@ -158947,6 +160831,11 @@
   "pkg": "com.eloitinnovation.edisappParentAppC",
   "lt_type": [
     "Education"
+  ]
+},{
+  "pkg": "mx.cellforce.store",
+  "lt_type": [
+    "Productivity"
   ]
 },{
   "pkg": "kr.co.sigongmedia.truebotcolorcard",
@@ -159581,6 +161470,11 @@
     "Single player"
   ]
 },{
+  "pkg": "com.cherisher.beauty.camera.videocall",
+  "lt_type": [
+    "Photography"
+  ]
+},{
   "pkg": "br.com.netshoes.app",
   "lt_type": [
     "Shopping"
@@ -159666,6 +161560,11 @@
     "Adventure",
     "Casual",
     "Single player"
+  ]
+},{
+  "pkg": "com.praveenj.idiom",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "com.androidauthority.app",
@@ -160057,6 +161956,11 @@
   "pkg": "com.application.zomato",
   "lt_type": [
     "Food & Drink"
+  ]
+},{
+  "pkg": "uz.music.gulinur",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "com.mobisystems.msdict.embedded.wireless.svcon.tlen.full",
@@ -161028,6 +162932,11 @@
     "Video Players & Editors"
   ]
 },{
+  "pkg": "telugu.indian.holidays.telugucalendar",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.finance.oneaset",
   "lt_type": [
     "Finance"
@@ -161335,6 +163244,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "com.nw.cleansite.novel.mangareader",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.michy.quickforweardemo",
   "lt_type": [
     "Communication"
@@ -161625,6 +163539,11 @@
     "Lifestyle"
   ]
 },{
+  "pkg": "com.gpinfo.marathiinvitationcard",
+  "lt_type": [
+    "Art & Design"
+  ]
+},{
   "pkg": "rosegold.cal",
   "lt_type": [
     "Productivity"
@@ -161854,6 +163773,7 @@
   "pkg": "com.PlayMax.playergames",
   "lt_type": [
     "Casual",
+    "Arcade",
     "Board",
     "Multiplayer",
     "Single player"
@@ -161937,6 +163857,11 @@
   "pkg": "com.paybyapis",
   "lt_type": [
     "Finance"
+  ]
+},{
+  "pkg": "com.goodsounds4ring.twentyfourringtonefree",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "com.adhoclabs.burner",
@@ -162282,6 +164207,12 @@
     "Photography"
   ]
 },{
+  "pkg": "crane.unicorndash.run",
+  "lt_type": [
+    "Action",
+    "Single player"
+  ]
+},{
   "pkg": "com.gz.vitalwires",
   "lt_type": [
     "Business"
@@ -162295,6 +164226,11 @@
   "pkg": "com.rafinstech.miuithemes",
   "lt_type": [
     "Personalization"
+  ]
+},{
+  "pkg": "com.findmyphone.findmydevice",
+  "lt_type": [
+    "Maps & Navigation"
   ]
 },{
   "pkg": "com.noodlecake.waywardsouls",
@@ -162448,6 +164384,11 @@
   "pkg": "com.mgi.moneygram",
   "lt_type": [
     "Finance"
+  ]
+},{
+  "pkg": "com.stech.offlinemaps.navigation.routemaps.gps.track.history.city.guide.driving.directions",
+  "lt_type": [
+    "Maps & Navigation"
   ]
 },{
   "pkg": "com.wearecentrifuge.interference",
@@ -163349,6 +165290,11 @@
     "Single player"
   ]
 },{
+  "pkg": "com.lactydev.mobilehr",
+  "lt_type": [
+    "Business"
+  ]
+},{
   "pkg": "vic.tools.random.pick",
   "lt_type": [
     "Entertainment"
@@ -163546,6 +165492,11 @@
   "pkg": "com.msm.pdfreader.pdfviewer",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "com.letscontrol.universalhometheatreremotecontrol",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.pidigi.quizpot",
@@ -163808,6 +165759,11 @@
     "Weather"
   ]
 },{
+  "pkg": "eraapps.bankasia.bdinternetbanking.apps",
+  "lt_type": [
+    "Finance"
+  ]
+},{
   "pkg": "com.softissimo.reverso.context",
   "lt_type": [
     "Books & Reference"
@@ -163944,6 +165900,11 @@
   "pkg": "fr.laposte.lapostemobile",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.selimreza.childrenname",
+  "lt_type": [
+    "Books & Reference"
   ]
 },{
   "pkg": "com.idbsstudio.buslintassumatera",
@@ -164679,6 +166640,7 @@
   "lt_type": [
     "Action",
     "Casual",
+    "Arcade",
     "Single player"
   ]
 },{
@@ -164900,6 +166862,11 @@
     "Travel & Local"
   ]
 },{
+  "pkg": "bhumkar.corp.notebook.pro",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.appmystique.resume",
   "lt_type": [
     "Business"
@@ -165060,6 +167027,11 @@
   "pkg": "com.blackberry.notes",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "uz.allplay.app",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "com.ddevicers.zwskin.ornatuszooper",
@@ -165707,6 +167679,11 @@
     "Sports"
   ]
 },{
+  "pkg": "com.bluebook.mm.kmaplus",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.emeznet.apkpure.appmarket",
   "lt_type": [
     "Tools"
@@ -165802,6 +167779,11 @@
   "pkg": "com.nepix.humanvehicle",
   "lt_type": [
     "Arcade"
+  ]
+},{
+  "pkg": "lite.cryptotab.android",
+  "lt_type": [
+    "Communication"
   ]
 },{
   "pkg": "moe.low.arc",
@@ -166073,6 +168055,11 @@
   "pkg": "za.co.fnb.connect.itt",
   "lt_type": [
     "Finance"
+  ]
+},{
+  "pkg": "com.sunny.dayoneday.app",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.sathish.TeluguBible",
@@ -166707,6 +168694,11 @@
   "pkg": "com.kang.cahya.KtpChecker",
   "lt_type": [
     "Personalization"
+  ]
+},{
+  "pkg": "com.quadacts.pioneer_advertiser",
+  "lt_type": [
+    "Business"
   ]
 },{
   "pkg": "com.amerlini.mycartoonmakerstar",
@@ -167696,6 +169688,11 @@
     "Lifestyle"
   ]
 },{
+  "pkg": "com.easycut",
+  "lt_type": [
+    "Video Players & Editors"
+  ]
+},{
   "pkg": "com.androidcentral.app",
   "lt_type": [
     "News & Magazines"
@@ -167776,6 +169773,12 @@
   "pkg": "cl.wom.transformacion.appwommobile",
   "lt_type": [
     "Communication"
+  ]
+},{
+  "pkg": "com.coreupapps.azbulsoz",
+  "lt_type": [
+    "Word",
+    "Single player"
   ]
 },{
   "pkg": "com.exposio.darkroom.realtyone",
@@ -168033,6 +170036,11 @@
   "pkg": "com.ontim.fmradio",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "com.appkruti.heliumvideoboothlite",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "com.meberty.videotrimmer",
@@ -169212,6 +171220,13 @@
     "Video Players & Editors"
   ]
 },{
+  "pkg": "forqan.tech.iq_brain_trainer",
+  "lt_type": [
+    "Educational",
+    "Casual",
+    "Single player"
+  ]
+},{
   "pkg": "com.madlogics.buttclash",
   "lt_type": [
     "Action"
@@ -169254,6 +171269,11 @@
   "pkg": "com.kentdisplays.blackboard",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "com.master.phone",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "com.popularapp.videodownloaderforinstagram",
@@ -169304,6 +171324,11 @@
     "Communication"
   ]
 },{
+  "pkg": "me.ringapp",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
   "pkg": "com.marlon.searcheverything",
   "lt_type": [
     "Productivity"
@@ -169327,6 +171352,11 @@
   "pkg": "com.handyapps.tasksiq",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "com.dukascopy.platform",
+  "lt_type": [
+    "Finance"
   ]
 },{
   "pkg": "in.droom",
@@ -169569,6 +171599,12 @@
   "pkg": "web.pdf",
   "lt_type": [
     "Education"
+  ]
+},{
+  "pkg": "com.huawei.soundrecorder",
+  "lt_type": [
+    "Music & Audio",
+    "Tools"
   ]
 },{
   "pkg": "ch.admin.bag.covidcertificate.wallet",
@@ -171193,6 +173229,11 @@
     "Board"
   ]
 },{
+  "pkg": "appbankstore.qrcodescanner.adharacardscanner",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "org.hola.prem",
   "lt_type": [
     "Tools"
@@ -171758,6 +173799,11 @@
     "Entertainment"
   ]
 },{
+  "pkg": "com.google.android.accessibility.reader",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.okasoft.ygodeck",
   "lt_type": [
     "Entertainment"
@@ -171935,6 +173981,11 @@
   "pkg": "com.trackerandroid.trackerandroid",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.virtual.pet.cat.simulator.animal.kitten.games",
+  "lt_type": [
+    "Role Playing"
   ]
 },{
   "pkg": "com.ktapp.wifi",
@@ -172173,6 +174224,11 @@
     "Health & Fitness"
   ]
 },{
+  "pkg": "com.bluebook.kma",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.ikeyboard.theme.neon.lights.heart",
   "lt_type": [
     "Personalization"
@@ -172382,6 +174438,11 @@
     "Single player"
   ]
 },{
+  "pkg": "com.phonenumbertracker.app",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.CaffeinatedMarmotStudio.TrialsOnTheBeachFree",
   "lt_type": [
     "Racing"
@@ -172518,6 +174579,11 @@
     "Books & Reference"
   ]
 },{
+  "pkg": "com.ioslauncher.ilauncher.launcherios",
+  "lt_type": [
+    "Personalization"
+  ]
+},{
   "pkg": "com.uniarch.mobile.phone",
   "lt_type": [
     "Tools"
@@ -172603,6 +174669,11 @@
   "pkg": "guitartab.player",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "com.ThinkZZO.MyBinder",
+  "lt_type": [
+    "Productivity"
   ]
 },{
   "pkg": "com.starmedia.lava",
@@ -172698,6 +174769,11 @@
   ]
 },{
   "pkg": "com.andi.alquran.bangla",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
+  "pkg": "com.all.prophetsstories",
   "lt_type": [
     "Books & Reference"
   ]
@@ -172910,6 +174986,11 @@
   "pkg": "com.linkdesks.bubble",
   "lt_type": [
     "Puzzle"
+  ]
+},{
+  "pkg": "com.newandromo.dev5820.app754536",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "com.aamir.simpledialler",
@@ -173846,6 +175927,11 @@
     "Productivity"
   ]
 },{
+  "pkg": "com.weedle.led_arduino_remotes",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "pl.bzwbk.bzwbk24",
   "lt_type": [
     "Finance"
@@ -174270,6 +176356,11 @@
   "pkg": "com.wanxing.restaurant",
   "lt_type": [
     "Simulation"
+  ]
+},{
+  "pkg": "com.oota.wallpaper.for.whatsapp.chat.wallpaper.background.theme",
+  "lt_type": [
+    "Personalization"
   ]
 },{
   "pkg": "it.telecomitalia.appmytim",
@@ -175664,6 +177755,11 @@
     "Communication"
   ]
 },{
+  "pkg": "com.pampoapps.istighfarcounter",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "com.amaze.fileutilities",
   "lt_type": [
     "Tools"
@@ -175800,6 +177896,11 @@
   "pkg": "net.lightcon.jg3ma",
   "lt_type": [
     "Puzzle"
+  ]
+},{
+  "pkg": "net.clem_digital.MyYearCalendar",
+  "lt_type": [
+    "Productivity"
   ]
 },{
   "pkg": "com.silkyapps.s10lock",
@@ -175949,6 +178050,11 @@
   "pkg": "br.com.tapps.catevolution",
   "lt_type": [
     "Casual"
+  ]
+},{
+  "pkg": "app.oi.xyz",
+  "lt_type": [
+    "Word"
   ]
 },{
   "pkg": "com.stcodesapp.text2speech",
@@ -176250,6 +178356,11 @@
   "pkg": "com.abaenglish.videoclass",
   "lt_type": [
     "Education"
+  ]
+},{
+  "pkg": "pt.vodafone.smartrouter",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "mobi.mangatoon.comics.aphone",
@@ -176866,6 +178977,11 @@
     "Action",
     "Casual",
     "Single player"
+  ]
+},{
+  "pkg": "com.admin.user",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "com.eljur.client",
@@ -178233,6 +180349,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "com.gawk.voicenotes",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
   "pkg": "com.algostudio.mp3dangdutkoplooffline",
   "lt_type": [
     "Music & Audio"
@@ -178257,6 +180378,11 @@
   "pkg": "bassbooster.equalizer.bass",
   "lt_type": [
     "Music & Audio"
+  ]
+},{
+  "pkg": "com.watch.life",
+  "lt_type": [
+    "Health & Fitness"
   ]
 },{
   "pkg": "com.Knight.GrandQuest",
@@ -178483,6 +180609,11 @@
   "pkg": "ru.aviasales",
   "lt_type": [
     "Travel & Local"
+  ]
+},{
+  "pkg": "com.clawshorns.liteforexanalytics",
+  "lt_type": [
+    "Finance"
   ]
 },{
   "pkg": "com.miccron.coinoscope",
@@ -178910,6 +181041,11 @@
     "Photography"
   ]
 },{
+  "pkg": "com.tulip.over.hands",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "snappy.apps.movie.details",
   "lt_type": [
     "Entertainment"
@@ -179050,6 +181186,11 @@
   ]
 },{
   "pkg": "com.indianapps.www",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
+  "pkg": "alvi17.banglacalender",
   "lt_type": [
     "Productivity"
   ]
@@ -180034,6 +182175,13 @@
     "Lifestyle"
   ]
 },{
+  "pkg": "com.bigbreakgames.wot",
+  "lt_type": [
+    "Multiplayer",
+    "Strategy",
+    "Single player"
+  ]
+},{
   "pkg": "com.maker.master",
   "lt_type": [
     "Tools"
@@ -180063,6 +182211,11 @@
   "pkg": "pl.onet.mail",
   "lt_type": [
     "Communication"
+  ]
+},{
+  "pkg": "com.amalpro.ayat.al_kursi",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "com.kddi.android.auworldservice",
@@ -180178,6 +182331,11 @@
   "pkg": "com.azurasports.deluxetips",
   "lt_type": [
     "Sports"
+  ]
+},{
+  "pkg": "loseweight.formen.homeworkouts",
+  "lt_type": [
+    "Health & Fitness"
   ]
 },{
   "pkg": "com.brainix.free.brain.games",
@@ -180340,6 +182498,11 @@
     "Education"
   ]
 },{
+  "pkg": "com.arabaudiobooks.jalbrizkk.tawsiaat_arizk_barakka",
+  "lt_type": [
+    "Music & Audio"
+  ]
+},{
   "pkg": "video.recovery.diskdigger.allrecovery.recoverdeletedfiles",
   "lt_type": [
     "Tools"
@@ -180348,6 +182511,11 @@
   "pkg": "launcher.novel.launcher.app.v2",
   "lt_type": [
     "Personalization"
+  ]
+},{
+  "pkg": "net.beginners.weight.loss.workout.women.yoga.go",
+  "lt_type": [
+    "Health & Fitness"
   ]
 },{
   "pkg": "com.barilab.handmirror.googlemarket",
@@ -180438,6 +182606,11 @@
   "pkg": "com.queensgame.freecell",
   "lt_type": [
     "Card"
+  ]
+},{
+  "pkg": "uz.beeline.android.apps.mybeeline",
+  "lt_type": [
+    "Business"
   ]
 },{
   "pkg": "de.democracydeutschland.app",
@@ -181293,6 +183466,11 @@
   "pkg": "com.mike.sync.card",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.praveenj.vocab",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "com.ruralrobo.bassboostx",
@@ -182513,6 +184691,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.techburner.freshwalls",
+  "lt_type": [
+    "Personalization"
+  ]
+},{
   "pkg": "com.SIDJI.MaGer",
   "lt_type": [
     "Casino"
@@ -182941,6 +185124,11 @@
   "pkg": "com.ezetop.world",
   "lt_type": [
     "Communication"
+  ]
+},{
+  "pkg": "com.gozem.provider",
+  "lt_type": [
+    "Maps & Navigation"
   ]
 },{
   "pkg": "com.protagames.bricks",
@@ -183476,6 +185664,11 @@
   "pkg": "com.colorscreen.themes.flashlight",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.huawei.contacts",
+  "lt_type": [
+    "Communication"
   ]
 },{
   "pkg": "de.spiegel.android.app.spon",
@@ -184368,6 +186561,11 @@
     "Personalization"
   ]
 },{
+  "pkg": "co.akashi.app.camera",
+  "lt_type": [
+    "Photography"
+  ]
+},{
   "pkg": "it.froggymedia.sportmediaset",
   "lt_type": [
     "Sports"
@@ -184391,6 +186589,16 @@
   "pkg": "com.kimjisub.launchpad",
   "lt_type": [
     "Music"
+  ]
+},{
+  "pkg": "com.digitafreeka.afreekaplay",
+  "lt_type": [
+    "Music & Audio"
+  ]
+},{
+  "pkg": "com.area730.snow.leopard.family.sim",
+  "lt_type": [
+    "Simulation"
   ]
 },{
   "pkg": "info.test.kpp",
@@ -184754,6 +186962,11 @@
     "Tools"
   ]
 },{
+  "pkg": "com.dtg.sitechief",
+  "lt_type": [
+    "Strategy"
+  ]
+},{
   "pkg": "free.h2hdfb.videodownloader",
   "lt_type": [
     "Music & Audio",
@@ -184824,6 +187037,11 @@
   "pkg": "gb.version",
   "lt_type": [
     "Social"
+  ]
+},{
+  "pkg": "com.dewi.djtiktokterbaru",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "com.kannadanews.kannadanewslivetv.KannadaNewsLiveTV_24X7.Kannada_Epaper.BTV.Suvarna.TV5.TV9Kannada.publicTV.NewsFirst",
@@ -184934,6 +187152,11 @@
   "pkg": "com.schibsted.bomnegocio.androidApp",
   "lt_type": [
     "Shopping"
+  ]
+},{
+  "pkg": "co.azuki.app",
+  "lt_type": [
+    "Comics"
   ]
 },{
   "pkg": "com.tantranshanfc_pro.mainpart",
@@ -185253,6 +187476,11 @@
   "pkg": "com.andromo.dev759880.app845507",
   "lt_type": [
     "Beauty"
+  ]
+},{
+  "pkg": "uz.thunder.lolaqoshiqlari",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "com.ster.photo.surgery",
@@ -185978,6 +188206,11 @@
     "Action"
   ]
 },{
+  "pkg": "com.shakib.nadiatulampara",
+  "lt_type": [
+    "Books & Reference"
+  ]
+},{
   "pkg": "com.cvs.launchers.cvs",
   "lt_type": [
     "Shopping"
@@ -186269,9 +188502,19 @@
     "Video Players & Editors"
   ]
 },{
+  "pkg": "max.cryptotab.android",
+  "lt_type": [
+    "Communication"
+  ]
+},{
   "pkg": "todolist.scheduleplanner.dailyplanner.todo.reminders",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "pl.netigen.drumloops.drumnbase",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "com.podimo",
@@ -187006,6 +189249,11 @@
     "Lifestyle"
   ]
 },{
+  "pkg": "com.soralapps.synonymsantonymslearner",
+  "lt_type": [
+    "Education"
+  ]
+},{
   "pkg": "davita.intra.app",
   "lt_type": [
     "Health & Fitness"
@@ -187697,6 +189945,11 @@
   ]
 },{
   "pkg": "it.seat.fe.mobile.glamoodroid",
+  "lt_type": [
+    "Shopping"
+  ]
+},{
+  "pkg": "com.moglix.online",
   "lt_type": [
     "Shopping"
   ]
@@ -188546,6 +190799,11 @@
     "Social"
   ]
 },{
+  "pkg": "com.led.scroller",
+  "lt_type": [
+    "Entertainment"
+  ]
+},{
   "pkg": "net.applabsinc.android_enchantedforest",
   "lt_type": [
     "Entertainment"
@@ -189230,6 +191488,11 @@
     "Productivity"
   ]
 },{
+  "pkg": "com.huawei.photos",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
   "pkg": "com.jiebaoslim",
   "lt_type": [
     "Sports"
@@ -189444,6 +191707,11 @@
     "Multiplayer"
   ]
 },{
+  "pkg": "uk.co.vocabularybuilder.learn.english",
+  "lt_type": [
+    "Education"
+  ]
+},{
   "pkg": "com.food4less.mobile",
   "lt_type": [
     "Shopping"
@@ -189453,6 +191721,11 @@
   "lt_type": [
     "Casual",
     "Arcade"
+  ]
+},{
+  "pkg": "com.ctvpn.android",
+  "lt_type": [
+    "Tools"
   ]
 },{
   "pkg": "nl.ndsc.kitkatlauncher",
@@ -189747,6 +192020,11 @@
     "Finance"
   ]
 },{
+  "pkg": "com.getgekko.travel",
+  "lt_type": [
+    "Finance"
+  ]
+},{
   "pkg": "com.myfatoorahgcc",
   "lt_type": [
     "Business"
@@ -189816,6 +192094,16 @@
   "pkg": "razzia.super.downloader",
   "lt_type": [
     "Productivity"
+  ]
+},{
+  "pkg": "com.jaga.ibraceletplus.keepfit",
+  "lt_type": [
+    "Health & Fitness"
+  ]
+},{
+  "pkg": "air.com.iswfx.connect",
+  "lt_type": [
+    "Communication"
   ]
 },{
   "pkg": "com.telcel.imk",
@@ -190159,6 +192447,11 @@
   "pkg": "com.settings.allphonesettings",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.SushiStudios.BackroomsDescent",
+  "lt_type": [
+    "Action"
   ]
 },{
   "pkg": "com.live.radar.accu.wea.widget.app",
@@ -190872,6 +193165,11 @@
     "Arcade"
   ]
 },{
+  "pkg": "doPost.geotaggingimages",
+  "lt_type": [
+    "Maps & Navigation"
+  ]
+},{
   "pkg": "com.lwsipl.imaginative.launcher",
   "lt_type": [
     "Personalization"
@@ -191352,6 +193650,11 @@
   "pkg": "com.sikebo.letitbeO.icons.minimal",
   "lt_type": [
     "Personalization"
+  ]
+},{
+  "pkg": "com.damusic.mixerpro.three",
+  "lt_type": [
+    "Productivity"
   ]
 },{
   "pkg": "com.gma.water.connect.flow",
@@ -192073,6 +194376,11 @@
     "Single player"
   ]
 },{
+  "pkg": "com.samantharoobol.worklog",
+  "lt_type": [
+    "Productivity"
+  ]
+},{
   "pkg": "com.fazua.fazuatoolbox",
   "lt_type": [
     "Sports"
@@ -192128,6 +194436,11 @@
     "Action",
     "Casual",
     "Multiplayer"
+  ]
+},{
+  "pkg": "com.zhystudio.CommonEnglishMistakes",
+  "lt_type": [
+    "Books & Reference"
   ]
 },{
   "pkg": "com.bw.filtercam",
@@ -192606,6 +194919,11 @@
   "pkg": "com.appspot.swisscodemonkeys.paintfx",
   "lt_type": [
     "Photography"
+  ]
+},{
+  "pkg": "com.vulte.app",
+  "lt_type": [
+    "Finance"
   ]
 },{
   "pkg": "ch.wog.woggameshop",
@@ -194277,6 +196595,11 @@
     "Business"
   ]
 },{
+  "pkg": "lt.lemonlabs.android.paysera",
+  "lt_type": [
+    "Finance"
+  ]
+},{
   "pkg": "com.obddriver",
   "lt_type": [
     "Auto & Vehicles"
@@ -194573,6 +196896,11 @@
   "pkg": "com.michatapp.im.lite",
   "lt_type": [
     "Communication"
+  ]
+},{
+  "pkg": "com.rahul.odiacalendar",
+  "lt_type": [
+    "Lifestyle"
   ]
 },{
   "pkg": "net.ezcash.app.ezcash",
@@ -195332,6 +197660,11 @@
     "Casual",
     "Simulation",
     "Single player"
+  ]
+},{
+  "pkg": "com.appsinnova.weatherforecast.liveweather",
+  "lt_type": [
+    "Weather"
   ]
 },{
   "pkg": "com.boranuonline.mydates2",
@@ -197131,9 +199464,19 @@
     "Tools"
   ]
 },{
+  "pkg": "com.huawei.deskclock",
+  "lt_type": [
+    "Tools"
+  ]
+},{
   "pkg": "net.east_hino.accessibility_shortcut",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "com.huawei.music",
+  "lt_type": [
+    "Music & Audio"
   ]
 },{
   "pkg": "com.abilitycorp.cloudcam",
@@ -197383,6 +199726,11 @@
     "Food & Drink"
   ]
 },{
+  "pkg": "com.soft24hours.medical.terminology.dictionary.search.terms.vocabulary",
+  "lt_type": [
+    "Medical"
+  ]
+},{
   "pkg": "io.silvrr.installment",
   "lt_type": [
     "Shopping"
@@ -197406,6 +199754,11 @@
   "pkg": "com.design.smoon",
   "lt_type": [
     "Personalization"
+  ]
+},{
+  "pkg": "com.selimreza.Learningkids",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "com.super13.launcher",
@@ -197982,6 +200335,11 @@
   "pkg": "com.vbulletin.build_750",
   "lt_type": [
     "Communication"
+  ]
+},{
+  "pkg": "com.mirakicorporation.pythonguide",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "com.studioarm.sigma",
@@ -198654,6 +201012,11 @@
   "pkg": "kr.co.lina.app",
   "lt_type": [
     "Finance"
+  ]
+},{
+  "pkg": "com.smartphonestudy",
+  "lt_type": [
+    "Education"
   ]
 },{
   "pkg": "com.smart.clean.manager",
@@ -199876,6 +202239,11 @@
     "Lifestyle"
   ]
 },{
+  "pkg": "com.wchealth.wcesc",
+  "lt_type": [
+    "Sports"
+  ]
+},{
   "pkg": "ru.ivi.client",
   "lt_type": [
     "Entertainment"
@@ -199896,6 +202264,11 @@
   "pkg": "com.rudygames.quizit",
   "lt_type": [
     "Board"
+  ]
+},{
+  "pkg": "jp.co.a_tm.android.plus_neon_planet",
+  "lt_type": [
+    "Personalization"
   ]
 },{
   "pkg": "ru.hh.employer.android",
@@ -200566,6 +202939,11 @@
     "Medical"
   ]
 },{
+  "pkg": "com.qcwx.qwatch",
+  "lt_type": [
+    "Health & Fitness"
+  ]
+},{
   "pkg": "com.galaxya52idngak.topringtonesosmah",
   "lt_type": [
     "Personalization"
@@ -200579,6 +202957,11 @@
   "pkg": "com.dgt.midgt",
   "lt_type": [
     "Tools"
+  ]
+},{
+  "pkg": "jp.co.a_tm.android.plus_snow_globe",
+  "lt_type": [
+    "Personalization"
   ]
 },{
   "pkg": "xdk.template.sitez",
@@ -200906,6 +203289,11 @@
   "pkg": "com.eccp.alger.poste",
   "lt_type": [
     "Finance"
+  ]
+},{
+  "pkg": "com.mindstream.logic.charging.animation",
+  "lt_type": [
+    "Personalization"
   ]
 },{
   "pkg": "com.wolvesinteractive.traffictour",
@@ -201479,6 +203867,11 @@
     "Music & Audio"
   ]
 },{
+  "pkg": "com.xcash.xcrosscash",
+  "lt_type": [
+    "Finance"
+  ]
+},{
   "pkg": "com.cubic.cumo.android.rmv",
   "lt_type": [
     "Maps & Navigation"
@@ -201823,6 +204216,11 @@
   "pkg": "it.stileo",
   "lt_type": [
     "Lifestyle"
+  ]
+},{
+  "pkg": "com.wobblygame4.yellowwobbly.wobllysticky1.mytips",
+  "lt_type": [
+    "Adventure"
   ]
 },{
   "pkg": "com.spectrum.mobile.inc.notepad",
@@ -203346,7 +205744,8 @@
 },{
   "pkg": "com.masomo.headball2",
   "lt_type": [
-    "Sports"
+    "Sports",
+    "Multiplayer"
   ]
 },{
   "pkg": "com.superdraft.superdraftsportsbookgpf2p",
@@ -203373,6 +205772,11 @@
   "lt_type": [
     "Casual",
     "Simulation"
+  ]
+},{
+  "pkg": "com.taylormadegolf.myroundpro.android",
+  "lt_type": [
+    "Sports"
   ]
 },{
   "pkg": "au.com.dominos.olo.android.app.nz",
@@ -203771,6 +206175,11 @@
   "pkg": "com.draw.to.home.bo",
   "lt_type": [
     "Casual"
+  ]
+},{
+  "pkg": "com.superringtone.popmusic.collections",
+  "lt_type": [
+    "Entertainment"
   ]
 },{
   "pkg": "com.covidtracker.hse",
@@ -204799,6 +207208,11 @@
   "pkg": "com.kinzi.ballcrawl",
   "lt_type": [
     "Casual"
+  ]
+},{
+  "pkg": "com.hqbytes.cpr",
+  "lt_type": [
+    "Books & Reference"
   ]
 },{
   "pkg": "it.feio.android.omninotes",
