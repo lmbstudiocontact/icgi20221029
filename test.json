@@ -1,16 +1,12 @@
-[
-  {
-    "lt_ct": [
-      {
-        "ct": "ct",
-        "lt_pkg": [
-          "com.urbandroid.babysleep"
-        ]
-      }
-    ],
-    "type": ""
-  },
-  {
-    "lt_ct": []
-  }
+[{
+  "pkg": "hr.dtakac.prognoza",
+  "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidm2DmPAel5eokDWJr2MDpcesNPRUuISai7f0tYWdAJ1JVy4706IhQgSYlgwrgVRHU="
+},
+{
+  "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidm2DmPAel5eokDWJr2MDpcesNPRUuISai7f0tYWdAJ1JVy4706IhQgSYlgwrgVRHU="
+},
+{
+  "pkg": null,
+  "lic": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidm2DmPAel5eokDWJr2MDpcesNPRUuISai7f0tYWdAJ1JVy4706IhQgSYlgwrgVRHU="
+}
 ]
