@@ -1,4 +1,16 @@
-[{
-  "lt_ct": []},{
-  "lt_ct": []}
+[
+  {
+    "lt_ct": [
+      {
+        "ct": "ct",
+        "lt_pkg": [
+          "com.urbandroid.babysleep"
+        ]
+      }
+    ],
+    "type": ""
+  },
+  {
+    "lt_ct": []
+  }
 ]
